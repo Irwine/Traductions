@@ -1,0 +1,120 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Anneaux à la main gauche (modifié) SSE</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="">
+			<optionalFileGroups order="Explicit">
+				<group name="Principal" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Anneaux à la main gauche (modifié)">
+							<description>Fichiers de base pour Skyrim Special Edition</description>
+              <image path="fomod\lhr.jpg"/>
+							<conditionFlags>
+								<flag name="skyrim">1</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Maillages d'anneau et textures" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="Vanilla">
+							<description>Définit l'utilisation des maillages vanilla de Skyrim par les anneaux de la main gauche.</description>
+              <image path="fomod\coverSkyrimSE.jpg"/>
+							<conditionFlags>
+								<flag name="mesh">1</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Gemling Queen Jewelery">
+							<description>Définit l'utilisation des maillages très polygonaux de Gemling Queen Ressources pour les anneaux à la main gauche.
+							Bien que non obligatoire, l'installation de Gemling Queen Jewelry est recommandée pour une correspondance partielle avec les anneaux de la main droite.</description>
+              <image path="fomod\gemling.jpg"/>
+							<conditionFlags>
+								<flag name="mesh">2</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="SMIM - Superbes Modifications Indispensables des Meshes">
+							<description>Définit l'utilisation des maillages très polygonaux de Superbes Modifications Indispensables des Meshes pour les anneaux à la main gauche. Le mod originel n'est pas requis, mais recommandé pour une correspondance totale avec les anneaux de la main droite.</description>
+              <image path="fomod\logoSMIM.png"/>
+							<conditionFlags>
+								<flag name="mesh">3</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Optionnel" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Anneaux à la main gauche vue à la 1re personne">
+							<description>Active les anneaux à la main gauche visible en mode vue à la 1re personne.
+							NE FONCTIONNE QUE POUR LES RACES DE BASE, et peut entrer en conflit avec les mods qui changent également les races de base.</description>
+              <image path="fomod\fpv.jpg"/>
+							<conditionFlags>
+								<flag name="fpv">1</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+	<conditionalFileInstalls>
+		<patterns>
+			<pattern>
+				<dependencies>
+					<flagDependency flag="skyrim" value="1"/>
+				</dependencies>
+				<files>
+					<file source="ESP\LeftHandRings.esp" destination="LeftHandRings.esp" priority="0"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies>
+					<flagDependency flag="skyrim" value="1"/>
+					<flagDependency flag="mesh" value="1"/>
+				</dependencies>
+				<files>
+					<folder source="BSA\Vanilla" destination="" priority="1"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies>
+					<flagDependency flag="skyrim" value="1"/>
+					<flagDependency flag="mesh" value="2"/>
+				</dependencies>
+				<files>
+					<folder source="BSA\Gemling" destination="" priority="1"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies>
+					<flagDependency flag="skyrim" value="1"/>
+					<flagDependency flag="mesh" value="3"/>
+				</dependencies>
+				<files>
+					<folder source="BSA\SMIM" destination="" priority="1"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies>
+					<flagDependency flag="fpv" value="1"/>
+				</dependencies>
+				<files>
+					<file source="1stPersonView\LeftHandRings_1stPersonView.esp" destination="LeftHandRings_1stPersonView.esp" priority="2"/>
+				</files>
+			</pattern>			
+		</patterns>
+	</conditionalFileInstalls>
+</config>
