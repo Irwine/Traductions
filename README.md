@@ -1,3 +1,4 @@
 # Traductions
-Répertoire de mes fichiers de traductions uploadée que je n'ai pas pu upload, faute d'accord ou autre.
+Répertoire de mes fichiers de traductions mises en ligne sur le nexus ou non.
+Ne sont disponibles ici que des .eet et quelques fichiers de traductions graphique.
 Si une traduction à jour existe allez plutôt la télécharger.
