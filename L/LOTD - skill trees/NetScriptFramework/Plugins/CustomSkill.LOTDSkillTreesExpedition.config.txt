@@ -12,8 +12,8 @@ Skydome = "LOTD Skill Trees/expedition.nif"
 SkydomeNormalNif = false
 
 # This should point to a global variable that contains the current level of skill. Must be set!
-LevelFile = "LegacyoftheDragonborn.esm"
-LevelId = 0x39FCE0
+LevelFile = ""
+LevelId = 0
 
 # This should point to a global variable that contains the ratio of level up of skill (how close to leveling
 # up is skill). Value must be between 0 and 1 always. Set float type on global variable when creating. Must be set!

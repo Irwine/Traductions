@@ -1,0 +1,211 @@
+#------------------------------------------------------------------
+# Name
+#------------------------------------------------------------------
+Name = "Enfant de dragon"
+
+#------------------------------------------------------------------
+# Description
+#------------------------------------------------------------------
+Description = "Soyez celui que la Couronne de fureur attendait, Ysmir, le Dragon du Septentrion. Maitrisez votre Thu'um et devenez le plus puissant parleur que Tamriel ait jamais connu."
+
+#------------------------------------------------------------------
+# Perk Menu Skydome
+#------------------------------------------------------------------
+Skydome = "Dragonborn\INTDragonbornPerkSkyDome.nif"
+SkydomeNormalNif = false
+
+#------------------------------------------------------------------
+# Skill Level
+#------------------------------------------------------------------
+LevelFile = ""
+LevelId = 0
+
+#------------------------------------------------------------------
+# Skill Progress
+#------------------------------------------------------------------
+RatioFile = "DragonbornShoutPerks.esp"
+RatioId = 0x801
+
+#------------------------------------------------------------------
+# Skill Level Up
+#------------------------------------------------------------------
+ShowLevelupFile = ""
+ShowLevelupId = 0
+
+#------------------------------------------------------------------
+# Show Perk Menu 
+#------------------------------------------------------------------
+ShowMenuFile = ""
+ShowMenuId = 0
+
+#------------------------------------------------------------------
+# Custom Perk Points
+#------------------------------------------------------------------
+PerkPointsFile = "DragonbornShoutPerks.esp"
+PerkPointsId = 0x802
+
+#------------------------------------------------------------------
+# Legendary Skill
+#------------------------------------------------------------------
+LegendaryFile = ""
+LegendaryId = 0
+
+#------------------------------------------------------------------
+# Skill Color
+#------------------------------------------------------------------
+ColorFile = ""
+ColorId = 0
+
+#------------------------------------------------------------------
+# Reload Settings
+#------------------------------------------------------------------
+DebugReloadFile = "DragonbornShoutPerks.esp"
+DebugReloadId = 0x804
+
+#------------------------------------------------------------------
+# Perk Tree Node 0
+#------------------------------------------------------------------
+Node0.Enable = true
+Node0.Links = "1"
+
+#------------------------------------------------------------------
+# Perk: Dragon Blood
+#------------------------------------------------------------------
+Node1.Enable = true
+Node1.PerkFile = "DragonbornShoutPerks.esp"
+Node1.PerkId = 0x80F
+Node1.X = 1.47
+Node1.Y = -0.4
+Node1.GridX = 0
+Node1.GridY = 0
+Node1.Links = "2, 4, 9"
+
+#------------------------------------------------------------------
+# Perk: Way of the Voice
+#------------------------------------------------------------------
+Node2.Enable = true
+Node2.PerkFile = "DragonbornShoutPerks.esp"
+Node2.PerkId = 0x825
+Node2.X = 1.47
+Node2.Y = 0.2
+Node2.GridX = 0
+Node2.GridY = 0
+Node2.Links = 
+
+#------------------------------------------------------------------
+# Perk: Inhale
+#------------------------------------------------------------------
+Node4.Enable = true
+Node4.PerkFile = "DragonbornShoutPerks.esp"
+Node4.PerkId = 0x81D
+Node4.X = -0.18
+Node4.Y = 0
+Node4.GridX = 0
+Node4.GridY = 0
+Node4.Links = "5"
+
+#------------------------------------------------------------------
+# Perk: Deep Breath
+#------------------------------------------------------------------
+Node5.Enable = true
+Node5.PerkFile = "DragonbornShoutPerks.esp"
+Node5.PerkId = 0xF1C
+Node5.X = -1.12
+Node5.Y = 0.8
+Node5.GridX = 0
+Node5.GridY = 0
+Node5.Links = "6"
+
+#------------------------------------------------------------------
+# Perk: Punishment Exhalation
+#------------------------------------------------------------------
+Node6.Enable = true
+Node6.PerkFile = "DragonbornShoutPerks.esp"
+Node6.PerkId = 0xF19
+Node6.X = -1.2
+Node6.Y = 2.2
+Node6.GridX = 0
+Node6.GridY = 0
+Node6.Links = "7"
+
+#------------------------------------------------------------------
+# Perk: Storm Voice
+#------------------------------------------------------------------
+Node7.Enable = true
+Node7.PerkFile = "DragonbornShoutPerks.esp"
+Node7.PerkId = 0x81E
+Node7.X = 0.3
+Node7.Y = 3
+Node7.GridX = 0
+Node7.GridY = 0
+Node7.Links = "8"
+
+#------------------------------------------------------------------
+# Perk: Al Du In
+#------------------------------------------------------------------
+Node8.Enable = true
+Node8.PerkFile = "DragonbornShoutPerks.esp"
+Node8.PerkId = 0xF1D
+Node8.X = -1
+Node8.Y = 4.5
+Node8.GridX = 0
+Node8.GridY = 0
+
+#------------------------------------------------------------------
+# Perk: Reactive Soul
+#------------------------------------------------------------------
+Node9.Enable = true
+Node9.PerkFile = "DragonbornShoutPerks.esp"
+Node9.PerkId = 0x824
+Node9.X = 3.18
+Node9.Y = 0
+Node9.GridX = 0
+Node9.GridY = 0
+Node9.Links = "10"
+
+#------------------------------------------------------------------
+# Perk: Hardened Armor
+#------------------------------------------------------------------
+Node10.Enable = true
+Node10.PerkFile = "DragonbornShoutPerks.esp"
+Node10.PerkId = 0x830
+Node10.X = 4.12
+Node10.Y = 0.8
+Node10.GridX = 0
+Node10.GridY = 0
+Node10.Links = "11"
+
+#------------------------------------------------------------------
+# Perk: Dragonguards' Heritage
+#------------------------------------------------------------------
+Node11.Enable = true
+Node11.PerkFile = "DragonbornShoutPerks.esp"
+Node11.PerkId = 0x82D
+Node11.X = 4.15
+Node11.Y = 2.2
+Node11.GridX = 0
+Node11.GridY = 0
+Node11.Links = "12"
+
+#------------------------------------------------------------------
+# Perk: The Tongue
+#------------------------------------------------------------------
+Node12.Enable = true
+Node12.PerkFile = "DragonbornShoutPerks.esp"
+Node12.PerkId = 0xC3F
+Node12.X = 2.6
+Node12.Y = 3
+Node12.GridX = 0
+Node12.GridY = 0
+Node12.Links = "13"
+
+#------------------------------------------------------------------
+# Perk: Paar Thur Nax
+#------------------------------------------------------------------
+Node13.Enable = true
+Node13.PerkFile = "DragonbornShoutPerks.esp"
+Node13.PerkId = 0x839
+Node13.X = 4
+Node13.Y = 4.5
+Node13.GridX = 0
+Node13.GridY = 0

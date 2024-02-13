@@ -1,0 +1,1089 @@
+----------------------------------------------------------------------------
+## To change the localised text simply change the name after the single '|'
+## Do not change anything in the 'Keys' collumn or the translation will fail
+## Do not change / delete any line numbers or add new lines in the file.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+KEYS						Translation
+----------------------------------------------------------------------------
+MSQ_Quest00					|Une seconde chance
+MSQ_Quest01					|Vivez une nouvelle vie
+MSQ_Quest02					|Libération
+MSQ_Quest03					|Avant la tempête
+MSQ_Quest04					|Tertre des Chutes tourmentées
+MSQ_Quest05					|L'élévation du dragon
+MSQ_Quest06					|The Way of the Voice
+MSQ_Quest07					|La corne de Jurgen Parlevent
+MSQ_Quest08					|Une Lame dans l'ombre
+MSQ_Quest09					|Immunité diplomatique
+MSQ_Quest10					|Coincé dans la Souricière
+MSQ_Quest11					|Le mur d'Alduin
+MSQ_Quest12					|La Gorge du Monde
+MSQ_Quest13					|Le savoir des anciens
+MSQ_Quest14					|Le trépas d'Alduin
+MSQ_Quest15					|Le Déchu
+MSQ_Quest16					|La saison éternelle
+MSQ_Quest17					|Paarthurnax
+MSQ_Quest18					|Le repaire du monstre
+MSQ_Quest19					|Sovngarde
+MSQ_Quest20					|La chasse au dragon
+----------------------------------------------------------------------------
+CWQuest00					|Dans la Légion
+CWQuest01					|La Couronne d'os
+CWQuest02					|Un message pour Blancherive
+CWQuest03					|La bataille de Blancherive
+CWQuest04					|La réunification de Bordeciel
+CWQuest05					|La bataille de Vendeaume
+CWQuest06					|Falsification
+CWQuest07					|Un lourd tribut
+CWQuest08					|Tenue de gala
+CWQuest09					|Libération : Fort Kastav
+CWQuest10					|La bataille de Fort Amol
+CWQuest11					|La bataille de Fort Dunstad
+CWQuest12					|La bataille de Fort Tiremuraille
+CWQuest13					|La bataille du Fort Néograd
+CWQuest14					|La bataille de Fort Busard
+CWQuest15					|La bataille de Fort Gardesol
+CWQuest16					|Avec les Sombrages
+CWQuest17					|La Couronne d'os
+CWQuest18					|Un message pour Blancherive
+CWQuest19					|La bataille de Blancherive
+CWQuest20					|La libération de Bordeciel
+CWQuest21					|La bataille de Solitude
+CWQuest22					|Falsification
+CWQuest23					|Un lourd tribut
+CWQuest24					|Libération : Fort Néograd
+CWQuest25					|La bataille de Fort Dunstad
+CWQuest26					|La bataille de Fort Tiremuraille
+CWQuest27					|La bataille de Fort Hraggstad
+CWQuest28					|La bataille de Fort Kastav
+CWQuest29					|La bataille de Fort Busard
+CWQuest30					|La bataille de Fort Gardesol
+----------------------------------------------------------------------------
+Main_DG_Quest00				|Garde de l'Aube
+Main_DG_Quest01				|Prise de conscience
+Main_DG_Quest02				|Lignée
+Main_DG_Quest03				|Un ordre nouveau
+Main_DG_Quest04				|La Prophétie
+Main_DG_Quest05				|Le Calice de Pierresang
+Main_DG_Quest06				|La Prophétie
+Main_DG_Quest07				|À la poursuite des échos
+Main_DG_Quest08				|Recherche de parchemin
+Main_DG_Quest09				|Au-delà de la mort
+Main_DG_Quest10				|À la recherche d'une révélation
+Main_DG_Quest11				|Visions inédites
+Main_DG_Quest12				|Toucher le ciel
+Main_DG_Quest13				|Jugement d'un pair
+----------------------------------------------------------------------------
+Main_DB_Quest00				|L'Enfant de dragon
+Main_DB_Quest01				|Le temple de Miraak
+Main_DB_Quest02				|Le destin des Skaals
+Main_DB_Quest03				|La purification des pierres
+Main_DB_Quest04				|La voie de la connaissance
+Main_DB_Quest05				|Le Cultivateur des Hommes
+Main_DB_Quest06				|Au sommet d'Apocrypha
+----------------------------------------------------------------------------
+CC01_Quest00				|Les morts sans repos
+CC01_Quest01				|Une vie à la ferme
+CC01_Quest02				|Entre pêcheurs
+CC01_Quest03				|Sous Bronzeflot
+CC01_Quest04				|Perspicace
+CC01_Quest05				|Prise du jour
+CC01_Quest06				|Pêche sous la pluie
+CC01_Quest07				|Extermination de crustacés
+CC01_Quest08				|Les plus sombres profondeurs
+CC01_Quest09				|La fin du voyage
+CC01_Quest10				|Légende de la pêche
+CC01_Quest11				|Poisson gelé
+CC01_Quest12				|Coeur d'or
+CC01_Quest13				|En un clin d'oeil
+CC01_Quest14				|Le concours
+CC01_Quest15				|Cours particuliers
+CC01_Quest16				|Le spiritueux
+CC01_Quest17				|Un festin mémorable
+CC01_Quest18				|Terreur cornue
+CC01_Quest19				|Les deux font la paire
+CC01_Quest20				|Brise-Vague
+CC01_Quest21				|Étude poussée
+CC01_Quest22				|Récupération de déchets
+CC01_Quest23				|Refaire le plein
+----------------------------------------------------------------------------
+CC02_Quest00				|Des envies suicidaires
+CC02_Quest01				|Une question de fierté
+CC02_Quest02				|Âme scindée
+CC02_Quest03				|Givre antique
+CC02_Quest04				|Coeur de cendre
+CC02_Quest05				|Combat des champions
+CC02_Quest06				|Par-delà la tombe
+CC02_Quest07				|Coule-Sang
+CC02_Quest08				|Colère bleue
+CC02_Quest09				|Des os pour le corbeau
+CC02_Quest10				|Frères de fer
+CC02_Quest11				|Achats à risque
+CC02_Quest12				|Vicaire négligent
+CC02_Quest13				|À double tranchant
+CC02_Quest14				|Rêves funèbres
+CC02_Quest15				|Idole du féru
+CC02_Quest16				|Saisons oubliées
+CC02_Quest17				|Un fils chanceux
+CC02_Quest18				|L'avantage du joueur
+CC02_Quest19				|Fantômes du Tribunal
+CC02_Quest20				|Des invités pour le dîner
+CC02_Quest21				|Coeur poupre
+CC02_Quest22				|Sa parole contre la leur
+CC02_Quest23				|Dans l'ombre
+CC02_Quest24				|Le sommeil des loups
+CC02_Quest25				|Plus puissante que l'épée
+CC02_Quest26				|Marchande disparue
+CC02_Quest27				|Mon familier vasard
+CC02_Quest28				|Chasseur nocturne
+CC02_Quest29				|Il était une fois, un chasseur
+CC02_Quest30				|Au bord du gouffre
+CC02_Quest31				|Reliques du Divin Croisé
+CC02_Quest32				|Tranche et cogne
+CC02_Quest33				|Voleur d'âmes
+CC02_Quest34				|Rapide comme une flèche
+CC02_Quest35				|Les Armes du Chaos
+CC02_Quest36				|La couronne dwemer
+CC02_Quest37				|Le cheval dwemer
+CC02_Quest38				|La bibliothèque perdue
+CC02_Quest39				|Le paladin perdu
+CC02_Quest40				|La Voie du pèlerin
+CC02_Quest41				|La Fosse
+CC02_Quest42				|L'Infatigable
+CC02_Quest43				|Balance penchée
+CC02_Quest44				|Viveflamme
+CC02_Quest45				|Quand le chat n'est pas là
+----------------------------------------------------------------------------
+CC03_Quest00				|Forgeage d'ambre et de folie
+CC03_Quest01				|Équilibre du pouvoir
+CC03_Quest02				|Du sang dans l'eau
+CC03_Quest03				|Pris au piège
+CC03_Quest04				|Créature de légende
+CC03_Quest05				|Crypte du Coeur
+CC03_Quest06				|Don de Kynareth
+CC03_Quest07				|Forgeage mazken et auréal
+CC03_Quest08				|Hendraheim
+CC03_Quest09				|Le Dovahkiin qui murmurait à l'oreille des chevaux
+CC03_Quest10				|Si j'avais un marteau
+CC03_Quest11				|Interception
+CC03_Quest12				|Légendes perdues
+CC03_Quest13				|Les yeux plus gros que le ventre
+CC03_Quest14				|Mon élytra de compagnie (Démentia)
+CC03_Quest15				|Mon élytra de compagnie (Mania)
+CC03_Quest16				|Mon chien de Nix à moi
+CC03_Quest17				|Myrwatch
+CC03_Quest18				|Brisenerfs
+CC03_Quest19				|Bijoux nordiques
+CC03_Quest20				|Familiers de Bordeciel
+CC03_Quest21				|Un bon coup de fourchette
+CC03_Quest22				|Restaurer l'ordre
+CC03_Quest23				|Préparation de Saturalia
+CC03_Quest24				|Sanctuaire de l'Ombre furtive
+CC03_Quest25				|Staada
+CC03_Quest26				|La Cause
+CC03_Quest27				|Les Conséquences
+CC03_Quest28				|Au bord de la ruine
+CC03_Quest29				|Le Capuchon gris de Nocturne
+CC03_Quest30				|Le réveil des morts
+CC03_Quest31				|Le sanctuaire et la manufacture
+CC03_Quest32				|Le bâton d'Hasedoki
+CC03_Quest33				|De l'autre côté du miroir
+CC03_Quest34				|Vils murmures
+CC03_Quest35				|Vigile impie
+----------------------------------------------------------------------------
+Dawnstar_Quest00			|Tuez le géant (Skald)
+Dawnstar_Quest01			|Les fragments du passé
+Dawnstar_Quest02			|Cauchemar éveillé
+Dawnstar_Quest03			|Les loups de mer
+Dawnstar_Quest04			|Fouiller le donjon (Frida)
+Dawnstar_Quest05			|À votre santé (Karl)
+Dawnstar_Quest06			|Précieux cadeaux (Rustleif)
+Dawnstar_Quest07			|Thane du Clos
+Dawnstar_Quest08			|Extraction de minerai (Beitild)
+Dawnstar_Quest09			|Extraction de minerai (Leigelf)
+----------------------------------------------------------------------------
+Falkreath_Quest00			|Un Daedra pour ami
+Falkreath_Quest01			|Sombre aïeul
+Falkreath_Quest02			|Un soir au clair de lune
+Falkreath_Quest03			|Mort au chef des bandits (Siddgeir)
+Falkreath_Quest04			|Couper du petit bois (Hert)
+Falkreath_Quest05			|Livraison (Thadgeir)
+Falkreath_Quest06			|Fouiller le donjon (Runil)
+Falkreath_Quest07			|Récolte des cultures (Mathies)
+Falkreath_Quest08			|Précieux cadeaux (Siddgeir)
+Falkreath_Quest09			|Un tout petit vol (Dengeir)
+Falkreath_Quest10			|Thane d'Épervine
+----------------------------------------------------------------------------
+Markarth_Quest00			|Livraison discrète
+Markarth_Quest01			|Acheter un objet dwemer
+Markarth_Quest02			|Plaqué sang
+Markarth_Quest03			|À l'attention de Calcelmo
+Markarth_Quest04			|Mort au chef des Parjures (Igmund)
+Markarth_Quest05			|Objet perdu
+Markarth_Quest06			|Nimhe l'Empoisonneuse
+Markarth_Quest07			|La mine de Cidhna
+Markarth_Quest08			|Recherche et arrestation
+Markarth_Quest09			|Apprentissage
+Markarth_Quest10			|La conspiration des Parjures
+Markarth_Quest11			|Le coeur de Dibella I
+Markarth_Quest12			|Le coeur de Dibella II
+Markarth_Quest13			|La maison des horreurs
+Markarth_Quest14			|L'expédition perdue
+Markarth_Quest15			|Le goût de la mort (Intro)
+Markarth_Quest16			|Le goût de la mort
+Markarth_Quest17			|Petite discussion (Omluag)
+Markarth_Quest18			|Livraison (Banning)
+Markarth_Quest19			|Fouiller le donjon (Jarl Igmund)
+Markarth_Quest20			|Bagarre (Cosnach)
+Markarth_Quest21			|Charité (Degaine)
+Markarth_Quest22			|À votre santé (Degaine)
+Markarth_Quest23			|À votre santé (Cosnach)
+Markarth_Quest24			|Thane de la Crevasse
+----------------------------------------------------------------------------
+Morthal_Quest00				|Le secret de Falion 
+Morthal_Quest01				|Pour Morthal
+Morthal_Quest02				|Repose en paix
+Morthal_Quest03				|Couper du petit bois (Hroggar)
+Morthal_Quest04				|Couper du petit bois (Jorgen)
+Morthal_Quest05				|Livraison (Idgrod)
+Morthal_Quest06				|Bagarre (Benor)
+Morthal_Quest07				|Précieux cadeaux (Lami)
+Morthal_Quest08				|Thane de Hjaalmarche
+----------------------------------------------------------------------------
+Riften_Quest00				|À mains nues
+Riften_Quest01				|Par ici l'épée !
+Riften_Quest02				|La main dans le sac
+Riften_Quest03				|Lointains souvenirs
+Riften_Quest04				|Quelques services pour Ingun
+Riften_Quest05				|Le retour de Sinistrale
+Riften_Quest06				|Un coup de main
+Riften_Quest07				|Jeu de piste
+Riften_Quest08				|Froid comme la glace
+Riften_Quest09				|Pèlerinage
+Riften_Quest10				|Chose promise
+Riften_Quest11				|Le joaillier
+Riften_Quest12				|Marché conclu
+Riften_Quest13				|Livraison spéciale
+Riften_Quest14				|Message d'amour
+Riften_Quest15				|Stabilisation
+Riften_Quest16				|Feu nourri
+Riften_Quest17				|L'offre et la demande
+Riften_Quest18				|Thane de Faillaise
+Riften_Quest19				|Les liens du mariage
+Riften_Quest20				|Le livre d'amour
+Riften_Quest21				|Quand l'amour s'en mêle
+Riften_Quest22				|L'expédition
+Riften_Quest23				|Grise mine
+Riften_Quest24				|Sous la table
+Riften_Quest25				|Profondeurs insondables
+Riften_Quest26				|Dette de Vald
+Riften_Quest27				|Charité (Edda)
+Riften_Quest28				|Charité (Snilf)
+----------------------------------------------------------------------------
+Solitude_Quest00			|Livraison (Sorex)
+Solitude_Quest01			|Hommage à Élisif
+Solitude_Quest02			|Le luth de Finn
+Solitude_Quest03			|L'étoffe du jarl
+Solitude_Quest04			|Un vampire à tuer (Sybille Stentor)
+Solitude_Quest05			|Extinction des feux
+Solitude_Quest06			|Pas de nouvelles, bonnes nouvelles
+Solitude_Quest07			|La flûte de Pantea
+Solitude_Quest08			|Retour en grâce
+Solitude_Quest09			|Tambour de Rjorn
+Solitude_Quest10			|À petit feu
+Solitude_Quest11			|L'homme qui criait au loup
+Solitude_Quest12			|La folie incarnée
+Solitude_Quest13			|Le vin épicé
+Solitude_Quest14			|Le réveil de la Reine-louve
+Solitude_Quest15			|Petite discussion (Octieve)
+Solitude_Quest16			|Fouiller le donjon (Noster)
+Solitude_Quest17			|Mort au chef des bandits (Ahtar)
+Solitude_Quest18			|Charité (Dervenin)
+Solitude_Quest19			|Charité (Noster)
+Solitude_Quest20			|Charité (Svari)
+Solitude_Quest21			|Précieux cadeaux (Aldis)
+Solitude_Quest22			|Thane d'Haafingar
+----------------------------------------------------------------------------
+Whiterun_Quest00			|Amulette d'Arkay d'Andurs
+Whiterun_Quest01			|Extraction de Bière argonienne
+Whiterun_Quest02			|Malmener Braith
+Whiterun_Quest03			|Un espadon pour une Grand homme
+Whiterun_Quest04			|Un moment de besoin
+Whiterun_Quest05			|Absent au combat
+Whiterun_Quest06			|Des sels pour Arcadia
+Whiterun_Quest07			|Grotte de l'Arbre endormi
+Whiterun_Quest08			|Les bienfaits de la nature
+Whiterun_Quest09			|La Porte murmurante
+Whiterun_Quest10			|Petite discussion (Carlotta)
+Whiterun_Quest11			|Couper du petit bois (Hulda)
+Whiterun_Quest12			|Fouiller le donjon (Amren)
+Whiterun_Quest13			|Bagarre (Uthgerd l'Inflexible)
+Whiterun_Quest14			|Charité (Brenuin)
+Whiterun_Quest15			|Charité (Lucia)
+Whiterun_Quest16			|Précieux cadeaux (Ysolda)
+Whiterun_Quest17			|Thane de Blancherive
+----------------------------------------------------------------------------
+Windhelm_Quest00			|Du sang sur la glace
+Windhelm_Quest01			|Livraison (Hillevi)
+Windhelm_Quest02			|Trouvez l'assassin thalmor
+Windhelm_Quest03			|Rafistolage de Fiole
+Windhelm_Quest04			|Résistance à l'Est
+Windhelm_Quest05			|Ça a toujours été là (Revyn Sadri)
+Windhelm_Quest06			|La Fiole blanche
+Windhelm_Quest07			|Négociation (Explore-les-Marais)
+Windhelm_Quest08			|Un tout petit vol (Pieds-dans-l'Eau)
+Windhelm_Quest09			|Précieux cadeaux (Torbjorn)
+Windhelm_Quest10			|À votre santé (Torbjorn)
+Windhelm_Quest11			|Mort au chef des bandits (Brunwulf)
+Windhelm_Quest12			|Un maître impitoyable
+Windhelm_Quest13			|Thane d'Estemarche
+Windhelm_Quest14			|Bagarre (Rolff)
+Windhelm_Quest15			|Fouiller le donjon (Oengul)
+Windhelm_Quest16			|Fouiller le donjon (Shahvee)
+Windhelm_Quest17			|Livraison (Adonato)
+Windhelm_Quest18			|Charité (Angrenor)
+Windhelm_Quest19			|Charité (Silda)
+----------------------------------------------------------------------------
+Winterhold_Quest00			|Peines noyées
+Winterhold_Quest01			|Petite discussion (Haran)
+Winterhold_Quest02			|Fouiller le donjon (Jarl Korir)
+Winterhold_Quest03			|À votre santé (Ranmir)
+Winterhold_Quest04			|Un tout petit vol (Malur)
+Winterhold_Quest05			|Thane de Fortdhiver
+----------------------------------------------------------------------------
+RavenRock_Quest00			|Pique et pique et colégram
+RavenRock_Quest01			|Grand nettoyage
+RavenRock_Quest02			|Jusqu'à plus soif
+RavenRock_Quest03			|Livraison de gelée
+RavenRock_Quest04			|Première édition
+RavenRock_Quest05			|La descente finale
+RavenRock_Quest06			|Une histoire de goût
+RavenRock_Quest07			||La marche macabre
+RavenRock_Quest08			|Acquittement
+RavenRock_Quest09			|Coup de collier
+RavenRock_Quest10			|Prohibition
+RavenRock_Quest11			|Un plat qui se mange froid
+----------------------------------------------------------------------------
+SkaalVillage_Quest00		|Convaincre Nikulas
+SkaalVillage_Quest01		|Les liens du sang
+SkaalVillage_Quest02		|L'héritage perdu
+SkaalVillage_Quest03		|Une nouvelle source de stalhrim
+SkaalVillage_Quest04		|Une faveur pour Morwen
+SkaalVillage_Quest05		|Mort au chef des bandits (Fanari)
+----------------------------------------------------------------------------
+SmallTowns_Quest00			|Une belle lettre
+SmallTowns_Quest01			|La montée des marches
+SmallTowns_Quest02			|Hydromel du Souffle du dragon
+SmallTowns_Quest03			|Érik le Tueur
+SmallTowns_Quest04			|Peaux d'ours
+SmallTowns_Quest05			|Le voile se lève
+SmallTowns_Quest06			|À moi, à toi
+SmallTowns_Quest07			|Livraison spéciale
+SmallTowns_Quest08			|La goutte d'eau en trop
+SmallTowns_Quest09			|La Griffe d'or
+SmallTowns_Quest10			|Couper du petit bois (Hod)
+SmallTowns_Quest11			|Couper du petit bois (Horgeir)
+SmallTowns_Quest12			|Couper du petit bois (Temba Grandbras)
+SmallTowns_Quest13			|Récolte des cultures (Azzada Lylvieve)
+SmallTowns_Quest14			|Récolte des cultures (Boti)
+SmallTowns_Quest15			|Récolte des cultures (Lemkil)
+SmallTowns_Quest16			|Récolte des cultures (Reldith)
+SmallTowns_Quest17			|À votre santé (Embry)
+SmallTowns_Quest18			|Charité (Narfi)
+----------------------------------------------------------------------------
+TelMithryn_Quest00	|Les bâtons d'Azra
+TelMithryn_Quest01	|Nécropsie de Roncecoeur
+TelMithryn_Quest02	|Cobaye (A)
+TelMithryn_Quest03	|Cobaye (B)
+TelMithryn_Quest04	|Retour aux cendres
+TelMithryn_Quest05	|Remède pour une tour
+TelMithryn_Quest06	|Coeur de pierre
+TelMithryn_Quest07	|Chasse et cueillette
+TelMithryn_Quest08	|Savoir perdu
+TelMithryn_Quest09	|Une nouvelle dette
+TelMithryn_Quest10	|De vieux amis
+TelMithryn_Quest11	|Question d'intendance
+TelMithryn_Quest12	|Recherches des Telvanni
+TelMithryn_Quest13	|Vent et sable
+----------------------------------------------------------------------------
+Thirsk_Quest00	|Le chef de la salle des banquets
+Thirsk_Quest01	|Un service pour Elmus (Baies)
+Thirsk_Quest02	|Un service pour Elmus (Hydromel)
+Thirsk_Quest03	|Un service pour Halbarn
+Thirsk_Quest04	|Un service pour Hilund
+Thirsk_Quest05	|Reprenez Thirsk
+Thirsk_Quest06	|Rumeurs sur Thirsk
+----------------------------------------------------------------------------
+CollegeOfWinterhold_Quest00	|Premières leçons
+CollegeOfWinterhold_Quest01	|Sous Saarthal
+CollegeOfWinterhold_Quest02	|Les livres perdus
+CollegeOfWinterhold_Quest03	|Les meilleures intentions
+CollegeOfWinterhold_Quest04	|Révélation de l'invisible
+CollegeOfWinterhold_Quest05	|État d'urgence
+CollegeOfWinterhold_Quest06	|Le Bâton de Magnus
+CollegeOfWinterhold_Quest07	|L'Oeil de Magnus
+CollegeOfWinterhold_Quest08	|Le rituel d'altération
+CollegeOfWinterhold_Quest09	|L'entreprise d'Arniel I
+CollegeOfWinterhold_Quest10	|L'entreprise d'Arniel II
+CollegeOfWinterhold_Quest11	|L'entreprise d'Arniel III
+CollegeOfWinterhold_Quest12	|L'entreprise d'Arniel IV
+CollegeOfWinterhold_Quest13	|L'entraînement de Brelyna
+CollegeOfWinterhold_Quest14	|Le rituel de conjuration
+CollegeOfWinterhold_Quest15	|Le rituel de destruction
+CollegeOfWinterhold_Quest16	|Noms oubliés
+CollegeOfWinterhold_Quest17	|Le rituel d'illusion
+CollegeOfWinterhold_Quest18	|L'expérience de J'zargo
+CollegeOfWinterhold_Quest19	|La demande d'Onmund
+CollegeOfWinterhold_Quest20	|Le rituel de guérison
+CollegeOfWinterhold_Quest21	|Les apprentis disparus
+CollegeOfWinterhold_Quest22	|Réplique
+CollegeOfWinterhold_Quest23	|Habile soustraction
+CollegeOfWinterhold_Quest24	|Allez me chercher ce livre !
+CollegeOfWinterhold_Quest25	|Gemmes spirituelles
+CollegeOfWinterhold_Quest26	|Perte d'équilibre
+CollegeOfWinterhold_Quest27	|Le vol des notes
+CollegeOfWinterhold_Quest28	|Réapprovisionnement en gemmes spirituelles
+CollegeOfWinterhold_Quest29	|Le mage renégat
+CollegeOfWinterhold_Quest30	|Les réflexions de Shalidor
+CollegeOfWinterhold_Quest31	|Tolfdir le Distrait
+----------------------------------------------------------------------------
+Companions_Quest00	|Prenez les armes
+Companions_Quest01	|Une question d'honneur
+Companions_Quest02	|La Main d'argent
+Companions_Quest03	|Dette de sang
+Companions_Quest04	|Pure vengeance
+Companions_Quest05	|Gloire funèbre
+Companions_Quest06	|Extermination animale (Bête)
+Companions_Quest07	|Extermination animale (Antre)
+Companions_Quest08	|Collection de peaux
+Companions_Quest09	|Les chercheurs de dragons
+Companions_Quest10	|Criminel en fuite
+Companions_Quest11	|Héritage de famille
+Companions_Quest12	|Mercenariat
+Companions_Quest13	|Pureté (Farkas)
+Companions_Quest14	|Pureté (Vilkas)
+Companions_Quest15	|Mission de sauvetage
+Companions_Quest16	|Récupération
+Companions_Quest17	|Vol de plans
+Companions_Quest18	|Au coeur de la cible
+Companions_Quest19	|Les totems d'Hircine
+Companions_Quest20	|Défense de Bordeciel
+----------------------------------------------------------------------------
+DarkBrotherhood_Quest00	|La fin de l'innocence
+DarkBrotherhood_Quest01	|Les aléas du voyage
+DarkBrotherhood_Quest02	|Mauvaises fréquentations
+DarkBrotherhood_Quest03	|Le Sanctuaire
+DarkBrotherhood_Quest04	|Un deuil impossible
+DarkBrotherhood_Quest05	|Chuchotements dans l'obscurité
+DarkBrotherhood_Quest06	|Révélation
+DarkBrotherhood_Quest07	|Jusqu'à ce que la mort nous sépare
+DarkBrotherhood_Quest08	|Un plan machiavélique
+DarkBrotherhood_Quest09	|Comment soigner la folie
+DarkBrotherhood_Quest10	|Fatale recette
+DarkBrotherhood_Quest11	|L'assassinat d'un empire
+DarkBrotherhood_Quest12	|La Mort incarnée
+DarkBrotherhood_Quest13	|Gloire à Sithis !
+DarkBrotherhood_Quest14	|Anéantissez la Confrérie noire !
+DarkBrotherhood_Quest15	|Contrat : Tuer Agnis
+DarkBrotherhood_Quest16	|Contrat : Tuer Anoriath
+DarkBrotherhood_Quest17	|Contrat : Tuer Beitild
+DarkBrotherhood_Quest18	|Contrat : Tuer Deekus
+DarkBrotherhood_Quest19	|Contrat : Tuer Ennodius Papius
+DarkBrotherhood_Quest20	|Contrat : Tuer Helvard
+DarkBrotherhood_Quest21	|Contrat : Tuer Hern
+DarkBrotherhood_Quest22	|Contrat : Tuer Lurbuk
+DarkBrotherhood_Quest23	|Contrat : Tuer Maluril
+DarkBrotherhood_Quest24	|Contrat : Tuer Ma'randru-jo
+DarkBrotherhood_Quest25	|Contrat : Tuer Narfi
+DarkBrotherhood_Quest26	|Contrat : Tuer Safia
+DarkBrotherhood_Quest27	|Trouvez l'assassin d'autrefois
+DarkBrotherhood_Quest28	|Prendre le trésor caché I
+DarkBrotherhood_Quest29	|Prendre le trésor caché II
+DarkBrotherhood_Quest30	|Prendre le trésor caché III
+DarkBrotherhood_Quest31	|Prendre le trésor caché IV
+DarkBrotherhood_Quest32	|On n'est bien que chez soi
+DarkBrotherhood_Quest33	|Longue vie à la Confrérie noire
+----------------------------------------------------------------------------
+ThievesGuild_Quest00	|La supercherie de Bryjnolf
+ThievesGuild_Quest01	|Les affaires sont les affaires
+ThievesGuild_Quest02	|Sans ambiguïté
+ThievesGuild_Quest03	|Découragement
+ThievesGuild_Quest04	|L'imprudence de l'amateur
+ThievesGuild_Quest05	|Le silence est d'or
+ThievesGuild_Quest06	|Obscures réponses
+ThievesGuild_Quest07	|La poursuite
+ThievesGuild_Quest08	|La Trinité restaurée
+ThievesGuild_Quest09	|Aveuglement
+ThievesGuild_Quest10	|Le retour de l'ombre
+ThievesGuild_Quest11	|Une nouvelle direction
+ThievesGuild_Quest12	|Bienvenue dans la Famille
+ThievesGuild_Quest13	|Tous les moyens sont bons
+ThievesGuild_Quest14	|Tous les moyens sont bons (Intro)
+ThievesGuild_Quest15	|Vols en pagaille
+ThievesGuild_Quest16	|Receleur de caravane
+ThievesGuild_Quest17	|Le jeu de la mort
+ThievesGuild_Quest18	|Une amnistie méritée
+ThievesGuild_Quest19	|Le bon côté des choses
+ThievesGuild_Quest20	|Les Ombres de l'Automne
+ThievesGuild_Quest21	|Le Sload douillet
+ThievesGuild_Quest22	|Saccage
+ThievesGuild_Quest23	|Cambriolage
+ThievesGuild_Quest24	|Vol à la tire
+ThievesGuild_Quest25	|Attaque armée
+ThievesGuild_Quest26	|Faux et usage de faux
+ThievesGuild_Quest27	|Pièce à conviction
+ThievesGuild_Quest28	|Rapine
+----------------------------------------------------------------------------
+Dawnguard_Quest00	|Recruter de nouvelles forces
+Dawnguard_Quest01	|Technologie ancienne
+Dawnguard_Quest02	|Lumière purificatrice
+Dawnguard_Quest03	|Cache-cache
+Dawnguard_Quest04	|Chasse au monstre
+Dawnguard_Quest05	|La justice du jarl
+Dawnguard_Quest06	|Relique perdue
+Dawnguard_Quest07	|Frappe préventive
+Dawnguard_Quest08	|Sauvetage
+----------------------------------------------------------------------------
+Vampires_Quest00	|Les Amulettes de Magie nocturne
+Vampires_Quest01	|Éradication de la Garde de l'aube
+Vampires_Quest02	|Le cadeau
+Vampires_Quest03	|Les Anneaux de Magie du sang
+Vampires_Quest04	|Ancien pouvoir
+Vampires_Quest05	|Mort à la bête
+Vampires_Quest06	|Tromper le troupeau
+Vampires_Quest07	|Nouvelles allégeances
+Vampires_Quest08	|Protéger la lignée
+Vampires_Quest09	|La chasse
+----------------------------------------------------------------------------
+Dungeons_Quest00	|Angarvunde
+Dungeons_Quest01	|Ansilvund
+Dungeons_Quest02	|L'affaire des harfreuses
+Dungeons_Quest03	|Repentir
+Dungeons_Quest04	|Assiégez le Culte du Dragon
+Dungeons_Quest05	|Abysse d'Hiveronde
+Dungeons_Quest06	|La Dame Pâle
+Dungeons_Quest07	|Le parchemin d'Anska
+Dungeons_Quest08	|Le culte ancestral
+Dungeons_Quest09	|L'âge de raison
+Dungeons_Quest10	|Refuge du menteur
+Dungeons_Quest11	|Arquebrumes
+Dungeons_Quest12	|Un service pour Telrav
+Dungeons_Quest13	|Ragnvald
+Dungeons_Quest14	|Cairn du rebelle
+Dungeons_Quest15	|Gorge des voleurs
+Dungeons_Quest16	|Le sauveur de Selveni Nethri
+Dungeons_Quest17	|Infiltration
+Dungeons_Quest18	|Les trois réceptacles
+Dungeons_Quest19	|Volskygge
+Dungeons_Quest20	|La loi du silence
+Dungeons_Quest21	|Le tertre d'Yngol
+----------------------------------------------------------------------------
+Misc_DB_Quest00	|Le Balafré
+Misc_DB_Quest01	|Le guerrier d'ébonite
+Misc_DB_Quest02	|La folie de Hrodulf
+Misc_DB_Quest03	|Les épreuves de Kagrumez
+Misc_DB_Quest04	|Invoquer Karstaag
+Misc_DB_Quest05	|Sorti de terre
+Misc_DB_Quest06	|Livre noir - Les légendes inconnues
+Misc_DB_Quest07	|Livre noir - L'heure du changement
+Misc_DB_Quest08	|Livre noir - Le régent au teint jaune
+Misc_DB_Quest09	|Livre noir - Filament et filigrane
+Misc_DB_Quest10	|Livre noir - Le crépuscule caché
+----------------------------------------------------------------------------
+Misc_DG_Quest00	|Apprendre un cri (Durnehviir)
+Misc_DG_Quest01	|Quête des livres du Val oublié
+Misc_DG_Quest02	|L'impatience d'un saint
+Misc_DG_Quest03	|Perdue dans les âges
+Misc_DG_Quest04	|Arvak
+----------------------------------------------------------------------------
+Side_SK_Quest00	|L'amulette de lune
+Side_SK_Quest01	|Extraire un Argonien
+Side_SK_Quest02	|Le message de Gharol
+Side_SK_Quest03	|Les épreuves sacrées de Kyne
+Side_SK_Quest04	|Mains du Forgeron
+Side_SK_Quest05	|La fuite ou le combat
+Side_SK_Quest06	|Les Mots de puissance
+Side_SK_Quest07	|Mine de Sanuarach
+Side_SK_Quest08	|Mine de Kolskeggr
+Side_SK_Quest09	|Les sels de givre de Dravynea
+Side_SK_Quest10	|La tribu maudite
+Side_SK_Quest11	|Respect du maître
+Side_SK_Quest12	|Grotte de Vertemousse
+Side_SK_Quest13	|Le fantôme du Vieux-Hroldan
+Side_SK_Quest14	|L'appel de Boéthia
+Side_SK_Quest15	|Lettre de Rogatus
+Side_SK_Quest16	|Doux jazbay
+Side_SK_Quest17	|La quête de l'extraordinaire
+Side_SK_Quest18	|Étoile noire
+Side_SK_Quest19	|Le seul remède
+Side_SK_Quest20	|Doline de Soljund
+Side_SK_Quest21	|La lumière de l'aube
+Side_SK_Quest22	|Livraison de paiement
+Side_SK_Quest23	|Une nuit mémorable
+Side_SK_Quest24	|Une légende interdite
+Side_SK_Quest25	|La Nirnroot cramoisie
+----------------------------------------------------------------------------
+Radi_SK_Quest00	|Petite discussion (Iddra)
+Radi_SK_Quest01	|Un bandit à tuer
+Radi_SK_Quest02	|Un dragon à tuer
+Radi_SK_Quest03	|Un géant à tuer
+Radi_SK_Quest04	|Un parjure à tuer
+Radi_SK_Quest05	|Couper du petit bois (Aeri)
+Radi_SK_Quest06	|Couper du petit bois (Grosta)
+Radi_SK_Quest07	|Couper du petit bois (Ganna)
+Radi_SK_Quest08	|Couper du petit bois (Gilfre)
+Radi_SK_Quest09	|Couper du petit bois (Hjorunn)
+Radi_SK_Quest10	|Livraison (Aeri)
+Radi_SK_Quest11	|Livraison (Sondas)
+Radi_SK_Quest12	|La traque du dragon
+Radi_SK_Quest13	|Recherches draconiques
+Radi_SK_Quest14	|Fouiller le donjon (Roggi)
+Radi_SK_Quest16	|Récolte des cultures (Addvild)
+Radi_SK_Quest17	|Récolte des cultures (Alfhild)
+Radi_SK_Quest18	|Récolte des cultures (Avrusa)
+Radi_SK_Quest19	|Récolte des cultures (Belyn)
+Radi_SK_Quest20	|Récolte des cultures (Bolfrida)
+Radi_SK_Quest21	|Récolte des cultures (Katla)
+Radi_SK_Quest22	|Récolte des cultures (Severio)
+Radi_SK_Quest23	|Récolte des cultures (Synda)
+Radi_SK_Quest24	|Récolte des cultures (Tulvur)
+Radi_SK_Quest25	|Récolte des cultures (Vigdis)
+Radi_SK_Quest26	|Mort au chef des bandits (Annekke)
+Radi_SK_Quest27	|Extraction de minerai (Dushnamub)
+Radi_SK_Quest28	|Extraction de minerai (Gestur)
+Radi_SK_Quest29	|Extraction de minerai (Gharol)
+Radi_SK_Quest30	|Extraction de minerai (Grogmar)
+Radi_SK_Quest31	|Extraction de minerai (Kjeld)
+Radi_SK_Quest32	|Extraction de minerai (Pavo Attius)
+Radi_SK_Quest33	|Extraction de minerai (Perth)
+Radi_SK_Quest34	|Extraction de minerai (Shuftharz)
+Radi_SK_Quest35	|Extraction de minerai (Skaggi)
+Radi_SK_Quest36	|Extraction de minerai (Thorgar)
+Radi_SK_Quest37	|Extraction de minerai (Verner)
+Radi_SK_Quest38	|Bagarre (Chef Burguk)
+Radi_SK_Quest39	|Bagarre (Chef Larak)
+Radi_SK_Quest40	|Bagarre (Chef Mauhulakh)
+----------------------------------------------------------------------------
+Clockwork_Quest00	|Au pied de la montagne
+Clockwork_Quest01	|Une ombre sous la montagne
+Clockwork_Quest02	|À vapeur
+Clockwork_Quest03	|Coeur de cristal
+Clockwork_Quest04	|Je contre Moi
+Clockwork_Quest05	|Un lit de poussière
+Clockwork_Quest06	|Enchantement de bâton
+----------------------------------------------------------------------------
+Falskaar_Quest00	|Un ancien portail
+Falskaar_Quest01	|Bienvenue à Falskaar
+Falskaar_Quest02	|Une horde cupide
+Falskaar_Quest03	|Avertir Valfred
+Falskaar_Quest04	|Force et sagesse
+Falskaar_Quest05	|Savoir perdu
+Falskaar_Quest06	|Fort Urokk
+Falskaar_Quest07	|Retour de bâton
+Falskaar_Quest08	|Le Coeur des Dieux
+Falskaar_Quest09	|L'artisan et son chef-d'oeuvre
+Falskaar_Quest10	|Trouvé par hasard
+Falskaar_Quest11	|Un cadeau du passé
+Falskaar_Quest12	|Une baie des plus spéciales
+Falskaar_Quest13	|Liens du sang
+Falskaar_Quest14	|De vieux amis
+Falskaar_Quest15	|Retour à la maison
+Falskaar_Quest16	|Eaux troubles
+Falskaar_Quest17	|Les chants des morts
+Falskaar_Quest18	|Écraser l'Écraseur
+Falskaar_Quest19	|Les profondeurs oubliées
+Falskaar_Quest20	|La Dame du phare
+Falskaar_Quest21	|Aura maléfique
+Falskaar_Quest22	|Les rêves d'Oblivion
+Falskaar_Quest23	|Pas vu, pas pris
+Falskaar_Quest24	|Bétail perturbé
+Falskaar_Quest25	|La pêche au gros
+----------------------------------------------------------------------------
+HelgenReborn_Quest00	|Renaissance d'Helgen
+HelgenReborn_Quest01	|Moments de désespoir
+HelgenReborn_Quest02	|Molon Labe
+HelgenReborn_Quest03	|Une ville sur une colline
+HelgenReborn_Quest04	|Plaies amères
+HelgenReborn_Quest05	|Terre de Cienne
+HelgenReborn_Quest06	|Retour à la maison
+HelgenReborn_Quest07	|Relève de la garde - Wanan-Dun
+HelgenReborn_Quest08	|Relève de la garde - Joto
+HelgenReborn_Quest09	|Relève de la garde - Herd
+HelgenReborn_Quest10	|Relève de la garde - Orianthi
+HelgenReborn_Quest11	|Relève de la garde - Sorian
+HelgenReborn_Quest12	|Relève de la garde - Kindrick
+HelgenReborn_Quest13	|Relève de la garde - Toralf
+HelgenReborn_Quest14	|Relève de la garde - Savard
+HelgenReborn_Quest15	|Relève de la garde - Herd
+HelgenReborn_Quest16	|Relève de la garde - Kar
+HelgenReborn_Quest17	|Relève de la garde - Viggun
+HelgenReborn_Quest18	|Relève de la garde - Alof
+HelgenReborn_Quest19	|Relève de la garde - Surus
+HelgenReborn_Quest20	|Relève de la garde - Cidius
+HelgenReborn_Quest21	|Relève de la garde - Herd
+HelgenReborn_Quest22	|Relève de la garde - Josslin
+HelgenReborn_Quest23	|Relève de la garde - Ciel
+HelgenReborn_Quest24	|Relève de la garde - Miles
+----------------------------------------------------------------------------
+Moonpath_Quest00	|Par la lumière de la lune
+Moonpath_Quest01	|Le goût sucré d'Elsweyr
+Moonpath_Quest02	|Incursion
+Moonpath_Quest03	|Reconstruire le passé
+Moonpath_Quest04	|Le présent d'un ami
+Moonpath_Quest05	|Un invité au dîner
+Moonpath_Quest06	|Le style du désert
+----------------------------------------------------------------------------
+MoonAndStar_Quest00	|Moon And Star
+MoonAndStar_Quest01	|Puisqu'un chien ne suffit pas
+MoonAndStar_Quest02	|Une faveur pour Bal-Ran
+MoonAndStar_Quest03	|Une faveur pour Belvadyr
+MoonAndStar_Quest04	|Une faveur pour Selyse
+MoonAndStar_Quest05	|Une faveur pour Toren
+----------------------------------------------------------------------------
+ProjectAHO_Quest00	|Mauvais endroit, mauvais moment
+ProjectAHO_Quest01	|Un voisin problématique
+ProjectAHO_Quest02	|Pas de cadavre, pas d'affaire
+ProjectAHO_Quest03	|Une boisson d'érudit
+ProjectAHO_Quest04	|L'héritage d'une race éteinte
+ProjectAHO_Quest05	|Liberté de choix
+ProjectAHO_Quest06	|Fissure et gazouillis
+ProjectAHO_Quest07	|Un parfum de nostalgie
+ProjectAHO_Quest08	|La bague de la dame
+ProjectAHO_Quest09	|Le poids du passé
+ProjectAHO_Quest10	|L'Orsimer de la Maison Telvanni
+ProjectAHO_Quest11	|L'héritage des Ancêtres
+ProjectAHO_Quest12	|Signes d'attention
+ProjectAHO_Quest13	|Un art oublié
+ProjectAHO_Quest14	|Danger dans l'ombre
+ProjectAHO_Quest15	|L'ombre du passé
+----------------------------------------------------------------------------
+TeldrynSerious_Quest00	|Enquêtez sur la scène
+TeldrynSerious_Quest01	|Question de confiance
+TeldrynSerious_Quest02	|Mémoires d'un réfugié
+----------------------------------------------------------------------------
+WheelsOfLull_Quest00	|Dans les profondeurs
+WheelsOfLull_Quest01	|L'espion qui venait du ciel
+WheelsOfLull_Quest02	|Le Mer du Haut Château
+WheelsOfLull_Quest03	|La Fonderie bouillante
+WheelsOfLull_Quest04	|La Forêt d'airain
+WheelsOfLull_Quest05	|Au fin fond du monde
+WheelsOfLull_Quest06	|Les roues de Lull
+WheelsOfLull_Quest07	|Remise en route
+WheelsOfLull_Quest08	|De l'eau sous les ponts
+WheelsOfLull_Quest09	|Maintenance
+WheelsOfLull_Quest10	|Les charades du Charron
+WheelsOfLull_Quest11	|Fermeture des ports
+WheelsOfLull_Quest12	|Sous pression
+----------------------------------------------------------------------------
+GrayCowl_Quest00	|L'appel du Capuchon gris de Nocturne
+GrayCowl_Quest01	|La récompense d'Havreglace
+GrayCowl_Quest02	|Le temps des adieux
+GrayCowl_Quest03	|Souvenirs des Umbranox
+GrayCowl_Quest04	|La malédiction de Sadraaka
+GrayCowl_Quest05	|Enterrez Valen Dreth
+GrayCowl_Quest06	|Peaux de loup du désert
+GrayCowl_Quest07	|Fioles de sang d'éventreur des dunes
+GrayCowl_Quest08	|Je veux récupérer mon amulette !
+GrayCowl_Quest09	|Noyaux d'énergie prétoriens
+----------------------------------------------------------------------------
+Undeath_Quest00	|Dans leurs pas
+Undeath_Quest01	|Exhumer la Puissance
+Undeath_Quest02	|Arkay, l'Ennemi
+Undeath_Quest03	|Alchimie infernale
+Undeath_Quest04	|Tertre du Fléau
+Undeath_Quest05	|Livre noir - Les Murmures du Voile
+Undeath_Quest06	|Le chemin de la Transcendance
+----------------------------------------------------------------------------
+Wyrmstooth_Quest00	|Vouivrecroc
+Wyrmstooth_Quest01	|Le Tertre de la Vouivre
+Wyrmstooth_Quest02	|Un animal à tuer
+Wyrmstooth_Quest03	|Un bandit à tuer
+Wyrmstooth_Quest04	|Prime : Vampire
+Wyrmstooth_Quest05	|Un sorcier à tuer
+Wyrmstooth_Quest06	|Entre chien et loup
+Wyrmstooth_Quest07	|Une richesse inestimable
+Wyrmstooth_Quest08	|Retrouver le passé
+Wyrmstooth_Quest09	|Paiement de dette
+Wyrmstooth_Quest10	|Récupérer Brisebraise
+Wyrmstooth_Quest11	|Détroussement
+Wyrmstooth_Quest12	|De vieux os
+Wyrmstooth_Quest13	|Des invités indésirables
+Wyrmstooth_Quest14	|Lever le voile
+Wyrmstooth_Quest15	|La cachette du Voleur aveugle
+Wyrmstooth_Quest16	|Rabat-joie
+----------------------------------------------------------------------------
+TBOO_Quest00	|Renaissance
+TBOO_Quest01	|Souvenirs oubliés
+TBOO_Quest02	|Ce qu'il reste
+TBOO_Quest03	|L'Enfant des Ténèbres
+TBOO_Quest04	|Premiers pas
+TBOO_Quest05	|À pas de loup (Manquable)
+TBOO_Quest06	|Le duo sinistre
+TBOO_Quest07	|Un écho envoûtant
+TBOO_Quest08	|Le goût du sang
+TBOO_Quest09	|Une sorcière à Blancherive
+TBOO_Quest10	|Petits meurtres en famille
+TBOO_Quest11	|Un Orque entre dans un bar
+TBOO_Quest12	|Une bouffée d'air frais
+TBOO_Quest13	|Rivalité fraternelle
+TBOO_Quest14	|Les cultes des ténèbres
+TBOO_Quest15	|Deux âmes, une destinée
+TBOO_Quest16	|La véritable Confrérie
+TBOO_Quest17	|Les ordres de mort
+TBOO_Quest18	|Ordre de mort 2 : Le collecteur de dettes
+TBOO_Quest19	|Ordre de mort 3 : L'influent
+TBOO_Quest20	|Ordre de mort 4 : L'enquêteur
+TBOO_Quest21	|Ordre de mort 5 : La Thalmor
+TBOO_Quest22	|Ordre de mort 6 : Le partenaire
+TBOO_Quest23	|Ordre de mort 7 : Le messager
+TBOO_Quest24	|Une petite faveur
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_V			|Une perspective intéressante
+LOTD_Main_Quest01_V			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest02_V			|Akaviri Rising
+LOTD_Main_Quest03_V			|Une perspective intéressante
+LOTD_Main_Quest04_V			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest05_V			|Une nuit au Musée
+LOTD_Main_Quest06_V			|L'ombre du passé
+LOTD_Main_Quest07_V			|L'Héritage brisé
+LOTD_Main_Quest08_V			|La Croisée ayléide
+LOTD_Main_Quest09_V			|Sa place est dans un musée
+LOTD_Main_Quest10_V			|Les caveaux de Tréfonde
+LOTD_Main_Quest11_V			|Qui trouve, garde
+LOTD_Main_Quest12_V			|Projet de recherche
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_N			|Une perspective intéressante
+LOTD_Main_Quest01_N			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest02_N			|Akaviri Rising
+LOTD_Main_Quest03_N			|Une perspective intéressante
+LOTD_Main_Quest04_N			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest05_N			|Une nuit au Musée
+LOTD_Main_Quest06_N			|L'ombre du passé
+LOTD_Main_Quest07_N			|L'Héritage brisé
+LOTD_Main_Quest08_N			|La Croisée ayléide
+LOTD_Main_Quest09_N			|Sa place est dans un musée
+LOTD_Main_Quest10_N			|Les caveaux de Tréfonde
+LOTD_Main_Quest11_N			|Qui trouve, garde
+LOTD_Main_Quest12_N			|Projet de recherche
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_E			|Une perspective intéressante
+LOTD_Main_Quest01_E			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest02_E			|Akaviri Rising
+LOTD_Main_Quest03_E			|Une perspective intéressante
+LOTD_Main_Quest04_E			|Galerie de l'Enfant de Dragon
+LOTD_Main_Quest05_E			|Une nuit au Musée
+LOTD_Main_Quest06_E			|L'ombre du passé
+LOTD_Main_Quest07_E			|L'Héritage brisé
+LOTD_Main_Quest08_E			|La Croisée ayléide
+LOTD_Main_Quest09_E			|Sa place est dans un musée
+LOTD_Main_Quest10_E			|Les caveaux de Tréfonde
+LOTD_Main_Quest11_E			|Qui trouve, garde
+LOTD_Main_Quest12_E			|Projet de recherche
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_V			|Chambre avec vue
+LOTD_Exp_Quest01_V			|Réunir les Explorateurs
+LOTD_Exp_Quest02_V			|Les fouilles du col de Parlevent
+LOTD_Exp_Quest03_V			|Les fouilles des ruines de Rkund
+LOTD_Exp_Quest04_V			|Le Visage
+LOTD_Exp_Quest05_V			|L'épreuve de Trinimac
+LOTD_Exp_Quest06_V			|Glace éternelle
+LOTD_Exp_Quest07_V			|Le chemin des cieux
+LOTD_Exp_Quest08_V			|Le livre des merveilles
+LOTD_Exp_Quest09_V			|Outils de travail
+LOTD_Exp_Quest10_V			|Ramifications
+LOTD_Exp_Quest11_V			|Ramifications... suite
+LOTD_Exp_Quest12_V			|Ramifications... plus que jamais
+LOTD_Exp_Quest13_V			|Camelote
+LOTD_Exp_Quest14_V			|Chasse aux reliques
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_N			|Chambre avec vue
+LOTD_Exp_Quest01_N			|Réunir les Explorateurs
+LOTD_Exp_Quest02_N			|Les fouilles du col de Parlevent
+LOTD_Exp_Quest03_N			|Les fouilles des ruines de Rkund
+LOTD_Exp_Quest04_N			|Le Visage
+LOTD_Exp_Quest05_N			|L'épreuve de Trinimac
+LOTD_Exp_Quest06_N			|Glace éternelle
+LOTD_Exp_Quest07_N			|Le chemin des cieux
+LOTD_Exp_Quest08_N			|Le livre des merveilles
+LOTD_Exp_Quest09_N			|Outils de travail
+LOTD_Exp_Quest10_N			|Ramifications
+LOTD_Exp_Quest11_N			|Ramifications... suite
+LOTD_Exp_Quest12_N			|Ramifications... plus que jamais
+LOTD_Exp_Quest13_N			|Camelote
+LOTD_Exp_Quest14_N			|Chasse aux reliques
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_E			|Chambre avec vue
+LOTD_Exp_Quest01_E			|Réunir les Explorateurs
+LOTD_Exp_Quest02_E			|Les fouilles du col de Parlevent
+LOTD_Exp_Quest03_E			|Les fouilles des ruines de Rkund
+LOTD_Exp_Quest04_E			|Le Visage
+LOTD_Exp_Quest05_E			|L'épreuve de Trinimac
+LOTD_Exp_Quest06_E			|Glace éternelle
+LOTD_Exp_Quest07_E			|Le chemin des cieux
+LOTD_Exp_Quest08_E			|Le livre des merveilles
+LOTD_Exp_Quest09_E			|Outils de travail
+LOTD_Exp_Quest10_E			|Ramifications
+LOTD_Exp_Quest11_E			|Ramifications... suite
+LOTD_Exp_Quest12_E			|Ramifications... plus que jamais
+LOTD_Exp_Quest13_E			|Camelote
+LOTD_Exp_Quest14_E			|Chasse aux reliques
+----------------------------------------------------------------------------
+LOTD_Journals_Quest00	|Journal de Sanamia - Mzulft
+LOTD_Journals_Quest01	|Journal de Sanamia - Valthume
+LOTD_Journals_Quest02	|Journal de Sanamia - Fort Molène
+LOTD_Journals_Quest03	|Journal de Sanamia - Lac Ilinalta
+LOTD_Journals_Quest04	|Journal de Sanamia - Ruines funéraires
+LOTD_Journals_Quest05	|Journal de Sanamia - La cachette du fantôme
+----------------------------------------------------------------------------
+LOTD_Notes_Quest00	|Notes d'Auryen : la dague de Symmachus
+LOTD_Notes_Quest01	|Notes d'Auryen : le sabre de Cyrus
+LOTD_Notes_Quest02	|Notes d'Auryen : le coffret du roi Orgnum
+LOTD_Notes_Quest03	|Notes d'Auryen : Lame glacée du Monarque
+LOTD_Notes_Quest04	|Notes d'Auryen : la Pierre de Shalidor
+LOTD_Notes_Quest05	|Notes d'Auryen : le Heaume de Verdesang
+LOTD_Notes_Quest06	|Notes d'Auryen : l'Anneau du Sorcier
+LOTD_Notes_Quest07	|Notes d'Auryen : la Cuirasse du Dragon
+LOTD_Notes_Quest08	|Notes d'Auryen : les Poings de Randagulf
+LOTD_Notes_Quest09	|Notes d'Auryen : les Outils de Kagrénac
+--------------------------------------------------------------------------------------------------------
+LOTD_Misc_Quest00	|La Chambre des secrets
+LOTD_Misc_Quest01	|Beaucoup de bruit pour les Elfes des neiges
+LOTD_Misc_Quest02	|La Main de la gloire
+LOTD_Misc_Quest03	|Conjurer le sort
+LOTD_Misc_Quest04	|Brisetonneau d'Ongar
+LOTD_Misc_Quest05	|Retour à la planche à dessin
+LOTD_Misc_Quest06	|Armure du Seigneur
+LOTD_Misc_Quest07	|Les Gardiens du divin
+----------------------------------------------------------------------------
+3DNPC_Main_Quest00	|Une dette de sang
+3DNPC_Main_Quest01	|Une rose sans épine
+3DNPC_Main_Quest02	|Comme vous l'aimez
+3DNPC_Main_Quest03	|Bardes, bêtes et beautés
+3DNPC_Main_Quest04	|Qui se ressemble...
+3DNPC_Main_Quest05	|Frère et gardien
+3DNPC_Main_Quest06	|Tradition oubliée
+3DNPC_Main_Quest07	|L'appel de l'honneur
+3DNPC_Main_Quest08	|Rêves vains
+3DNPC_Main_Quest09	|La Fosse aux chiens
+3DNPC_Main_Quest10	|Propriété volée
+3DNPC_Main_Quest11	|Le prisonnier aldmeri
+3DNPC_Main_Quest12	|La Belle Enfant
+3DNPC_Main_Quest13	|Le vent de la culpabilité
+3DNPC_Main_Quest14	|L'enveloppe immortelle
+3DNPC_Main_Quest15	|Le plus bruyant des chuchotements
+3DNPC_Main_Quest16	|Les Ténèbres radieuses
+3DNPC_Main_Quest17	|Le Corbeau d'Anvil
+3DNPC_Main_Quest18	|Le Géant endormi
+3DNPC_Main_Quest19	|La machine de téléportation
+3DNPC_Main_Quest20	|La voie des Neuf
+3DNPC_Main_Quest21	|Le chemin vers le coeur d'un gros balourd
+3DNPC_Main_Quest22	|Vers les sables chauds
+3DNPC_Main_Quest23	|Vigilance et vertu
+----------------------------------------------------------------------------
+3DNPC_BOK_Quest00	|Du sang des rois
+3DNPC_BOK_Quest01	|Visages et noms
+3DNPC_BOK_Quest02	|Le Forgeron de sang
+3DNPC_BOK_Quest03	|Notre héraut à tous
+3DNPC_BOK_Quest04	|Sang et os
+3DNPC_BOK_Quest05	|La bête qui ne peut pas être tuée
+3DNPC_BOK_Quest06	|Une fin à retenir
+----------------------------------------------------------------------------
+3DNPC_DS_Quest00	|Sombre acier
+3DNPC_DS_Quest01	|Un Daedra dans la nuit
+3DNPC_DS_Quest02	|Le chat et la souris
+3DNPC_DS_Quest03	|Croquemort
+3DNPC_DS_Quest04	|Pavé d'ossements
+3DNPC_DS_Quest05	|Le visage du Fantôme
+----------------------------------------------------------------------------
+3DNPC_Misc_Quest00	|La femme du crabier
+3DNPC_Misc_Quest01	|Un sort pour Rumarin
+3DNPC_Misc_Quest02	|Un millier de mots
+3DNPC_Misc_Quest03	|Art et sacrifice
+3DNPC_Misc_Quest04	|L'or d'Azzarian
+3DNPC_Misc_Quest05	|Mordre la main qui nourrit
+3DNPC_Misc_Quest06	|Robe noire
+3DNPC_Misc_Quest07	|Enfant de la poussière
+3DNPC_Misc_Quest08	|Coincé
+3DNPC_Misc_Quest09	|La proie du chasseur
+3DNPC_Misc_Quest10	|Hydromel de Mogo
+3DNPC_Misc_Quest11	|Hydromel de Mogo
+3DNPC_Misc_Quest12	|Refuge du Voleur
+3DNPC_Misc_Quest13	|Épelez-le-moi
+3DNPC_Misc_Quest14	|Sur mesure
+3DNPC_Misc_Quest15	|La sculptrice et le collectionneur
+3DNPC_Misc_Quest16	|La conspiration des marches
+3DNPC_Misc_Quest17	|La malédiction
+3DNPC_Misc_Quest18	|L'épée elfique
+3DNPC_Misc_Quest19	|La maison sur la colline
+3DNPC_Misc_Quest20	|La loi gagne toujours
+3DNPC_Misc_Quest21	|Le buveur de lait
+3DNPC_Misc_Quest22	|Le Miroir de papier
+3DNPC_Misc_Quest23	|Mordu-trois-fois, le timide
+3DNPC_Misc_Quest24	|Transformation
+----------------------------------------------------------------------------
+Vigilant_Main_Quest00	|Acte I : Vigile de Stendarr
+Vigilant_Main_Quest01	|Acte I : Suceur de sang
+Vigilant_Main_Quest02	|Acte I : L'Intouchable
+Vigilant_Main_Quest03	|Acte I : Un après-midi tranquille
+Vigilant_Main_Quest04	|Acte I : L'Oeil de la Folie
+Vigilant_Main_Quest05	|Acte I : Partir sans payer
+Vigilant_Main_Quest06	|Acte I : Ainsi parlait le Khajiit
+Vigilant_Main_Quest07	|Acte I : Le vieux paladin
+Vigilant_Main_Quest08	|Acte I : Pas de quartier
+Vigilant_Main_Quest09	|Acte I : L'art de la compassion
+Vigilant_Main_Quest10	|Acte I : La chute sans fin
+Vigilant_Main_Quest11	|Acte I : Atterrissage
+Vigilant_Main_Quest12	|Acte I : Les sorcières de Fort-Ivar
+Vigilant_Main_Quest13	|Acte II : Cellules vides
+Vigilant_Main_Quest14	|Acte II : Le naufrage
+Vigilant_Main_Quest15	|Acte II : La Matrone du Sang
+Vigilant_Main_Quest16	|Acte III : Enfant d'Oblivion
+Vigilant_Main_Quest17	|Acte IV : Havreglace
+Vigilant_Main_Quest18	|Acte IV : Havreglace
+Vigilant_Main_Quest19	|Acte IV : Havreglace
+Vigilant_Main_Quest20	|Acte IV : Un million de chats
+Vigilant_Main_Quest21	|Acte IV : Le Saint Anatomancien
+----------------------------------------------------------------------------
+Vigilant_Side_Quest00	|L'archer de Kyne
+Vigilant_Side_Quest01	|Le Ver noir
+Vigilant_Side_Quest02	|Funérailles
+Vigilant_Side_Quest03	|Plus de skooma
+Vigilant_Side_Quest04	|Paladin Melus
+Vigilant_Side_Quest05	|Chevalier d'Arkay
+Vigilant_Side_Quest06	|Chevalier de Zénithar
+Vigilant_Side_Quest07	|Chevalier de Julianos
+Vigilant_Side_Quest08	|Chevalier de Kynareth
+Vigilant_Side_Quest09	|Folie
+Vigilant_Side_Quest10	|Le Vengeur
+Vigilant_Side_Quest11	|Le dragon de Kyne
+Vigilant_Side_Quest12	|La Marche grise
+----------------------------------------------------------------------------
+Vigilant_Memory_Quest00	|Le Chevalier des Chiens
+Vigilant_Memory_Quest01	|Johan l'Idiot
+Vigilant_Memory_Quest02	|Pélinal le Sanglant
+Vigilant_Memory_Quest03	|Le Grand Inquisiteur
+Vigilant_Memory_Quest04	|Le Roi fou
+Vigilant_Memory_Quest05	|Ada Bal
+Vigilant_Memory_Quest06	|Après la tempête
+Vigilant_Memory_Quest07	|La dernière nuit
+Vigilant_Memory_Quest08	|Les vestiges du Miracle
+Vigilant_Memory_Quest09	|La tentation de Marukh
+Vigilant_Memory_Quest10	|Le Barde sans nom
+Vigilant_Memory_Quest11	|De l'au-delà
+----------------------------------------------------------------------------
+Vigilant_Radiant_Quest00	|Prime : Livre
+Vigilant_Radiant_Quest01	|Prime : Vendeur-de-poussins
+Vigilant_Radiant_Quest02	|Prime : Relique daedrique
+Vigilant_Radiant_Quest03	|Prime : Corne
+Vigilant_Radiant_Quest04	|Prime : Joueur de corne
+Vigilant_Radiant_Quest05	|Prime : Conjureur
+Vigilant_Radiant_Quest06	|Un vampire à tuer
+Vigilant_Radiant_Quest07	|Un sorcière à tuer
+Vigilant_Radiant_Quest08	|Éclat : Rêveur
+Vigilant_Radiant_Quest09	|Éclat : Sosie
+Vigilant_Radiant_Quest10	|Éclat : Engeance
+Vigilant_Radiant_Quest11	|Éclat : Suceur de sang
+Vigilant_Radiant_Quest12	|Éclat : Chasseur de sorcières
+----------------------------------------------------------------------------

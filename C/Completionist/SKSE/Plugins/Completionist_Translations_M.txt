@@ -1,0 +1,162 @@
+----------------------------------------------------------------------------
+-- To change the localised text simply change the text after the single '|'
+-- Do not change anything in the 'Keys' collumn or the translation will fail
+-- Do not change / delete any line numbers or add new lines in the file.
+----------------------------------------------------------------------------
+
+- DO NOT CHANGE
+
+MODNAME1						|Completionist : Principal
+MODNAME2						|Completionist : Divers
+
+- Translations Start Here
+----------------------------------------------------------------------------
+-KEYS							Translation
+----------------------------------------------------------------------------
+AetherialRewardText				|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la quête "Perdue dans les âges".\nObjets valides : Couronne d'aethérium | Bouclier d'aethérium | Bâton d'aethérium
+DeadraBestFriendRewardText		|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la quête "Un Daedra pour ami".\nObjets valides : Hache du Chagrin | Masque du Vil Clavicus
+IllMetByMoonlightRewardText		|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la quête "Un soir au clair de lune".\nObjets valides : Bague d'Hircine | Bague maudite d'Hircine | Peau du Sauveur
+TheBlackStarRewardText			|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la quête "L'étoile noire".\nObjets valides : Étoile d'Azura | Étoile noire
+CidhnaMineRewardText			|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la quête "La mine de Cidhna".\nObjets valides : Armure des Anciennes Divinités | Chevalière des Sang-d'Argent
+CivilWarRewardText				|Note : Cette entrée sera terminée lorsque vous aurez collecté l'un des objets valides de la série de quêtes de la guerre civile.\nObjets valides : Armure du général Tullius | Vêtements d'Ulfric Sombrage
+----------------------------------------------------------------------------
+Category_Item					|Objets : 
+Category_Book					|Livres : 
+Category_MapP					|Lieux : 
+Category_Shou					|Cris : 
+Category_Ench					|Enchantements : 
+Category_Home					|Maisons du joueur: 
+Category_Pets					|Familiers : 
+Category_Claw					|Griffes de dragon : 
+Category_Fish					|Poissons : 
+Category_Mask					|Masques de prêtre-dragon : 
+Category_Shrine					|Autels : 
+Category_Stones					|Pierres dressées : 
+Category_Barenziah				|Pierres de Barenziah : 
+----------------------------------------------------------------------------
+V_ShoutText00					|~~~ Allégeance animale ~~~\nMot I : Ascension des Anciens, Mot II : Angarvunde, Mot III : Tombeau d'Ysgramor (verrouillé par une quête)
+V_ShoutText01					|~~~ Aura de perception ~~~\nMot I : Pic du Mistral, Mot II : Valthume, Mot III : Volunruud
+V_ShoutText02					|~~~ Furie combative ~~~\nTombeau de Vahlok : Les trois Mots sont appris en même temps (L'héritage perdu)
+V_ShoutText03					|~~~ Corps éthéré ~~~\nMot I : Tertre de Ferlié, Mot II : Redoute de la Vallée perdue, Mot III : Ustengrav (verrouillé par une quête)
+V_ShoutText04					|~~~ Asservissement ~~~\nMot I : Cap de Saering, Mot II : Appris par Hermaeus Mora (La voie de la connaissance), Mot III : Appris par Hermaeus Mora (Le Cultivateur des Hommes)
+V_ShoutText05					|~~~ Allié draconique ~~~\nHaut Hrothgar : Les trois Mots sont appris en même temps (Le Déchu)
+V_ShoutText06					|~~~ Allié héroïque ~~~\nSovngarde : Les trois Mots sont appris en même temps (La chasse au dragon)
+V_ShoutText07					|~~~ Ciel dégagé ~~~\nHaut Hrothgar : Les trois Mots sont appris en même temps (La Gorge du Monde)
+V_ShoutText08					|~~~ Cyclone ~~~\nMot I : Benkongerike, Mot II : Tertre de Kolbjorn, Mot III : Sanctuaire de Blanchecrête
+V_ShoutText09					|~~~ Désarmement ~~~\nMot I : Pic d'Antésang, Mot II : Repaire de Brisargent, Mot III : Sanctuaire de Voilneige (verrouillé par une quête)
+V_ShoutText10					|~~~ Intimidation ~~~\nMot I : Rocher de la Mégère, Mot II : Cap de Languemorte, Mot III : Dédale de Shalidor
+V_ShoutText11					|~~~ Aspect draconique ~~~\nMot I : Apocrypha (Rêveries), Mot II : Mine de Corberoc, Mot III : Temple de Miraak
+V_ShoutText12					|~~~ Fendragon ~~~\nGorge du Monde (Le trépas d'Alduin)
+V_ShoutText13					|~~~ Ponction de vitalité ~~~\nMot I : Pointe d'Arquevent, Mot II : Crypte de Sombreval (verrouillé par une quête), Mot III : Val oublié (verrouillé par une quête)
+V_ShoutText14					|~~~ Furie élémentale ~~~\nMot I : Cratère Dent-de-Dragon, Mot II : Bastion de Hurlevent, Mot III : Statue de Méridia
+V_ShoutText15					|~~~ Souffle ardent ~~~\nMot I : Cairn des Poussiéreux (verrouillé par une quête), Mot II : Gorge de Scindepierre, Mot III : Gorge du Monde (La Gorge du Monde)
+V_ShoutText16					|~~~ Souffle glacé ~~~\nMot I : Crête de l'Ossuaire, Mot II : Folgunthur, Mot III : Autel de Volciel
+V_ShoutText17					|~~~ Cri de glace ~~~\nMot I : Crypte de Givrelac, Mot II : Mont Anthor, Mot III : Saarthal (verrouillé par une quête)
+V_ShoutText18					|~~~ Paix de Kyne ~~~\nMot I : Ragnvald, Mot II : Vif de Rannveig, Mot III : Tertre de Voilâtre
+V_ShoutText19					|~~~ Marque mortelle ~~~\nMot I : Tour d'Automnelle, Mot II : Sanctuaire de la Confrérie noire (verrouillé par une quête), Mot III : Grotte oubliée
+V_ShoutText20					|~~~ Ralenti ~~~\nMot I : Vileserre, Mot II : Korvanjund (verrouillé par une quête), Mot III : Labyrinthe (verrouillé par une quête)
+V_ShoutText21					|~~~ Lacération d'âme ~~~\nDurnehviir vous apprend un Mot chaque fois que vous l'invoquez du Cairn de l'Âme
+V_ShoutText22					|~~~ Tourmente ~~~\nMot I : Forelhost, Mot II : Ruines de la Grande Porte, Mot III : Temple de Skuldafn (verrouillé par une quête)
+V_ShoutText23					|~~~ Invocation de Durnehviir ~~~\nCairn de l'Âme : Les trois Mots sont appris en même temps (Au-delà de la mort)
+V_ShoutText24					|~~~ Projection de voix ~~~\nCisaille : Les trois Mots sont appris en même temps
+V_ShoutText25					|~~~ Déferlement ~~~\nMot I : Sanctuaire des Chutes tourmentées (verrouillé par une quête), Mot II : Haut Hrothgar (La technique de la Voix), Mot III : Haut Hrothgar (La corne de Jurgen Parlevent)
+V_ShoutText26					|~~~ Impulsion ~~~\nMot I : Répit des Morts, Mot II : Haut Hrothgar (La technique de la Voix), Mot III : Volskygge
+----------------------------------------------------------------------------
+MiscDataShout_FSK_Data			|~~~ Esprit du champion ~~~\nMot I : Grotte de Putrénoire, Mot II : Perchoir d'Osdragon, Mot III : Abîme de Treillonde\nCri ajouté par Falskaar
+MiscDataShout_WYR_Data			|~~~ Forme fantomatique ~~~\nMot I : Tertre de Vouivrecroc, Mot II : Grotte d'Haetar, Mot III : Fort Valus\nCri ajouté par Wyrmstooth
+MiscDataShout_FFT_Data			|~~~ Forme fantomatique ~~~\nMot I : Sortie du Tertre d'Yngol , Mot II : Tombeau d'Hillgrund, Mot III : Nord d'Ansilvund\nCri ajouté par Forceful Tongue - Shouts Overhaul
+MiscDataShout_FFTWYR_Data		|~~~ Forme fantomatique ~~~\nMot I : Tertre de Vouivrecroc, Mot II : Grotte d'Haetar, Mot III : Fort Valus\nCri ajouté par Forceful Tongue - Shouts Overhaul (patch pour Wyrmstooth détecté)
+MiscDataShout_SC1_Data			|~~~ Souffle foudroyant ~~~\nMot I : Golfe d'Yngvild, Mot II : À l'est de Dushnikh Yal, Mot III : Sud de Solstheim \Cri ajouté par Stormcrown
+MiscDataShout_SC2_Data			|~~~ Souffle empoisonné ~~~\nMot I : Grotte de Mornecôte, Mot II : Ruines enneigées de Solstheim, Mot III : Marais de Morthal \Cri ajouté par Stormcrown
+----------------------------------------------------------------------------
+T_ShoutText00					|~~~ Amour d'Alessia ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText01					|~~~ Annihilation ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText02					|~~~ Spirale arcanique ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText03					|~~~ Apocalypse ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText04					|~~~ Malédiction ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText05					|~~~ Danse macabre ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText06					|~~~ Séisme ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText07					|~~~ Déchirure d'essence ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText08					|~~~ Évocation ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText09					|~~~ Géomagnétisme ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText10					|~~~ Né des glaces ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText11					|~~~ Ombre de Jone ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText12					|~~~ Fléau des rois ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText13					|~~~ Flux vital ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText14					|~~~ Bouclier de tempête ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText15					|~~~ Oblivion ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText16					|~~~ Leurre fantomatique ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText17					|~~~ Marchefaille ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText18					|~~~ Brisesphère ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText19					|~~~ Colère de Shor ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText20					|~~~ Linceul de neige ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText21					|~~~ Appel aux étoiles ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText22					|~~~ Éclats gémellaires ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText23					|~~~ Souffletempête ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText24					|~~~ Le Conquérant ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText25					|~~~ Tir parfait ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText26					|~~~ Hurlement de la Banshee ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText27					|~~~ Envie de voyager ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.
+T_ShoutText28					|~~~ Cri de guerre ~~~\nBibliothèque du Haut Hrothgar : Méditez devant la statue de Kyne.\nCri ajouté par Thunderchild.  
+----------------------------------------------------------------------------
+Barenziah_Name00				|Ansilvund
+Barenziah_Name01				|Gîte Roncenoir
+Barenziah_Name02				|Académie de Fortdhiver
+Barenziah_Name03				|Le Sload douillet
+Barenziah_Name04				|Sanctuaire de la Confrérie noire
+Barenziah_Name05				|Rocher de la mégère
+Barenziah_Name06				|Château de Clairlande
+Barenziah_Name07				|Grotte de Sourcechaude
+Barenziah_Name08				|Markarth I
+Barenziah_Name09				|Markarth II
+Barenziah_Name10				|Gardepins
+Barenziah_Name11				|Vif de Rannveig
+Barenziah_Name12				|Faillaise
+Barenziah_Name13				|Solitude I
+Barenziah_Name14				|Solitude II
+Barenziah_Name15				|Grotte de la Crique pierreuse
+Barenziah_Name16				|Gorge de Scindepierre
+Barenziah_Name17				|Ambassade du Thalmor
+Barenziah_Name18				|Blancherive I
+Barenziah_Name19				|Blancherive II
+Barenziah_Name20				|Blancherive III
+Barenziah_Name21				|Vendeaume I
+Barenziah_Name22				|Vendeaume II
+Barenziah_Name23				|Yngvild
+----------------------------------------------------------------------------
+Barenziah_Text00				|~~~ Ansilvund ~~~\nCette Pierre de Barenziah se trouve sur la table au fond des chambres sépulcrales d'Ansilvund.
+Barenziah_Text01				|~~~ Gîte Roncenoir ~~~\nCette Pierre de Barenziah se trouve dans la chambre de l'étage, à côté du lit.
+Barenziah_Text02				|~~~ Académie de Fortdhiver ~~~\nCette Pierre de Barenziah se trouve dans les quartiers de l'Archimage.
+Barenziah_Text03				|~~~ Le Sload douillet ~~~\nCette Pierre de Barenziah se trouve dans la dernière pièce, sur la table.
+Barenziah_Text04				|~~~ Sanctuaire de la Confrérie noire ~~~\nCette Pierre de Barenziah se trouve sur la commode de la chambre d'Astrid.
+Barenziah_Text05				|~~~ Rocher de la Mégère ~~~\nCette Pierre de Barenziah se trouve sur l'autel de pierre en face du Mur de Mots.
+Barenziah_Text06				|~~~ Château de Clairlande ~~~\nCette Pierre de Barenziah se trouve en haut des escaliers à droite.
+Barenziah_Text07				|~~~ Grotte de Sourcechaude ~~~\nCette Pierre de Barenziah se trouve près du laboratoire d'alchimie, sous le pont, dans la zone nord-ouest des grottes.
+Barenziah_Text08				|~~~ Markarth I ~~~\nCette Pierre de Barenziah se trouve dans la Salle du Trésor, sur la table de chevet de Thonar.
+Barenziah_Text09				|~~~ Markarth II ~~~ \nCette Pierre de Barenziah se trouve dans le musée dwemer du château de Coeur-de-Roche, sur la table dans la première pièce à gauche.
+Barenziah_Text10				|~~~ Gardepins ~~~\nCette Pierre de Barenziah se trouve au sous-sol. Appuyez sur le bouton caché à droite de la bibliothèque qui donne accès à la cachette des bandits. La Pierre se trouve dans une pièce verrouillée du repaire.
+Barenziah_Text11				|~~~ Vif de Rannveig ~~~\nCette Pierre de Barenziah se trouve à côté du laboratoire d'alchimie et du coffre sur la droite, après être tombé dans la trappe devant le coffre et le Mur de Mots.
+Barenziah_Text12				|~~~ Faillaise ~~~\nCette Pierre de Barenziah se trouve dans la chambre du jarl du château d'Embruine. Montez les escaliers et passez la porte centrale verrouillée. Elle est sur la table de nuit à gauche du lit.
+Barenziah_Text13				|~~~ Solitude I ~~~\nCette Pierre de Barenziah se trouve dans la chambre du jarl du Palais bleu, à droite du lit, au-dessus de l'armoire.
+Barenziah_Text14				|~~~ Solitude II ~~~\nCette Pierre de Barenziah se trouve dans le manoir de Hauteflèche. Vous devez d'abord acheter la maison et la Pierre se trouve au dernier étage, dans la chambre principale, au-dessus de l'armoire, derrière la porte.
+Barenziah_Text15				|~~~ Grotte de la Crique pierreuse ~~~\nCette Pierre de Barenziah se trouve sur la table à côté du laboratoire d'alchimie, dans la pièce sur le côté.
+Barenziah_Text16				|~~~ Gorge de Scindepierre ~~~\nCette Pierre de Barenziah se trouve sur la table avec deux corps devant le Mur de Mots.
+Barenziah_Text17				|~~~ Ambassade du Thalmor/Grotte puante ~~~\nCette Pierre de Barenziah se trouve dans les quartiers d'Elenwen au deuxième étage de l'ambassade du Thalmor. ou dans la Grotte puante à côté d'un cadavre, selon votre version de Skyrim.
+Barenziah_Text18				|~~~ Blancherive I ~~~\nCette Pierre de Barenziah se trouve dans les catacombes de la nécropole. Descendez les escaliers de gauche et elle sera à votre gauche, à côté d'un squelette.
+Barenziah_Text19				|~~~ Blancherive II ~~~\nCette Pierre de Barenziah se trouve dans la chambre du jarl de Fort-Dragon, sur la table de chevet de droite.
+Barenziah_Text20				|~~~ Blancherive III ~~~\nCette Pierre de Barenziah se trouve dans les quartiers de Jorrvaskr, sur l'étagère de la chambre de Kodlak.
+Barenziah_Text21				|~~~ Vendeaume I ~~~\nCette Pierre de Barenziah se trouve dans la maison du clan Brise-Bouclier, sur une étagère dans la pièce à gauche en haut des escaliers.
+Barenziah_Text22				|~~~ Vendeaume II ~~~\nCette Pierre de Barenziah se trouve à l'étage du Palais des Rois. Prenez la première porte à gauche en entrant dans le palais, puis trouvez la chambre de Wuunferth au bout du couloir. La Pierre est sur une table sur la droite de la pièce.
+Barenziah_Text23				|~~~ Yngvild ~~~\nCette Pierre de Barenziah se trouve dans la chambre derrière le trône de la salle du trône d'Yngvild.
+----------------------------------------------------------------------------
+LogPrefix_Col					|Collectés : 
+LogPrefix_Dis					|Découverts : 
+LogPrefix_Lea					|Appris : 
+LogPrefix_Obt					|Obtenus : 
+LogPrefix_Bar					|Pierres de Barenziah : 
+LogPrefix_Tam					|Apprivoisés : 
+LogPrefix_Sho					|Cris appris : 
+LogPrefix_Wor					|Mots de pouvoir appris : 
+LogPrefix_Fis					|Poissons attrapés : 
+LogPrefix_Boo					|Lus : 
+LogPrefix_Tom					|Consommés : 

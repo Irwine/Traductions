@@ -1,0 +1,1089 @@
+----------------------------------------------------------------------------
+## To change the localised text simply change the name after the single '|'
+## Do not change anything in the 'Keys' collumn or the translation will fail
+## Do not change / delete any line numbers or add new lines in the file.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+KEYS						Translation
+----------------------------------------------------------------------------
+MSQ_Quest00					|Départ : Automatique.                                	   \nRésumé : Choisir une nouvelle vie auprès de la statue de Mara.
+MSQ_Quest01					|Départ : Automatique.                                	   \nRésumé : Commencer une nouvelle vie en Bordeciel.
+MSQ_Quest02					|Départ : Ralof.                                           \nRésumé : Échapper aux Impériaux et à l'attaque de dragon.
+MSQ_Quest03					|Départ : Hadvar, Ralof.                                   \nRésumé : Informer le jarl de Blancherive de l'attaque de dragon sur Helgen.
+MSQ_Quest04					|Départ : Jarl Balgruuf le Grand.                      	   \nRésumé : Récupérer la Pierre de dragon au tertre des Chutes tourmentées.
+MSQ_Quest05					|Départ : Farengar Feu-Secret.                             \nRésumé : Enquêter sur le dragon aperçu près de Blancherive.
+MSQ_Quest06					|Départ : Jarl Balgruuf le Grand.                          \nRésumé : Rencontrer les Grises-Barbes au Haut Hrothgar.
+MSQ_Quest07					|Départ : Arngeir.                                         \nRésumé : Récupérer la corne de Jurgen Parlevent à Ustengrav.
+MSQ_Quest08					|Départ : Delphine.                                        \nRésumé : Prouver à Delphine que vous êtes l'Enfant de dragon en tuant Sahloknir.
+MSQ_Quest09					|Départ : Delphine.                                        \nRésumé : Infiltrer une fête à l'ambassade du Thalmor.
+MSQ_Quest10					|Départ : Delphine.                                        \nRésumé : Localiser Esbern à Faillaise.
+MSQ_Quest11					|Départ : Esbern.                                          \nRésumé : Trouver la prophétie dans le temple d'Havreciel (Meilleure récompense au niveau 46+).
+MSQ_Quest12					|Départ : Arngeir.                                         \nRésumé : Recevoir une leçon de Paarthurnax à la Gorge du Monde.
+MSQ_Quest13					|Départ : Paarthurnax.                                     \nRésumé : Récupérer un Parchemin des Anciens pour apprendre un ancien secret.
+MSQ_Quest14					|Départ : Automatique.                                 	   \nRésumé : Mettre à profit la Fracture du Temps pour apprendre Fendragon et vaincre Alduin à la Gorge du Monde.
+MSQ_Quest15					|Départ : Paarthurnax, Arngeir, Esbern.                    \nRésumé : Capturer et interroger un allié d'Alduin.
+MSQ_Quest16					|Départ : Jarl Balgruuf le Grand, Vignar Grisetoison.      \nRésumé : Faire respecter un cessez-le-feu pour sécuriser Fort-Dragon.
+MSQ_Quest17					|Départ : Esbern, Delphine.                                \nRésumé : Faire face à une menace potentielle.
+MSQ_Quest18					|Départ : Odahviing.                                       \nRésumé : Traverser le temple de Skuldafn pour atteindre le portail d'Alduin vers Sovngarde.
+MSQ_Quest19					|Départ : Automatique.                                	   \nRésumé : Chercher Alduin en Sovngarde.
+MSQ_Quest20					|Départ : Hakon, Gormlaith, and Felldir.                   \nRésumé : Vaincre le Dévoreur de mondes.
+----------------------------------------------------------------------------
+CWQuest00					|Départ : Légat Rikke.                 \nRésumé : Intégrer la Légion impériale.
+CWQuest01					|Départ : Légat Rikke.                 \nRésumé : Récupérer la Couronne d'os.
+CWQuest02					|Départ : Général Tullius.             \nRésumé : Livrer un message à Blancherive.
+CWQuest03					|Départ : Général Tullius.             \nRésumé : Prendre Blancherive pour la Légion impériale.
+CWQuest04					|Départ : Général Tullius.             \nRésumé : Reprendre toutes les châtelleries.
+CWQuest05					|Départ : Légat Rikke.                 \nRésumé : Prendre Vendeaume et amener Ulfric devant la justice.
+CWQuest06					|Départ : Légat Rikke.                 \nRésumé : Livrer des documents falsifiés aux Sombrages.
+CWQuest07					|Départ : Légat Rikke.                 \nRésumé : Recueillir des renseignements sur les Sombrages.
+CWQuest08					|Départ : Général Tullius.             \nRésumé : Obtenir une armure complète gratuite.
+CWQuest09					|Départ : Légat Rikke.                 \nRésumé : Sauver les prisonniers et reconquérir Fortdhiver.
+CWQuest10					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Amol pour la Légion impériale.
+CWQuest11					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Dunstad pour la Légion impériale.
+CWQuest12					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Tiremuraille pour la Légion impériale.
+CWQuest13					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Néograd pour la Légion impériale.  		\nNote : Cette quête n'est disponible que si vous êtes du côté des Sombrages au départ, que vous leur avez donné la châtellerie d'Épervine pendant la Saison éternelle, puis que vous changez d'allégeance pour les Impériaux pendant la Couronne d'os.
+CWQuest14					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Busard pour la Légion impériale. 		\nNote : Cette quête n'est disponible que si vous donnez Hjaalmarche aux Sombrages pendant la Saison éternelle.
+CWQuest15					|Départ : Légat Rikke.                 \nRésumé : Prendre Fort Gardesol pour la Légion impériale.  		\nNote : Cette quête n'est disponible que si vous donnez La Crevasse aux Sombrages pendant la Saison éternelle.
+CWQuest16					|Départ : Ulfric Sombrage.             \nRésumé : Rejoindre les Sombrages.
+CWQuest17					|Départ : Galmar Rudepoing.            \nRésumé : Récupérer la Couronne d'os.
+CWQuest18					|Départ : Ulfric Sombrage.             \nRésumé : Livrer la hache au jarl de Blancherive.
+CWQuest19					|Départ : Ulfric Sombrage.             \nRésumé : Prendre Blancherive pour les Sombrages.
+CWQuest20					|Départ : Général Tullius.             \nRésumé : Unifier Bordeciel pour l'Empire.
+CWQuest21					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Solitude et chasser les Impériaux.
+CWQuest22					|Départ : Galmar Rudepoing.            \nRésumé : Livrer des documents falsifiés aux Impériaux.
+CWQuest23					|Départ : Galmar Rudepoing.            \nRésumé : Faire chanter l'adorateur de Talos.
+CWQuest24					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Néograd pour les Sombrages.
+CWQuest25					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Dunstad pour les Sombrages.   		\nNote : Cette quête n'est disponible que si vous donnez Le Clos aux Impériaux pendant la Saison éternelle.
+CWQuest26					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Tiremuraille pour les Sombrages. 	\nNote : Cette quête n'est disponible que si vous donnez La Brèche aux Impériaux pendant la Saison éternelle.
+CWQuest27					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Hraggstad pour les Sombrages.
+CWQuest28					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Kastav pour les Sombrages.    		\nNote : Cette quête n'est disponible que si vous donnez Fortdhiver aux Impériaux pendant la Saison éternelle.
+CWQuest29					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Busard pour les Sombrages.
+CWQuest30					|Départ : Galmar Rudepoing.            \nRésumé : Prendre Fort Gardesol pour les Sombrages.
+----------------------------------------------------------------------------
+Main_DG_Quest00				|Départ : Garde, Durak, ou Agmaer.          \nRésumé : Aller voir le chef de la Garde de l'Aube.
+Main_DG_Quest01				|Départ : Isran.                            \nRésumé : Découvrir ce que cherchent les vampires.
+Main_DG_Quest02				|Départ : Sérana.                           \nRésumé : Choisir un camp.
+Main_DG_Quest03				|Départ : Isran.                            \nRésumé : Recruter les anciens alliés d'Isran pour la Garde de l'Aube.
+Main_DG_Quest04				|Départ : Isran.                            \nRésumé : Trouver et sauver le prêtre de la Phalène des vampires.
+Main_DG_Quest05				|Départ : Garan Marethi.                    \nRésumé : Remplir le Calice de Pierresang à la source de sang de la tanière d'Eaurouge.
+Main_DG_Quest06				|Départ : Seigneur Harkon.                  \nRésumé : Localiser le prêtre de la Phalène pour les vampires.
+Main_DG_Quest07				|Départ : Sérana.                           \nRésumé : Explorer le château Volkihar.
+Main_DG_Quest08				|Départ : Dexion Evicus.                    \nRésumé : Obtenir les trois Parchemins des Anciens pour Dexion Evicus.
+Main_DG_Quest09				|Départ : Sérana.                           \nRésumé : Chercher Valérica dans le Cairn de l'Âme.
+Main_DG_Quest10				|Départ : Seigneur Harkon ou Isran.         \nRésumé : Apporter les Parchemins des Anciens à Dexion Evicus.
+Main_DG_Quest11				|Départ : Dexion Evicus.                    \nRésumé : Effectuer une cérémonie de lecture du Parchemin des Anciens.
+Main_DG_Quest12				|Départ : Sérana.                           \nRésumé : Trouver et récupérer l'Arc d'Auriel.
+Main_DG_Quest13				|Départ : Sérana.                           \nRésumé : Affronter le seigneur Harkon. (Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron').
+----------------------------------------------------------------------------
+Main_DB_Quest00				|Départ : Automatique (Rencontre aléatoire).      \nRésumé : Se rendre sur l'île de Solstheim pour découvrir ce qui s'y passe.
+Main_DB_Quest01				|Départ : Fréa.                                   \nRésumé : Découvrir la source du pouvoir de Miraak dans le temple de Miraak.
+Main_DB_Quest02				|Départ : Fréa.                                   \nRésumé : Trouver un moyen de libérer les citoyens du village skaal.
+Main_DB_Quest03				|Départ : Storn Marche-Roc.                       \nRésumé : Utiliser le Cri "Asservissement" pour purifier les Pierres du Créateur restantes.
+Main_DB_Quest04				|Départ : Storn Marche-Roc.                       \nRésumé : Découvrir l'emplacement des Livres noirs afin d'arrêter Miraak.
+Main_DB_Quest05				|Départ : Livre noir - Réflexions épistolaires.   \nRésumé : Se rendre dans le royaume d'Hermaeus Mora pour apprendre le reste du Cri "Asservissement".
+Main_DB_Quest06				|Départ : Fréa.                                   \nRésumé : Affronter Miraak au sommet d'Apocrypha et le vaincre une fois pour toutes (Meilleure récompense au niveau 60+).
+----------------------------------------------------------------------------
+CC01_Quest00				|Départ : Automatique (Entrer dans la plantation Buttedor).          \nRésumé : Calmer les esprits tourmentés de la plantation Buttedor.
+CC01_Quest01				|Départ : Automatique (Avoir terminé 'Les morts sans repos').		 \nRésumé : Planter des cultures, engager un chambellan et commencer votre vie à la ferme.
+CC01_Quest02				|Départ : Automatique (Attraper votre premier poisson).				 \nRésumé : Parler à Viriya et Nage-En-Eaux-Profondes à la pêcherie de Faillaise.
+CC01_Quest03				|Départ : Viriya (Avoir terminé 'Un festin mémorable').				 \nRésumé : Examiner les eaux près de la grotte de Bronzeflot.
+CC01_Quest04				|Départ : Viriya (Avoir terminé 'En un clin d'oeil').				 \nRésumé : Aider un garde à surmonter son addiction au skooma.
+CC01_Quest05				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Attraper un poisson par temps ensoleillé.
+CC01_Quest06				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Attraper un poisson par temps pluvieux.
+CC01_Quest07				|Départ : Viriya (Avoir terminé 'Le concours').						 \nRésumé : Exterminer les vasards.
+CC01_Quest08				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Attraper un poisson souterrain.
+CC01_Quest09				|Départ : Viriya (Courrier).										 \nRésumé : Rassembler des ressources pour aider Viriya à monter son propre étal de marché.
+CC01_Quest10				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Attraper un poisson rare.
+CC01_Quest11				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Attraper un poisson arctique.
+CC01_Quest12				|Départ : Viriya (Avoir terminé 'Perspicace').						 \nRésumé : Offrir à Mila un cyprin doré.
+CC01_Quest13				|Départ : Automatique (Pendant 'Entre pêcheurs').					 \nRésumé : Obtenir un vasard juvénile.
+CC01_Quest14				|Départ : Viriya (Avoir terminé 'Coeur d'or').						 \nRésumé : Participer à un concours de pêche.
+CC01_Quest15				|Départ : Viriya (Avoir terminé 'Terreur cornue').					 \nRésumé : Apprendre à pêcher à Lynéa.
+CC01_Quest16				|Départ : Ri'saad (Avoir terminé 'Cours particuliers').				 \nRésumé : Aider un marchand khajiit à récupérer sa cargaison de flin vieilli.
+CC01_Quest17				|Départ : Viriya (Avoir terminé 'Le spiritueux').					 \nRésumé : Préparer un festin pour Gisli.
+CC01_Quest18				|Départ : Viriya (Avoir terminé 'Extermination de crustacés').		 \nRésumé : Tuer le horqueur vampire.
+CC01_Quest19				|Départ : Mila Valentia (Courrier).									 \nRésumé : Tout poisson a besoin d'un ami !
+CC01_Quest20				|Départ : Viriya (Courrier).										 \nRésumé : Aubétoile est menacée par un crabe géant !
+CC01_Quest21				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Pêcher un poisson pour aider un alchimiste à faire des expériences.\nNote : Cette quête sera automatiquement déplacée dans la section terminée après avoir été réalisée 4 fois.
+CC01_Quest22				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Pêcher les ordures pour nettoyer les canaux.\nNote : Cette quête sera automatiquement déplacée dans la section terminée après avoir été réalisée 4 fois.
+CC01_Quest23				|Départ : Nage-En-Eaux-Profondes (Pêcherie de Faillaise).			 \nRésumé : Un aubergiste a besoin de poisson.\nNote : Cette quête sera automatiquement déplacée dans la section terminée après avoir été réalisée 4 fois.
+----------------------------------------------------------------------------
+CC02_Quest00	|Résumé : Enquêter sur les étranges histoires de harfreuses effectuant des rituels près d'Épervine.\nCreation Club : Coupe d'amertume.
+CC02_Quest01	|Résumé : Entrer dans le Repos de Sivdur et récupérer Lamedor.\nCreation Club : Lamedor.
+CC02_Quest02	|Résumé : Vaincre le Gardien et récupérer l'épée.\nCreation Club : Croc-du-Matin et Croc-du-Soir.
+CC02_Quest03	|Résumé : Trouver et tuer Skjol le Muet pour obtenir son armure.\nCreation Club : Armures alternatives - Stalhrim fourrée.
+CC02_Quest04	|Résumé : Découvrir qui a attaqué le temple et récupérer son masque.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest05	|Résumé : Aller sur le champ de bataille et tuer tous les soldats ennemis.\nCreation Club : Champions de la guerre civile.
+CC02_Quest06	|Résumé : Enquêter sur les rumeurs de bandits qui sévissent dans tout Bordeciel.\nCreation Club : Armures alternatives - Plates daedriques.
+CC02_Quest07	|Résumé : Enquêter à la Dent de Faldar et récupérer Coule-Sang à la grotte du Croc cassé.\nCreation Club : Croc-du-Matin et Croc-du-Soir.
+CC02_Quest08	|Résumé : Se rendre au Col de Gromm et examiner la grotte.\nCreation Club : Gobelins.
+CC02_Quest09	|Résumé : Trouver et tuer Corbecroc.\nCreation Club : Armures alternatives - Plates draconiques.
+CC02_Quest10	|Résumé : Trouver et tuer Yeux-Pâles pour obtenir son armure.\nCreation Club : Armures alternatives - Plates de fer.
+CC02_Quest11	|Résumé : Tendre une embuscade pour récupérer le masque de Vivec.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest12	|Résumé : Trouver la vicaire disparue pour récupérer le masque de Sotha Sil.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest13	|Résumé : Sauver l'agent du Thalmor ou essayer d'aider Zaharia.\nCreation Club : Armures alternatives - Cuir.
+CC02_Quest14	|Résumé : Résoudre une série d'énigmes et revendiquer la Salle du Gibet.\nCreation Club : Salle du Gibet.
+CC02_Quest15	|Résumé : Trouver et tuer Urgnok aux ruines de Bthalft et récupérer son armure.\nCreation Club : Armures alternatives - Mailles dwemers.
+CC02_Quest16	|Résumé : Vaincre l'Orchestrateur céleste et arrêter le climat violent.\nCreation Club : Saisons oubliées.
+CC02_Quest17	|Résumé : Lire la lettre du voleur et choisir comment procéder.\nCreation Club : Coupe d'amertume.
+CC02_Quest18	|Résumé : Enquêter sur les rumeurs d'anciens bandits fugitifs en Tamriel.\nCreation Club : Armures alternatives - Écailles orques.
+CC02_Quest19	|Résumé : Décider du sort d'un culte hérétique.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest20	|Résumé : Vaincre soit les vampires, soit les invités et la Garde de l'Aube.\nCreation Club : Manoir de Sanglacial.
+CC02_Quest21	|Résumé : Vaincre Tyra Feudesang et récupérer son armure.\nCreation Club : Armures alternatives - Plates d'ébonite.
+CC02_Quest22	|Résumé : Répandre la bonne parole de la déesse Almalexia.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest23	|Résumé : Enquêter sur un complot d'assassinat contre le jarl Balgruuf le Grand.\nCreation Club : Arc des ombres.
+CC02_Quest24	|Résumé : Localiser le nécromancien au nord-ouest de Folgunthur et déverrouiller la cage.\nCreation Club : Loup-squelette.
+CC02_Quest25	|Résumé : Fouiller l'Aire d'Âprevent et trouver le butin.\nCreation Club : Armures alternatives - Plates dwemers.
+CC02_Quest26	|Résumé : Enquêter sur la disparition de Gunther Givre-Pied.\nCreation Club : Armures alternatives - Mailles daedriques.
+CC02_Quest27	|Résumé : Acheter un vasard à Calcelmo.\nCreation Club : Vasard dwemer blindé.
+CC02_Quest28	|Résumé : Localiser le cadavre calciné de Kragrash et utiliser une clé pour récupérer votre récompense.\nCreation Club : Arbalètes d'élite.
+CC02_Quest29	|Résumé : Aller au camp d'Aesraël près de la gorge de Scindepierre et récupérer l'armure.\nCreation Club : Armures alternatives - Elfique de chasseur.
+CC02_Quest30	|Résumé : Vaincre Péladius et récupérer son armure.\nCreation Club : Armures alternatives - Acier de soldat.
+CC02_Quest31	|Résumé : Aller au guet des Quatre Crânes et tuer Eigorn et Oren.\nCreation Club : Divin Croisé.
+CC02_Quest32	|Résumé : Enquêter sur un forgeron orque qui fabrique des armes pour les bandits.\nCreation Club : Armures alternatives - Plates orques.
+CC02_Quest33	|Résumé : Lire la lettre de Calcelmo à Markarth et trouver les flèches de vol d'âme.\nCreation Club : Archer arcanique.
+CC02_Quest34	|Résumé : Lire le livre sur les flèches télékinétiques et apprendre à les fabriquer et à les utiliser.\nCreation Club : Archer arcanique.
+CC02_Quest35	|Résumé : Obtenir trois pierres sigillaires pour restaurer des reliques magiques.\nCreation Club : Armes du Chaos.
+CC02_Quest36	|Résumé : Trouver les trois masques et récupérer la couronne dwemer.\nCreation Club : Saisons oubliées.
+CC02_Quest37	|Résumé : Récupérer toutes les pièces du cheval dwemer brisé.\nCreation Club : Saisons oubliées.
+CC02_Quest38	|Résumé : Fouiller la grotte de la Chute d'Hob et trouver la bibliothèque oubliée.\nCreation Club : Accessoires arcaniques.
+CC02_Quest39	|Résumé : Vaincre le Paladin perdu et prendre Chrysamère.\nCreation Club : Chrysamère.
+CC02_Quest40	|Résumé : Faire un pèlerinage aux neuf sanctuaires pour vous repentir.\nCreation Club : Divin Croisé.
+CC02_Quest41	|Résumé : Se battre pour sortir de la Fosse et s'échapper.\nCreation Club : Coupe d'amertume.
+CC02_Quest42	|Résumé : Aller sur l'île d'Os-noire.\nCreation Club : Terreur du Défunt.
+CC02_Quest43	|Résumé : Vaincre Ulfnir Peau-d'Os au cap de Yorgrim et récupérer son armure.\nCreation Club : Armures alternatives - Draconique.
+CC02_Quest44	|Résumé : Alimenter la forge de Fahlbtharz pour restaurer un puissant artefact.\nCreation Club : Fantômes du Tribunal.
+CC02_Quest45	|Résumé : Enquêter sur la cabane abandonnée près de Rorikbourg.\nCreation Club : Armures alternatives - Argent.
+----------------------------------------------------------------------------
+CC03_Quest00	|Résumé : Apprendre les secrets du forgeage d'ambre et de folie.\nCreation Club : Saints et Séducteurs.
+CC03_Quest01	|Résumé : Éliminer les deux bandes de bandits possédant un équipement étrange.\nCreation Club : Saints et Séducteurs.
+CC03_Quest02	|Résumé : Se rendre à la cachette du Couteau perdu pour trouver le Fendoir de chef.\nCreation Club : Fendoir de chef.
+CC03_Quest03	|Résumé : Aller à la grotte de Cronvangr et vaincre la Mère des toiles.\nCreation Club : Le Défi.
+CC03_Quest04	|Résumé : Traquer et apprivoiser la dernière licorne vivante.\nCreation Club : Chevaux sauvages.
+CC03_Quest05	|Résumé : Enquêter sur les rumeurs d'un fantôme qui hante la rivière Karth.\nCreation Club : Armure de chevalier-sorcier.
+CC03_Quest06	|Résumé : Récupérer un artefact légendaire de la Légion et obtenir la bénédiction de Kynareth.\nCreation Club : Armure du Seigneur.
+CC03_Quest07	|Résumé : Apprendre les secrets du forgeage auréal et mazken.\nCreation Club : Saints et Séducteurs.
+CC03_Quest08	|Résumé : Gagner l'acte de propriété d'une ancienne demeure nordique.\nCreation Club : Hendraheim.
+CC03_Quest09	|Résumé : Acheter une carte qui permet de trouver des chevaux sauvages.\nCreation Club : Chevaux sauvages.
+CC03_Quest10	|Résumé : Voler un marteau légendaire divin.\nCreation Club : Marteau de Stendarr.
+CC03_Quest11	|Résumé : Parler à Azadi le vaincre à mains nues.\nCreation Club : Armement d'élite Rougegarde.
+CC03_Quest12	|Résumé : Retrouver les Outils de Kagrénac.\nCreation Club : Broyeur et Garde spectrale.
+CC03_Quest13	|Résumé : Obtenir les secrets de l'artisanat du cuir de netch auprès d'une tribu de riekelins.\nCreation Club : Armure de cuir de netch.
+CC03_Quest14	|Résumé : Sauver une jeune élytra des Séducteurs bandits.\nCreation Club : Saints et Séducteurs.
+CC03_Quest15	|Résumé : Sauver une jeune élytra des Saints bandits.\nCreation Club : Saints et Séducteurs.
+CC03_Quest16	|Résumé : Acheter un chien de Nix apprivoisé.\nCreation Club : Chien de Nix.
+CC03_Quest17	|Résumé : Localiser et entrer dans une mystérieuse tour.\nCreation Club : Myrwatch.
+CC03_Quest18	|Résumé : Trouver l'artefact daedrique Brisenerfs.\nCreation Club : Saints et Séducteurs.
+CC03_Quest19	|Résumé : En apprendre plus sur les bijoux nordiques.\nCreation Club : Bijoux nordiques.
+CC03_Quest20	|Résumé : Trouver les familiers apprivoisés en Bordeciel.\nCreation Club : Familiers de Bordeciel.
+CC03_Quest21	|Résumé : Passer l'épreuve de Shéogorath pour obtenir son bâton.\nCreation Club : Bâton de Shéogorath.
+CC03_Quest22	|Résumé : Mettre fin à la fusion des plans sous Solitude.\nCreation Club : Saints et Séducteurs.
+CC03_Quest23	|Résumé : Trouver le marchand ambulant pour participer aux fêtes de fin d'année.\nCreation Club : Fêtes de Saturalia.
+CC03_Quest24	|Résumé : Acheter le Sanctuaire de l'Ombre furtive.\nCreation Club : Sanctuaire de l'Ombre furtive.
+CC03_Quest25	|Résumé : Rencontrer un personnage mystérieux à propos du rituel raté d'un sorcier fou.\nCreation Club : Saints et Séducteurs.
+CC03_Quest26	|Résumé : Enquêter sur les activités de l'Aube mythique.\nCreation Club : La Cause.
+CC03_Quest27	|Résumé : Entrer dans les Terres mortes pour affronter les champions de Dagon.\nCreation Club : La Cause.
+CC03_Quest28	|Résumé : Trouver l'arc légendaire d'une folle.\nCreation Club : Borderuine.
+CC03_Quest29	|Résumé : Enquêter sur la légende du Renard gris.\nCreation Club : Le retour du Renard gris !
+CC03_Quest30	|Résumé : Un groupe de nécromanciens prévoit d'invoquer une armée de zombies.\nCreation Club : Fléau des morts.
+CC03_Quest31	|Résumé : Trouver le sanctuaire perdu de Nchuanthumz.\nCreation Club : Nchuanthumz.
+CC03_Quest32	|Résumé : Localiser un bâton légendaire introduit clandestinement en Bordeciel.\nCreation Club : Bâton d'Hasedoki.
+CC03_Quest33	|Résumé : Affronter les ténèbres en vous pour obtenir une arme puissante.\nCreation Club : Fendlombre.
+CC03_Quest34	|Résumé : Une entité daedrique malveillante que l'on croyait détruite depuis longtemps a refait surface dans les monts Vélothi.\nCreation Club : Umbra.
+CC03_Quest35	|Résumé : Enquêter sur les disparitions mystérieuses des Vigiles de Stendarr dans le Clos.\nCreation Club : Armure de Vigile exécuteur.
+----------------------------------------------------------------------------
+Dawnstar_Quest00	|Départ : Jarl Skald\nRésumé : Tuer le géant.
+Dawnstar_Quest01	|Départ : Silus Vesuius\nRésumé : Récupérer les morceaux de la dague de Mehrunes Dagon.
+Dawnstar_Quest02	|Départ : Érandur\nRésumé : Libérer les gens d'Aubétoile de la malédiction de Vaermina.
+Dawnstar_Quest03	|Départ : Capitaine Nautonier\nRésumé : Récupérer des sels du néant.
+Dawnstar_Quest04	|Départ : Frida\nRésumé : Récupérer l'anneau de pures mixtures.
+Dawnstar_Quest05	|Départ : Karl\nRésumé : Offrir à boire à Karl.
+Dawnstar_Quest06	|Départ : Rustleif\nRésumé : Récupérer le livre 'Crépuscule sur Sentinelle'.
+Dawnstar_Quest07	|Départ : Jarl d'Aubétoile\nRésumé : Devenir thane du Clos.
+Dawnstar_Quest08	|Départ : Beitild\nRésumé : Être payé pour avoir extrait du minerai pour Beitild.
+Dawnstar_Quest09	|Départ : Leigelf\nRésumé : Être payé pour avoir extrait du minerai pour Leigelf.
+----------------------------------------------------------------------------
+Falkreath_Quest00	|Départ : Barbas\nRésumé : Réunir Barbas et son maître.
+Falkreath_Quest01	|Départ : Dengeir de Stuhn\nRésumé : Tuer Vighar.
+Falkreath_Quest02	|Départ : Mathies, Sinding\nRésumé : Chasser au nom du Prince daedra Hircine (Il est recommandé d'accomplir cette quête dès que possible).
+Falkreath_Quest03	|Départ : Jarl Siddgeir\nRésumé : Tuer le chef des bandits (Il est recommandé d'accomplir cette quête dès que possible).
+Falkreath_Quest04	|Départ : Hert\nRésumé : Être payé pour avoir coupé du petit bois pour Hert.
+Falkreath_Quest05	|Départ : Thadgeir\nRésumé : Livrer les cendres de Berit à Runil.
+Falkreath_Quest06	|Départ : Runil\nRésumé : Récupérer le journal de Runil.
+Falkreath_Quest07	|Départ : Mathies\nRésumé : Être payé pour avoir fait la récolte pour Mathies.
+Falkreath_Quest08	|Départ : Jarl Siddgeir\nRésumé : Récupérer de l'hydromel Roncenoir pour le jarl (Cette quête doit être accomplie avant d'atteindre le niveau 9).
+Falkreath_Quest09	|Départ : Dengeir de Stuhn\nRésumé : Voler une lettre pour Dengeir de Stuhn.
+Falkreath_Quest10	|Départ : Jarl d'Épervine\nRésumé : Devenir thane d'Épervine (Il est recommandé d'accomplir cette quête dès que possible).
+----------------------------------------------------------------------------
+Markarth_Quest00	|Départ : Bothela\nRésumé : Livrer une potion de l'étalon.
+Markarth_Quest01	|Départ : Messager\nRésumé : Apporter un artefact dwemer à Calcelmo.
+Markarth_Quest02	|Départ : Moth gro-Bagol\nRésumé : Récupérer un coeur de Daedra (Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron').
+Markarth_Quest03	|Départ : Kerah\nRésumé : Livrer l'anneau à Calcelmo.
+Markarth_Quest04	|Départ : Jarl Igmund\nRésumé : Tuer le chef des Parjures.
+Markarth_Quest05	|Départ : Lisbet\nRésumé : Récupérer la statue de Dibella.
+Markarth_Quest06	|Départ : Calcelmo\nRésumé : Tuer l'araignée géante.
+Markarth_Quest07	|Départ : Automatique\nRésumé : S'évader de la mine de Cidhna (Il est recommandé d'accomplir cette quête dès que possible).
+Markarth_Quest08	|Départ : Ondolemar\nRésumé : Trouver des preuves de l'existence d'un adorateur de Talos pour le Thalmor.
+Markarth_Quest09	|Départ : Ghorza gra-Bagol\nRésumé : Récupérer le livre 'Le Dernier Fourreau d'Akrash' pour Ghorza gra-Bagol (Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron').
+Markarth_Quest10	|Départ : Eltrys\nRésumé : Enquêter sur le meurtre Markarth (Il est recommandé d'accomplir cette quête dès que possible).
+Markarth_Quest11	|Départ : Degaine\nRésumé : Voler la statue dans le temple de Dibella (Il est recommandé d'accomplir cette quête dès que possible).
+Markarth_Quest12	|Départ : Hamal\nRésumé : Aider à trouver la prochaine Sybille du temple de Dibella.
+Markarth_Quest13	|Départ : Vigile Tyranus\nRésumé : Aider Molag Bal à se venger.
+Markarth_Quest14	|Départ : Journal d'Alethius\nRésumé : Récupérer les journaux de l'expédition à Nchuand-Zel.
+Markarth_Quest15	|Départ : Frère Verulus\nRésumé : Enquêter dans la nécropole.
+Markarth_Quest16	|Départ : Eola\nRésumé : Préparer un festin pour la Dame de la Putréfaction.
+Markarth_Quest17	|Départ : Omluag\nRésumé : Parler à Mulush gro-Shugurz pour Omluag.
+Markarth_Quest18	|Départ : Banning\nRésumé : Livrer le boeuf épicé à Voada.
+Markarth_Quest19	|Départ : Jarl Igmund\nRésumé : Récupérer le bouclier de Hrolfdir.
+Markarth_Quest20	|Départ : Cosnach\nRésumé : Se battre avec Cosnach pour prouver votre valeur.
+Markarth_Quest21	|Départ : Degaine\nRésumé : Donner un septim à Degaine.
+Markarth_Quest22	|Départ : Degaine\nRésumé : Offrir à boire à Degaine.
+Markarth_Quest23	|Départ : Cosnach\nRésumé : Offrir à boire à Cosnach.
+Markarth_Quest24	|Départ : Jarl de Markarth\nRésumé : Devenir thane de la Crevasse.
+----------------------------------------------------------------------------
+Morthal_Quest00	|Départ : Suivre Falion à 1 h du matin\nRésumé : Découvrir les activités nocturnes de Falion.
+Morthal_Quest01	|Départ : Gorm (Loin du jarl)\nRésumé : Livrer une lettre au capitaine Aldis.
+Morthal_Quest02	|Départ : Jonna, gardes de Morthal\nRésumé : Enquêter sur l'incendie de la maison.
+Morthal_Quest03	|Départ : Hroggar\nRésumé : Être payé pour avoir coupé du petit bois pour Hroggar (Il est recommandé d'accomplir cette quête avant de commencer 'Repose en paix').
+Morthal_Quest04	|Départ : Jorgen\nRésumé : Être payé pour avoir coupé du petit bois pour Jorgen.
+Morthal_Quest05	|Départ : Idgrod la Jeune\nRésumé : Livrer la note d'Idgrod à Danica Pure-Source à Blancherive.
+Morthal_Quest06	|Départ : Benor\nRésumé : Se battre avec Benor pour prouver votre valeur.
+Morthal_Quest07	|Départ : Lami\nRésumé : Récupérer le livre 'La Chanson de l'alchimiste'.
+Morthal_Quest08	|Départ : Jarl de Morthal\nRésumé : Devenir thane de Hjaalmarche.
+----------------------------------------------------------------------------
+Riften_Quest00	|Départ : Hofgrir Casse-Monture\nRésumé : Battre Hofgrir lors d'une bagarre.
+Riften_Quest01	|Départ : Harrald\nRésumé : Livrer une épée à Harrald.
+Riften_Quest02	|Départ : Svana Lointain-Écu\nRésumé : Récupérer les 3 Marques de Dibella d'Haelga.
+Riften_Quest03	|Départ : Brand-Shei\nRésumé : Aider Brand-Shei à découvrir son passé.
+Riften_Quest04	|Départ : Ingun Roncenoir\nRésumé : Récupérer des ingrédients pour Ingun Roncenoir.
+Riften_Quest05	|Départ : Mjoll la Lionne\nRésumé : Récupérer l'épée de Mjoll, Sinistrale.
+Riften_Quest06	|Départ : Wujeeta\nRésumé : Aider Wujeeta à soigner son addiction au skooma.
+Riften_Quest07	|Départ : Wylandriah\nRésumé : Récupérer les objets égarés de Wylandriah.
+Riften_Quest08	|Départ : Marise Aravel\nRésumé : Récupérer 5 dents de spectre de glace.
+Riften_Quest09	|Départ : Alessandra\nRésumé : Aider Alessandra à faire la paix avec son père décédé.
+Riften_Quest10	|Départ : Louis Letrush\nRésumé : Aider à obtenir un cheval de Sibbi Roncenoir (Il est recommandé d'accomplir cette quête dès que possible.)
+Riften_Quest11	|Départ : Madesi\nRésumé : Récupérer des ingrédients pour Madesi.
+Riften_Quest12	|Départ : Talen-Jei\nRésumé : Récupérer 3 améthystes parfaites.
+Riften_Quest13	|Départ : Bolli\nRésumé : Livrer un contrat à Markarth.
+Riften_Quest14	|Départ : Dinya Balu\nRésumé : Distribuer des tracts religieux aux citoyens de Faillaise.
+Riften_Quest15	|Départ : Shadr\nRésumé : Aider Shadr à effacer sa dette.
+Riften_Quest16	|Départ : Balimund\nRésumé : Récupérer 10 sels de feu.
+Riften_Quest17	|Départ : Lire la note (Cargaison prête)\nRésumé : Nettoyer la grotte de Rocaxe.
+Riften_Quest18	|Départ : Jarl de Faillaise\nRésumé : Devenir thane de la Brèche.
+Riften_Quest19	|Départ : Maramal\nRésumé : Trouver quelqu'un avec qui se marier.
+Riften_Quest20	|Départ : Dinya Balu\nRésumé : Répandre l'amour en Bordeciel.
+Riften_Quest21	|Départ : Sibbi Roncenoir\nRésumé : Aider Sibbi Roncenoir à retrouver sa fiancée.
+Riften_Quest22	|Départ : Wujeeta\nRésumé : Aider à mettre fin au trafic de skooma à Faillaise.
+Riften_Quest23	|Départ : Hafjorg\nRésumé : Récupérer un échantillon de minerai.
+Riften_Quest24	|Départ : Romlyn Dreth\nRésumé : Livrer le tonnelet de contrebande à Fort-Ivar.
+Riften_Quest25	|Départ : Du-Profond-Abysse\nRésumé : Découvrir les souvenirs des Dwemers (Il est recommandé d'accomplir cette quête dès que possible).
+Riften_Quest26	|Départ : Automatique\nRésumé : Récupérer la Plume de gémination.
+Riften_Quest27	|Départ : Edda\nRésumé : Donner un septim à Edda.
+Riften_Quest28	|Départ : Snilf\nRésumé : Donner un septim à Snilf.
+----------------------------------------------------------------------------
+Solitude_Quest00	|Départ : Sorex Vinius\nRésumé : Livrer du rhum à Falk Barbebraise.
+Solitude_Quest01	|Départ : Élisif la Juste\nRésumé : Livrer la corne de guerre de Torygg à l'autel de Talos.
+Solitude_Quest02	|Départ : Inge Six-Doigts\nRésumé : Récupérer le luth de Finn.
+Solitude_Quest03	|Départ : Taarië\nRésumé : Porter des vêtements de Friperies fantaisie devant Élisif la Juste.
+Solitude_Quest04	|Départ : Sybille Stentor\nRésumé : Nettoyer un repaire de vampires.
+Solitude_Quest05	|Départ : Jaree-Ra\nRésumé : Aider à faire échouer un navire (Ne pas commencer cette quête avant d'avoir terminé 'Tuer le chef des bandits (Ahtar)').
+Solitude_Quest06	|Départ : Angeline Morrard\nRésumé : Trouver des informations sur la fille d'Angeline.
+Solitude_Quest07	|Départ : Pantea Ateia\nRésumé : Récupérer la flûte de Pantea.
+Solitude_Quest08	|Départ : Svari\nRésumé : Convaincre Greta de retourner au temple.
+Solitude_Quest09	|Départ : Giraud Gemane\nRésumé : Récupérer le tambour de Giraud.
+Solitude_Quest10	|Départ : Viarmo\nRésumé : Devenir membre de l'Académie des bardes.
+Solitude_Quest11	|Départ : Falk Barbebraise\nRésumé : Enquêter sur la grotte du Crâne de loup.
+Solitude_Quest12	|Départ : Dervenin\nRésumé : Résoudre le mystère de l'aile Pélagius.
+Solitude_Quest13	|Départ : Evette San\nRésumé : Récupérer les épices auprès de Vittoria (Cette quête devrait être accomplie avant de commencer 'Jusqu'à ce que la mort nous sépare').
+Solitude_Quest14	|Départ : Falk Barbebraise\nRésumé : Potéma doit être arrêtée (Meilleure récompense au niveau 40+).
+Solitude_Quest15	|Départ : Octieve San\nRésumé : Parler à Irnskar Poings-de-Fer pour Octieve San.
+Solitude_Quest16	|Départ : Noster Oeil-de-Lynx\nRésumé : Récupérer le casque de Noster.
+Solitude_Quest17	|Départ : Ahtar\nRésumé : Tuer le chef des bandits (Cette quête devrait être accomplie avant de commencer 'Extinction des feux').
+Solitude_Quest18	|Départ : Dervenin\nRésumé : Donner un septim à Dervenin.
+Solitude_Quest19	|Départ : Noster Oeil-de-Lynx\nRésumé : Donner un septim à Noster Oeil-de-Lynx.
+Solitude_Quest20	|Départ : Svari\nRésumé : Donner un septim à Svari.
+Solitude_Quest21	|Départ : Capitaine Aldis\nRésumé : Récupérer le livre 'Le Miroir' pour Aldis.
+Solitude_Quest22	|Départ : Jarl de Solitude\nRésumé : Devenir thane d'Haafingar.
+----------------------------------------------------------------------------
+Whiterun_Quest00	|Départ : Andurs\nRésumé : Récupérer l'amulette d'Arkay d'Andurs dans les catacombes.
+Whiterun_Quest01	|Départ : Brenuin\nRésumé : Voler une bouteille de bière argonienne pour Brenuin.
+Whiterun_Quest02	|Départ : Lars Guerrier-Né\nRésumé : Convaincre Braith d'arrêter de malmener Lars.
+Whiterun_Quest03	|Départ : Adrianne Avenicci\nRésumé : Livrer l'épée du jarl à Proventus Avenicci.
+Whiterun_Quest04	|Départ : Guerriers alik'r\nRésumé : Trouver la Rougegarde qui se cache dans Blancherive.
+Whiterun_Quest05	|Départ : Fralia Grisetoison\nRésumé : Sauver Thorald Grisetoison du Thalmor.
+Whiterun_Quest06	|Départ : Farengar Feu-Secret\nRésumé : Livrer des sels de givre à Arcadia pour Farengar.
+Whiterun_Quest07	|Départ : Lire la note sur le cadavre d'Ulag (Camp de l'Arbre endormi)\nRésumé : Parler à Ysolda de la sève de l'Arbre endormi.
+Whiterun_Quest08	|Départ : Danica Pure-Source\nRésumé : Restaurer le Vermidor pour Danica.
+Whiterun_Quest09	|Départ : Jarl Balgruuf\nRésumé : Enquêter sur la Porte murmurante à Fort-Dragon.
+Whiterun_Quest10	|Départ : Carlotta Valentia\nRésumé : Parler à Mikael à la Jument pavoisée pour Carlotta.
+Whiterun_Quest11	|Départ : Hulda\nRésumé : Être payé pour avoir coupé du petit bois pour Hulda.
+Whiterun_Quest12	|Départ : Amren\nRésumé : Traquer des bandits et récupérer l'épée familiale d'Amren.
+Whiterun_Quest13	|Départ : Uthgerd l'Inflexible\nRésumé : Se battre avec Uthgerd l'Inflexible pour prouver votre valeur.
+Whiterun_Quest14	|Départ : Brenuin\nRésumé : Donner un septim à Brenuin.
+Whiterun_Quest15	|Départ : Lucia\nRésumé : Donner un septim à Lucia.
+Whiterun_Quest16	|Départ : Ysolda\nRésumé : Récupérer une défense de mammouth pour Ysolda.
+Whiterun_Quest17	|Départ : Jarl de Blancherive\nRésumé : Devenir thane de Blancherive.
+----------------------------------------------------------------------------
+Windhelm_Quest00	|Départ : Garde de Vendeaume\nRésumé : Enquêter sur les meurtres à Vendeaume. (Il est recommandé d'accomplir cette quête dès que possible et avant d'avoir fini 'Un deuil impossible').
+Windhelm_Quest01	|Départ : Hillevi Cruellemer\nRésumé : Livrer de l'extrait d'obscurcine à Wuunferth le Sans-Vie.
+Windhelm_Quest02	|Départ : Malborn\nRésumé : Tuer l'assassin du Thalmor pour Malborn.
+Windhelm_Quest03	|Départ : Quintus Navale\nRésumé : Réparer la Fiole blanche.
+Windhelm_Quest04	|Départ : Orthus Endario\nRésumé : Aider la Compagnie de l'Empire oriental avec les pirates.
+Windhelm_Quest05	|Départ : Revyn Sadri\nRésumé : Récupérer la bague de Viola.
+Windhelm_Quest06	|Départ : Nurelion\nRésumé : Récupérer la Fiole blanche.
+Windhelm_Quest07	|Départ : Explore-les-Marais\nRésumé : Parler à Torbjorn Brise-Bouclier pour Explore-les-Marais.
+Windhelm_Quest08	|Départ : Pieds-dans-l'Eau\nRésumé : Voler une bouteille de skooma double pour Pieds-dans-l'Eau.
+Windhelm_Quest09	|Départ : Torbjorn Brise-Bouclier\nRésumé : Récupérer l'amulette d'Arkay (Cette quête devrait être accomplie avant de commencer 'Un deuil impossible').
+Windhelm_Quest10	|Départ : Torbjorn Brise-Bouclier\nRésumé : Offrir à boire à Torbjorn Brise-Bouclier.
+Windhelm_Quest11	|Départ : Brunwulf Libre-Hiver\nRésumé : Tuer le chef des bandits.
+Windhelm_Quest12	|Départ : Kjar\nRésumé : S'occuper d'un déserteur de l'équipage (Cette quête devrait être accomplie avant de commencer 'Les Ombres de l'Automne').
+Windhelm_Quest13	|Départ : Jarl de Vendeaume\nRésumé : Devenir thane d'Estemarche.
+Windhelm_Quest14	|Départ : Rolff Rudepoing\nRésumé : Se battre avec Rolff Rudepoing pour prouver votre valeur.
+Windhelm_Quest15	|Départ : Oengul Durenclume\nRésumé : Récupérer l'épée de la reine Freydis.
+Windhelm_Quest16	|Départ : Shahvee\nRésumé : Récupérer l'amulette de Zénithar de Shahvee.
+Windhelm_Quest17	|Départ : Adonato Leotelli\nRésumé : Livrer le livre d'Adonato à Giraud.
+Windhelm_Quest18	|Départ : Angrenor l'Honorable\nRésumé : Donner un septim à Angrenor l'Honorable.
+Windhelm_Quest19	|Départ : Silda l'Invisible\nRésumé : Donner un septim à Silda l'Invisible.
+----------------------------------------------------------------------------
+Winterhold_Quest00	|Départ : Dagur\nRésumé : Retrouver l'amour perdu de Ranmir.
+Winterhold_Quest01	|Départ : Haran\nRésumé : Parler à Ranmir pour Haran.
+Winterhold_Quest02	|Départ : Jarl Korir\nRésumé : Récupérer le Heaume de Fortdhiver.
+Winterhold_Quest03	|Départ : Ranmir\nRésumé : Offrir à boire à Ranmir.
+Winterhold_Quest04	|Départ : Malur Seloth\nRésumé : Voler le bâton de Prépotence pour Malur Seloth.
+Winterhold_Quest05	|Départ : Jarl de Fortdhiver\nRésumé : Devenir thane de Fortdhiver.
+----------------------------------------------------------------------------
+RavenRock_Quest00	|Départ : Glover Mallory\nRésumé : Récupérer une pioche nordique antique pour Glover Mallory.
+RavenRock_Quest01	|Départ : Doyen Othreloth\nRésumé : Nettoyer le tombeau du temple de Corberoc des engeances des cendres.
+RavenRock_Quest02	|Départ : Bralsa Drel\nRésumé : Convaincre un aubergiste de laisser un mineur ivre accéder au bar.
+RavenRock_Quest03	|Départ : Milore Ienth\nRésumé : Obtenir 5 échantillons de gelée de netch pour Milore Ienth.
+RavenRock_Quest04	|Départ : Cindiri Arano\nRésumé : Localiser un livre important pour Cindiri Arano.
+RavenRock_Quest05	|Départ : Crescius Cérellius\nRésumé : Découvrir ce qui est arrivé à l'arrière-grand-père de Crescius Cérellius.
+RavenRock_Quest06	|Départ : Geldis Sadri\nRésumé : Distribuer du sujamma de Sadri aux gens de Corberoc.
+RavenRock_Quest07	|Départ : Capitaine Veleth\nRésumé : Arrêter l'attaque d'engeances des cendres sur Corberoc.
+RavenRock_Quest08	|Départ : Glover Mallory\nRésumé : Obtenir la recette de l'ostalium de Glover Mallory. (Il est recommandé d'accomplir cette quête dès que possible).
+RavenRock_Quest09	|Départ : Féthis Alor\nRésumé : Trouver les pendentifs de l'Empire oriental pour Féthis Alor.\nNote : Cette quête doit être définie comme terminée manuellement, sauf si vous tuez Féthis Alor ou utilisez le mod 'Plenty of Pendants'.
+RavenRock_Quest10	|Départ : Capitaine Veleth\nRésumé : Localiser une cache de vin de Tisebraise pour le capitaine Veleth à Corberoc.
+RavenRock_Quest11	|Départ : Capitaine Veleth\nRésumé : Sauver le conseiller Morvayn d'une tentative d'assassinat.
+----------------------------------------------------------------------------
+SkaalVillage_Quest00	|Départ : Edla\nRésumé : Conseiller un jeune Skaal sur les dangers de la vie d'aventurier.
+SkaalVillage_Quest01	|Départ : Lupe Sang-Féroce\nRésumé : Trouver le frère de Lupe Sang-Féroce, Torkild, qui est peut-être devenu un ours-garou.
+SkaalVillage_Quest02	|Départ : Tharstan\nRésumé : Se rendre au tombeau de Vahlok et vaincre Vahlok le Geôlier.
+SkaalVillage_Quest03	|Départ : Déor Hachebois\nRésumé : Trouver un forgeron disparu du village skaal.
+SkaalVillage_Quest04	|Départ : Morwen\nRésumé : Apporter le collier de Bera à Runil à Épervine.
+SkaalVillage_Quest05	|Départ : Fanari Forte-Voix\nRésumé : Tuer un chef bandit.
+----------------------------------------------------------------------------
+SmallTowns_Quest00	|Départ : Sven, Faendal, Orgnar (Rivebois)\nRésumé : Résoudre le triangle amoureux de Rivebois.
+SmallTowns_Quest01	|Départ : Klimmek (Fort-Ivar)\nRésumé : Livrer les marchandises au Haut Hrothgar pour Klimmek.
+SmallTowns_Quest02	|Départ : Olda\nRésumé : Récupérer de l'hydromel du Souffle du dragon pour Olda.
+SmallTowns_Quest03	|Départ : Érik (Rorikbourg)\nRésumé : Aider Érik à devenir un aventurier.
+SmallTowns_Quest04	|Départ : Temba Grandbras (Fort-Ivar)\nRésumé : Donner 10 peaux d'ours à Temba Grandbras.
+SmallTowns_Quest05	|Départ : Wilhelm (Fort-Ivar)\nRésumé : Enquêter sur les événements au tertre de Voilâtre.
+SmallTowns_Quest06	|Départ : Filnjar (Pierre-de-Shor)\nRésumé : Nettoyer la mine de Ventrerouge de ses araignées.
+SmallTowns_Quest07	|Départ : Sylgja (Pierre-de-Shor)\nRésumé : Livrer les lettres au Gué du Sombreflot.
+SmallTowns_Quest08	|Départ : Narfi (Fort-Ivar)\nRésumé : Découvrir ce qui perturbe Narfi (Cette quête devrait être accomplie avant de commencer la Confrérie noire).
+SmallTowns_Quest09	|Départ : Lucan Valerius\nRésumé : Récupérer la griffe d'or au tertre des Chutes tourmentées.
+SmallTowns_Quest10	|Départ : Hod (Rivebois)\nRésumé : Être payé pour avoir coupé du petit bois pour Hod.
+SmallTowns_Quest11	|Départ : Horgeir (Pondragon)\nRésumé : Être payé pour avoir coupé du petit bois pour Horgeir.
+SmallTowns_Quest12	|Départ : Temba Grandbras (Fort-Ivar)\nRésumé : Être payé pour avoir coupé du petit bois pour Temba Grandbras.
+SmallTowns_Quest13	|Départ : Azzada Lylvieve (Pondragon)\nRésumé : Être payé pour avoir fait la récolte pour Azzada Lylvieve.
+SmallTowns_Quest14	|Départ : Boti (Fort-Ivar)\nRésumé : Être payé pour avoir fait la récolte pour Boti.
+SmallTowns_Quest15	|Départ : Lemkil (Rorikbourg)\nRésumé : Être payé pour avoir fait la récolte pour Lemkil.
+SmallTowns_Quest16	|Départ : Reldith (Rorikbourg)\nRésumé : Être payé pour avoir fait la récolte pour Reldith.
+SmallTowns_Quest17	|Départ : Embry (Rivebois)\nRésumé : Offrir à boire à Embry.
+SmallTowns_Quest18	|Départ : Narfi (Fort-Ivar)\nRésumé : Donner un septim à Narfi.
+----------------------------------------------------------------------------
+TelMithryn_Quest00	|Départ : Neloth\nRésumé : Récupérer un bâton fabriqué par Azra Noxmanus pour Neloth.
+TelMithryn_Quest01	|Départ : Neloth\nRésumé : Examiner un Roncecoeur pour Neloth.
+TelMithryn_Quest02	|Départ : Neloth\nRésumé : Aider Neloth en devenant le cobaye de son expérience.
+TelMithryn_Quest03	|Départ : Neloth\nRésumé : Aider Neloth en devenant le cobaye de son expérience... encore.
+TelMithryn_Quest04	|Départ : Talvas Fathryon\nRésumé : Aider Talvas Fathryon en tuant un gardien des cendres.
+TelMithryn_Quest05	|Départ : Elynea Mothren\nRésumé : Aider Elynea Mothren à réparer la tour de Tel Mithryn.
+TelMithryn_Quest06	|Départ : Neloth\nRésumé : Trouver un coeur de pierre pour Neloth.
+TelMithryn_Quest07	|Départ : Elynea Mothren\nRésumé : Rassembler des ingrédients rares pour Elynea Mothren.
+TelMithryn_Quest08	|Départ : Neloth\nRésumé : Récupérer les Livres noirs pour Neloth.
+TelMithryn_Quest09	|Départ : Mogrul\nRésumé : Aider Drovas Relvi avec sa dette envers Mogrul.
+TelMithryn_Quest10	|Départ : Neloth\nRésumé : Trouver la source des attaques sur Tel Mithryn.
+TelMithryn_Quest11	|Départ : Neloth\nRésumé : Trouver un nouvel intendant pour Neloth à Corberoc.
+TelMithryn_Quest12	|Départ : Neloth\nRésumé : Extraire un échantillon d'engeance des cendres pour les recherches de Neloth.
+TelMithryn_Quest13	|Départ : Neloth\nRésumé : Récupérer un exemplaire de 'Vent et sable' pour Neloth.
+----------------------------------------------------------------------------
+Thirsk_Quest00	|Départ : Chef des riekelins\nRésumé : Aider le chef des riekelins à la salle des banquets de Thirsk.
+Thirsk_Quest01	|Départ : Elmus\nRésumé : Récupérer des genièvres pour Elmus.
+Thirsk_Quest02	|Départ : Elmus\nRésumé : Récupérer une bouteille d'hydromel de Cendraie pour Elmus.
+Thirsk_Quest03	|Départ : Halbarn Fertoison\nRésumé : Trouver des matériaux pour Halbarn Fertoison.
+Thirsk_Quest04	|Départ : Hilund\nRésumé : Trouver 50 lances riekelins pour Hilund.
+Thirsk_Quest05	|Départ : Bujold l'Indigne\nRésumé : Aider Bujold l'Indigne à reprendre la salle des banquets de Thirsk.
+Thirsk_Quest06	|Départ : Automatique (Rencontre aléatoire)\nRésumé : Enquêter sur la salle des banquets de Thirsk et les Nordiques exilés.
+----------------------------------------------------------------------------
+CollegeOfWinterhold_Quest00	|Départ : Faralda\nRésumé : Rejoindre l'Académie de Fortdhiver.
+CollegeOfWinterhold_Quest01	|Départ : Tolfdir\nRésumé : Enquêter à Saarthal.
+CollegeOfWinterhold_Quest02	|Départ : Savos Aren\nRésumé : Récupérer les livres.
+CollegeOfWinterhold_Quest03	|Départ : Tolfdir\nRésumé : Parler à l'Augure de Dunlain.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 25+).
+CollegeOfWinterhold_Quest04	|Départ : Mirabelle Ervine\nRésumé : Découvrir l'emplacement du Bâton de Magnus.
+CollegeOfWinterhold_Quest05	|Départ : Automatique\nRésumé : Faire face aux conséquences de l'Oeil de Magnus.
+CollegeOfWinterhold_Quest06	|Départ : Mirabelle Ervine\nRésumé : Récupérer le Bâton de Magnus.
+CollegeOfWinterhold_Quest07	|Départ : Automatique\nRésumé : Reprendre l'Académie.
+CollegeOfWinterhold_Quest08	|Départ : Tolfdir\nRésumé : Récupérer des écailles de poitrine de dragon.
+CollegeOfWinterhold_Quest09	|Départ : Arniel Gane\nRésumé : Découvrir un antique secret dwemer.
+CollegeOfWinterhold_Quest10	|Départ : Arniel Gane\nRésumé : Découvrir un antique secret dwemer.
+CollegeOfWinterhold_Quest11	|Départ : Arniel Gane\nRésumé : Découvrir un antique secret dwemer.
+CollegeOfWinterhold_Quest12	|Départ : Arniel Gane\nRésumé : Découvrir un antique secret dwemer.
+CollegeOfWinterhold_Quest13	|Départ : Brelyna Maryon\nRésumé : Laisser Brelyna s'entraîner sur vous.
+CollegeOfWinterhold_Quest14	|Départ : Phinis Gestor\nRésumé : Invoquer un Drémora libre.
+CollegeOfWinterhold_Quest15	|Départ : Faralda\nRésumé : Apprendre un puissant sort de destruction.
+CollegeOfWinterhold_Quest16	|Départ : Rencontre aléatoire\nRésumé : Invoquer le pirate drémora Velehk Sain.
+CollegeOfWinterhold_Quest17	|Départ : Drevis Neloren\nRésumé : Récupérer les livres d'illusion.
+CollegeOfWinterhold_Quest18	|Départ : J'zargo\nRésumé : Tester un nouveau sort pour J'zargo.
+CollegeOfWinterhold_Quest19	|Départ : Onmund\nRésumé : Récupérer l'amulette d'Onmund auprès d'Enthir.
+CollegeOfWinterhold_Quest20	|Départ : Colette Marence\nRésumé : Convaincre l'Augure de Dunlain.
+CollegeOfWinterhold_Quest21	|Départ : Phinis Gestor\nRésumé : Retrouver les quatre apprentis disparus.
+CollegeOfWinterhold_Quest22	|Départ : Tolfdir\nRésumé : Contenir la faille causée par l'Oeil de Magnus.
+CollegeOfWinterhold_Quest23	|Départ : Sergius Turrianus\nRésumé : Récupérer l'objet à enchanter.
+CollegeOfWinterhold_Quest24	|Départ : Urag gro-Shub\nRésumé : Récupérer un livre pour Urag gro-Shub.\nNote : Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron'.
+CollegeOfWinterhold_Quest25	|Départ : Sergius Turrianus\nRésumé : Récupérer une Gemme spirituelle magistrale pleine pour Sergius Turrianus.
+CollegeOfWinterhold_Quest26	|Départ : Drevis Neloren\nRésumé : Purifier les points de convergence de l'Académie.
+CollegeOfWinterhold_Quest27	|Départ : Nirya\nRésumé : Récupérer les notes de recherche de Faralda pour Nirya.
+CollegeOfWinterhold_Quest28	|Départ : Sergius Turrianus\nRésumé : Aider Sergius à remplir les stocks de gemmes spirituelles.
+CollegeOfWinterhold_Quest29	|Départ : Tolfdir\nRésumé : Traquer et tuer le mage renégat.
+CollegeOfWinterhold_Quest30	|Départ : Urag gro-Shub\nRésumé : Récupérer 'Les réflexions de Shalidor'.
+CollegeOfWinterhold_Quest31	|Départ : Tolfdir\nRésumé : Récupérer l'alambic perdu de Tolfdir.
+----------------------------------------------------------------------------
+Companions_Quest00	|Départ : Divers\nRésumé : Rejoindre les Compagnons (Il est recommandé d'accomplir cette quête dès que possible).
+Companions_Quest01	|Départ : Skjor\nRésumé : Récupérer un fragment de Wuuthrad (Il est recommandé d'accomplir cette quête dès que possible).
+Companions_Quest02	|Départ : Skjor\nRésumé : Nettoyer le Gibet.
+Companions_Quest03	|Départ : Kodlak Blancrin\nRésumé : Tuer la sorcière de Glenmoril.
+Companions_Quest04	|Départ : Vilkas\nRésumé : Éliminer la Main d'argent.
+Companions_Quest05	|Départ : Vilkas\nRésumé : Purifier l'esprit de Kodlak.
+Companions_Quest06	|Départ : Aela la Chasseuse\nRésumé : Tuer la bête.
+Companions_Quest07	|Départ : Aela la Chasseuse\nRésumé : Nettoyer l'antre.
+Companions_Quest08	|Départ : Aela la Chasseuse\nRésumé : Collecter des peaux d'animaux pour Aela.
+Companions_Quest09	|Départ : Farkas, Vilkas\nRésumé : Tuer le dragon.
+Companions_Quest10	|Départ : Skjor, Vilkas\nRésumé : Tuer le criminel en fuite.
+Companions_Quest11	|Départ : Skjor, Vilkas\nRésumé : Récupérer un héritage familial.
+Companions_Quest12	|Départ : Farkas\nRésumé : Remettre un citoyen sur le droit chemin.
+Companions_Quest13	|Départ : Farkas\nRésumé : Aider Farkas à soigner sa lycanthropie.
+Companions_Quest14	|Départ : Vilkas\nRésumé : Aider Vilkas à soigner sa lycanthropie.
+Companions_Quest15	|Départ : Skjor, Vilkas\nRésumé : Sauver un citoyen enlevé.
+Companions_Quest16	|Départ : Aela la Chasseuse\nRésumé : Récupérer un fragment de Wuuthrad.
+Companions_Quest17	|Départ : Aela la Chasseuse\nRésumé : Rassembler des informations sur le quartier général de la Main d'argent.\nNote : Cette quête sera disponible après avoir terminé la quête 'Pure vengeance'.
+Companions_Quest18	|Départ : Aela la Chasseuse\nRésumé : Tuer le chef de la Main d'argent.\nNote : Cette quête sera disponible après avoir terminé la quête 'Pure vengeance'.
+Companions_Quest19	|Départ : Aela la Chasseuse\nRésumé : Récupérer le totem d'Hircine.\nNote : Cette quête sera automatiquement placée dans la section terminée après avoir récupéré le troisième et dernier totem.
+Companions_Quest20	|Départ : Farkas\nRésumé : Nettoyer une zone problématique.
+----------------------------------------------------------------------------
+DarkBrotherhood_Quest00	|Départ : Aventus Aretino\nRésumé : Aider à éviter à un orphelin d'être rendu à une directrice sadique.
+DarkBrotherhood_Quest01	|Départ : Cicéron\nRésumé : Convaincre un fermier récalcitrant d'aider à réparer la roue cassée du chariot d'un bouffon.
+DarkBrotherhood_Quest02	|Départ : Dormir après 'La fin de l'innocence'\nRésumé : Remboursez votre dette à la Famille, et montrer que vous savez tuer sur commande.
+DarkBrotherhood_Quest03	|Départ : Astrid\nRésumé : Obtenir vos premiers contrats en tant que membre de la Confrérie.
+DarkBrotherhood_Quest04	|Départ : Astrid\nRésumé : Aider Muiri à se venger.\nNote : Cette quête devrait être accomplie avant de commencer 'Perdue dans les âges' et après avoir terminé 'Du sang sur la glace' et 'Précieux cadeaux (Torbjorn Brise-Bouclier)'.
+DarkBrotherhood_Quest05	|Départ : Astrid\nRésumé : Espionner le gardien de la Mère de la Nuit pour voir s'il prévoie de saboter la Confrérie.
+DarkBrotherhood_Quest06	|Départ : Astrid\nRésumé : Retrouver Amaund Motierre à Volunruud et apprendre qui il veut faire assassiner.
+DarkBrotherhood_Quest07	|Départ : Astrid\nRésumé : Assassiner Vittoria Vici à son propre mariage.\nNote : Ne pas commencer cette quête avant d'avoir terminé 'Le vin épicé'.
+DarkBrotherhood_Quest08	|Départ : Astrid\nRésumé : Assassiner et piéger le fils d'un garde impérial de haut rang.
+DarkBrotherhood_Quest09	|Départ : Gabriella\nRésumé : Affronter le traître parmi la Confrérie noire.
+DarkBrotherhood_Quest10	|Départ : Astrid\nRésumé : Endosser l'identité du célèbre Gourmet pour assassiner l'Empereur.
+DarkBrotherhood_Quest11	|Départ : Astrid\nRésumé : Tenter d'assassiner l'Empereur en vous déguisant en Gourmet.
+DarkBrotherhood_Quest12	|Départ : Automatique\nRésumé : Aider les membres de la Confrérie contre l'assaut du Penitus Oculatus.
+DarkBrotherhood_Quest13	|Départ : Mère de la Nuit\nRésumé : L'un des plus gros contrats de l'histoire de la Confrérie est à vous.
+DarkBrotherhood_Quest14	|Départ : Automatique\nRésumé : Éliminer la Confrérie noire et en débarrasser Bordeciel !
+DarkBrotherhood_Quest15	|Départ : Nazir\nRésumé : Assassiner Agnis pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest16	|Départ : Nazir\nRésumé : Assassiner Anoriath pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest17	|Départ : Nazir\nRésumé : Assassiner Beitild pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest18	|Départ : Nazir\nRésumé : Assassiner Deekus pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest19	|Départ : Nazir\nRésumé : Assassiner Ennodius Papius pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest20	|Départ : Nazir\nRésumé : Assassiner Helvard pour remplir un contrat de la Confrérie noire.\nNote : Ne pas commencer cette quête avant d'avoir construit votre maison d'Épervine.
+DarkBrotherhood_Quest21	|Départ : Nazir\nRésumé : Assassiner Hern pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest22	|Départ : Nazir\nRésumé : Assassiner Lurbuk pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest23	|Départ : Nazir\nRésumé : Assassiner Maluril pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest24	|Départ : Nazir\nRésumé : Assassiner Ma'randru-jo pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest25	|Départ : Nazir\nRésumé : Assassiner Narfi pour remplir un contrat de la Confrérie noire.\nNote : Ne pas commencer cette quête avant d'avoir terminé 'La goutte d'eau en trop'.
+DarkBrotherhood_Quest26	|Départ : Nazir\nRésumé : Assassiner Safia pour remplir un contrat de la Confrérie noire.
+DarkBrotherhood_Quest27	|Départ : Olava la Délicate\nRésumé : Trouver l'assassin de la Confrérie noire.
+DarkBrotherhood_Quest28	|Départ : Victimes de torture\nRésumé : Torturer les prisonniers de la Confrérie pour découvrir un trésor.
+DarkBrotherhood_Quest29	|Départ : Victimes de torture\nRésumé : Torturer les prisonniers de la Confrérie pour découvrir un trésor.
+DarkBrotherhood_Quest30	|Départ : Victimes de torture\nRésumé : Torturer les prisonniers de la Confrérie pour découvrir un trésor.
+DarkBrotherhood_Quest31	|Départ : Victimes de torture\nRésumé : Torturer les prisonniers de la Confrérie pour découvrir un trésor.
+DarkBrotherhood_Quest32	|Départ : Nazir\nRésumé : Restaurer le sanctuaire de la Confrérie noire.
+DarkBrotherhood_Quest33	|Départ : Mère de la Nuit\nRésumé : Un autre enfant a prié sa Mère.
+----------------------------------------------------------------------------
+ThievesGuild_Quest00	|Départ : Brynjolf\nRésumé : Voler l'anneau de Madesi.
+ThievesGuild_Quest01	|Départ : Brynjolf\nRésumé : Recouvrer des dettes pour Brynjolf.
+ThievesGuild_Quest02	|Départ : Brynjolf\nRésumé : Envoyer un message à un ancien client de la Guilde des voleurs.
+ThievesGuild_Quest03	|Départ : Brynjolf, Maven Roncenoir\nRésumé : Mettre la concurrence de Maven Roncenoir hors d'état de nuire.
+ThievesGuild_Quest04	|Départ : Mercer Frey\nRésumé : Faire pression sur un informateur réticent pour obtenir des informations.
+ThievesGuild_Quest05	|Départ : Mercer Frey\nRésumé : Traquer la Dunmer qui se cache derrière les malheurs de la Guilde.
+ThievesGuild_Quest06	|Départ : Enthir\nRésumé : Aider à traduire le journal de Gallus.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 46+).
+ThievesGuild_Quest07	|Départ : Brynjolf\nRésumé : Pénétrer dans la maison de Mercer Frey et chercher des indices.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 46+).
+ThievesGuild_Quest08	|Départ : Karliah\nRésumé : Devenir un Rossignol.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 32+).
+ThievesGuild_Quest09	|Départ : Brynjolf\nRésumé : Arrêter Mercer Frey.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 46+).
+ThievesGuild_Quest10	|Départ : Karliah\nRésumé : Suivre la Voie du pèlerin et remettre la Clé squelette à sa place légitime.
+ThievesGuild_Quest11	|Départ : Brynjolf\nRésumé : Devenir maître de guilde de la Guilde des voleurs.\nNote : Cette quête donne un objet nivelé (Aléatoire entre 7 versions).
+ThievesGuild_Quest12	|Départ : Brynjolf\nRésumé : Parler avec les membres de la Guilde des voleurs et récupérer votre équipement.
+ThievesGuild_Quest13	|Départ : Gemme étrange\nRésumé : Trouver les 24 gemmes pour restaurer la Couronne de Barenziah.\nNote : Il est recommandé d'accomplir cette quête dès que possible.
+ThievesGuild_Quest14	|Départ : Gemme étrange\nRésumé : Trouver quelqu'un pouvant identifier la gemme étrange.
+ThievesGuild_Quest15	|Départ : Delvin Mallory\nRésumé : Trouver les objets pour Delvin Mallory.\nObjets requis : Statue de reine des abeilles, Carafe d'hydrhonning, Carte de l'Empire oriental, Maquette de bateau, Cube dwemer, Buste du Renard gris, Oeil gauche de Falmer.
+ThievesGuild_Quest16	|Départ : Tonilia\nRésumé : Livrer le sucrelune à Ri'saad (Avoir accompli trois quêtes spéciales de réputation, pour pouvoir la commencer).
+ThievesGuild_Quest17	|Départ : Vekel l'Homme\nRésumé : Récupérer les journaux du nécromancien.
+ThievesGuild_Quest18	|Départ : Delvin Mallory\nRésumé : Aider à faire libérer un prisonnier condamné (Quête spéciale de réputation à Blancherive).
+ThievesGuild_Quest19	|Départ : Delvin Mallory\nRésumé : Récupérer un moule en argent volé pour un orfèvre (Quête spéciale de réputation à Markarth).
+ThievesGuild_Quest20	|Départ : Delvin Mallory\nRésumé : Éliminer une guilde rivale (Quête spéciale de réputation à Vendeaume).\nNote : Ne pas commencer cette quête avant d'avoir terminé 'Un maître impitoyable'.
+ThievesGuild_Quest21	|Départ : Delvin Mallory\nRésumé : Piéger le capitaine d'un navire pour venger un marchand (Quête spéciale de réputation à Solitude).
+ThievesGuild_Quest22	|Départ : Delvin Mallory\nRésumé : Voler des objets d'une valeur totale donnée.
+ThievesGuild_Quest23	|Départ : Vex\nRésumé : Voler un objet particulier dans une maison de riche.
+ThievesGuild_Quest24	|Départ : Delvin Mallory\nRésumé : Voler un objet de la poche d'une cible.
+ThievesGuild_Quest25	|Départ : Vex\nRésumé : Voler un objet particulier dans un magasin.
+ThievesGuild_Quest26	|Départ : Delvin Mallory\nRésumé : Modifier le registre d'un magasin.
+ThievesGuild_Quest27	|Départ : Vex\nRésumé : Placer un objet comme fausse preuve dans une maison de riche.
+ThievesGuild_Quest28	|Départ : Vex\nRésumé : Voler trois objets particuliers dans une maison de riche.
+----------------------------------------------------------------------------
+Dawnguard_Quest00	|Départ : Sorine Jurard\nRésumé : Trouver Florentius Baenius et le recruter dans la Garde de l'Aube.
+Dawnguard_Quest01	|Départ : Sorine Jurard\nRésumé : Récupérer les schémas dwemers pour améliorer la technologie de la Garde de l'Aube (À accomplir 6 fois).
+Dawnguard_Quest02	|Départ : Gunmar\nRésumé : Tuer le chef d'un repaire de vampires.
+Dawnguard_Quest03	|Départ : Gunmar\nRésumé : Tuer un vampire se faisant passer pour un citoyen.
+Dawnguard_Quest04	|Départ : Gunmar\nRésumé : Détruire le vampire ciblé.
+Dawnguard_Quest05	|Départ : Isran\nRésumé : Tuer un vampire se faisant passer pour un conseiller en visite.
+Dawnguard_Quest06	|Départ : Florentius Baenius\nRésumé : Récupérer une relique de la Garde de l'Aube originelle (À accomplir 3 fois).
+Dawnguard_Quest07	|Départ : Gunmar\nRésumé : Détruire un vampire avant qu'il ne transforme ses alliés.
+Dawnguard_Quest08	|Départ : Florentius Baenius\nRésumé : Sauver une victime des vampires.
+----------------------------------------------------------------------------
+Vampires_Quest00	|Départ : Feran Sadri\nRésumé : Récupérer les amulettes de Pouvoir nocturne.
+Vampires_Quest01	|Départ : Garan Marethi ou Fura Bouchesanguine\nRésumé : Tuer les chefs de la Garde de l'Aube.
+Vampires_Quest02	|Départ : Vingalmo\nRésumé : Transformer votre conjoint(e) en créature de la nuit.
+Vampires_Quest03	|Départ : Feran Sadri\nRésumé : Récupérer l'anneau d'érudit et l'anneau bestial.
+Vampires_Quest04	|Départ : Feran Sadri\nRésumé : Récupérer des parties de vampires dans divers endroits de Bordeciel.
+Vampires_Quest05	|Départ : Garan Marethi ou Fura Bouchesanguine\nRésumé : Tuer les vampires sang-dilué.
+Vampires_Quest06	|Départ : Feran Sadri\nRésumé : Faire accuser la Garde de l'Aube de meurtre.
+Vampires_Quest07	|Départ : Vingalmo\nRésumé : Transformer la cible en vampire.
+Vampires_Quest08	|Départ : Garan Marethi ou Fura Bouchesanguine\nRésumé : Détruire un vampire avant qu'il ne transforme ses alliés.
+Vampires_Quest09	|Départ : Garan Marethi ou Fura Bouchesanguine\nRésumé : Tuer l'espion de la Garde de l'Aube.
+----------------------------------------------------------------------------
+Dungeons_Quest00	|Départ : Medresi Dran\nRésumé : Récupérer le trésor d'Angarvunde.\nLieu : Angarvunde.
+Dungeons_Quest01	|Départ : Automatique\nRésumé : Tuer Lu'ah Al-Skaven.\nLieu : Ansilvund.
+Dungeons_Quest02	|Départ : Melka\nRésumé : Aider Melka à récupérer la tour.\nLieu : Bastion du Cap aveugle.
+Dungeons_Quest03	|Départ : Illia\nRésumé : Empêcher Silvia de se transformer en harfreuse.\nLieu : Tour Clair-Obscur.
+Dungeons_Quest04	|Départ : Capitaine Valmir\nRésumé : Tuer Rahgot.\nLieu : Forelhost.
+Dungeons_Quest05	|Départ : Automatique\nRésumé : Enquêter au phare d'Hiveronde.\nLieu : Phare d'Hiveronde.\nNote : Il est recommandé d'accomplir cette quête dès que possible.
+Dungeons_Quest06	|Départ : Automatique\nRésumé : Enquêter à la crypte de Givrelac.\nLieu : Crypte de Givrelac. (Meilleure récompense au niveau 27+).
+Dungeons_Quest07	|Départ : Anska\nRésumé : Aider Anska a trouver son chemin dans les ruines de la Grande Porte.\nLieu : Ruines de la Grande Porte
+Dungeons_Quest08	|Départ : Golldir\nRésumé : Empêcher un nécromancien de souiller la tombe.\nLieu : Tombeau d'Hillgrund.
+Dungeons_Quest09	|Départ : Salma\nRésumé : Aider les aventuriers à récupérer leurs richesses.\nLieu : Tertre de Ferlié.
+Dungeons_Quest10	|Départ : Automatique (Entrer dans le Refuge du menteur)\nRésumé : Récupérer le marteau sur un bandit mort.\nLieu : Refuge du Menteur.
+Dungeons_Quest11	|Départ : Christer\nRésumé : Aider Christer à trouver sa femme.\nLieu : Arquebrumes.
+Dungeons_Quest12	|Départ : Telrav\nRésumé : Escorter Telrav à Nilheim.\nLieu : Nilheim.
+Dungeons_Quest13	|Départ : Automatique (Activer le sarcophage)\nRésumé : Découvrir les secrets de Ragnvald.\nLieu : Ragnvald.
+Dungeons_Quest14	|Départ : Lire 'La légende de l'Aigle carmin'\nRésumé : Récupérer l'épée de l'Aigle carmin.\nLieu : Redoute de l'Aigle carmin.
+Dungeons_Quest15	|Départ : Automatique\nRésumé : Récupérer le trésor de la Gorge des Voleurs.\nLieu : Gorge des Voleurs.
+Dungeons_Quest16	|Départ : Selveni Nethri\nRésumé : Aider Selveni à s'échapper du sanctuaire de Méridion.\nLieu : Sanctuaire de Méridion.
+Dungeons_Quest17	|Départ : Stalleo\nRésumé : Aider à reprendre le Cap de Treva.\nLieu : Cap de Treva.
+Dungeons_Quest18	|Départ : Automatique\nRésumé : Sceller un mal ancien.\nLieu : Valthume.
+Dungeons_Quest19	|Départ : Automatique\nRésumé : Se frayer un chemin vers le mal régnant à Volskygge.\nLieu : Volskygge.
+Dungeons_Quest20	|Départ : Notes d'Heddic sur Volunruud\nRésumé : Déverrouiller la chambre funéraire de Kvenel.\nLieu : Volunruud.
+Dungeons_Quest21	|Départ : Birna\nRésumé : Récupérer le trésor du tertre d'Yngol.\nLieu : Tertre d'Yngol.
+----------------------------------------------------------------------------
+Misc_DB_Quest00	|Départ : Lire 'Le Balafré'\nRésumé : Trouver le trésor d'Haknir le Balafré.
+Misc_DB_Quest01	|Départ : Automatique (Atteindre le niveau 80)\nRésumé : Localiser et vaincre le Guerrier d'ébonite.
+Misc_DB_Quest02	|Départ : Automatique (Rencontre aléatoire)\nRésumé : Découvrir le secret de la maison de Hrodulf.
+Misc_DB_Quest03	|Départ : Automatique (Rencontre aléatoire)\nRésumé : Survivre aux épreuves de Kagrumez pour obtenir une récompense unique.
+Misc_DB_Quest04	|Départ : Automatique (Rencontre aléatoire)\nRésumé : Invoquer et vaincre Karstaag.
+Misc_DB_Quest05	|Départ : Ralis Sedarys\nRésumé : Aider Ralis Sedarys dans sa recherche des reliques d'Ahzidal au tertre de Kolbjorn.
+Misc_DB_Quest06	|Départ : Livre noir\nRésumé : Découvrir le savoir caché du Livre noir.
+Misc_DB_Quest07	|Départ : Livre noir\nRésumé : Découvrir le savoir caché du Livre noir.
+Misc_DB_Quest08	|Départ : Livre noir\nRésumé : Découvrir le savoir caché du Livre noir.
+Misc_DB_Quest09	|Départ : Livre noir\nRésumé : Découvrir le savoir caché du Livre noir.
+Misc_DB_Quest10	|Départ : Livre noir\nRésumé : Découvrir le savoir caché du Livre noir.
+----------------------------------------------------------------------------
+Misc_DG_Quest00	|Départ : Durnehviir\nRésumé : Apprendre un Cri de Durnehviir.
+Misc_DG_Quest01	|Départ : Urag gro-Shub\nRésumé : Apporter le livre falmer ancien à Urag gro-Shub.
+Misc_DG_Quest02	|Départ : Âme de Jiub\nRésumé : Rassembler les dix pages manquantes de l'Opus de saint Jiub.
+Misc_DG_Quest03	|Départ : Lire 'Les guerres de l'aethérium'\nRésumé : Chercher la Forge d'aethérium.\nNote : Il est recommandé d'accomplir cette quête dès que possible et après avoir fini 'Un deuil impossible'.
+Misc_DG_Quest04	|Départ : Âme en détresse\nRésumé : Trouver le crâne d'Arvak.
+----------------------------------------------------------------------------
+Side_SK_Quest00	|Départ : Kharjo\nRésumé : Récupérer l'amulette de la Lune pour Kharjo.\nLieu : Caravane khajiit.
+Side_SK_Quest01	|Départ : Automatique (Rencontre aléatoire)\nRésumé : Sauver Derkeethus.\nLieu : Gué du Sombreflot.
+Side_SK_Quest02	|Départ : Gharol\nRésumé : Livrer l'épée de Gharol à Lash.\nLieu : Dushnikh Yal.
+Side_SK_Quest03	|Départ : Froki Finelame\nRésumé : Participer aux épreuves sacrées de Kyne.\nLieu : Cabane de Froki.
+Side_SK_Quest04	|Départ : Forteresses orques\nRésumé : Récupérer les Mains du Forgeron.\nLieu : N'importe quelle forteresse.\nNote : Cette quête devrait être terminée avant toute quête pour devenir ami(e) des Orques.
+Side_SK_Quest05	|Départ : Grosta\nRésumé : Aider Grosta à retrouver son mari disparu.\nLieu : Scierie de Coeur-Bois.
+Side_SK_Quest06	|Départ : Arngeir\nRésumé : Apprendre un Mot de puissance d'un Mur de Mots.\nLieu : Haut Hrothgar.
+Side_SK_Quest07	|Départ : Ainethach, Atar\nRésumé : Régler l'affaire de la mine de Sanuarach.\nLieu : Folpertuis.\nNote : Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron'.
+Side_SK_Quest08	|Départ : Pavo Attius, Skaggi le Balafré\nRésumé : Nettoyer la mine des Parjures.\nLieu : Mine de Kolskeggr.\nNote : Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron'.
+Side_SK_Quest09	|Départ : Dravynea la Tisseuse-de-Pierre\nRésumé : Récupérer des sels de givre pour Dravynea.\nLieu : Bosquet de Kyne.
+Side_SK_Quest10	|Départ : Atub\nRésumé : Lever la malédiction sur les Orques de Largashbur.\nLieu : Largashbur.\nNote : Ne pas commencer cette quête avant d'avoir commencé 'Les Mains du Forgeron'.
+Side_SK_Quest11	|Départ : Dravin Llanith\nRésumé : Récupérer l'arc volé.\nLieu : Ferme de l'Allégresse.
+Side_SK_Quest12	|Départ : Valdr\nRésumé : Aider un chasseur à venger ses compagnons.\nLieu : Grotte de Vertemousse.
+Side_SK_Quest13	|Départ : Eydis\nRésumé : Récupérer l'épée de Hjalti.\nLieu : Auberge du Vieux-Hroldan.
+Side_SK_Quest14	|Départ : Automatique\nRésumé : Devenir le Champion de Boéthia.\nLieu : Sanctuaire de Boéthia.
+Side_SK_Quest15	|Départ : Rogatus Salvius\nRésumé : Livrer une lettre au fils du fermier.\nLieu : Ferme Salvius.
+Side_SK_Quest16	|Départ : Avrusa Sarethi\nRésumé : Récupérer 20 raisins jazbay pour Avrusa.\nLieu : Ferme Sarethi.
+Side_SK_Quest17	|Départ : Septimus Signus\nRésumé : Enquêter sur le coffret dwemer.\nLieu : Avant-poste de Septimus Signus.
+Side_SK_Quest18	|Départ : Aranea Ienith\nRésumé : Trouver et réparer l'Étoile d'Azura.\nLieu : Autel d'Azura.
+Side_SK_Quest19	|Départ : Kesh le Propre\nRésumé : Tuer l'apostat.\nLieu : Autel de Péryite.
+Side_SK_Quest20	|Départ : Perth\nRésumé : Nettoyer la mine des draugr.\nLieu : Doline de Soljund.
+Side_SK_Quest21	|Départ : Cristal de Méridia\nRésumé : Nettoyer le temple de Méridia.\nLieu : Statue de Méridia.\nNote : Il est recommandé d'accomplir cette quête dès que possible.
+Side_SK_Quest22	|Départ : Pactur\nRésumé : Informer le thane Bryling que la cargaison arrivera bientôt.\nLieu : Tertral.
+Side_SK_Quest23	|Départ : Sam Guevenne\nRésumé : Retrouver votre ami perdu, Sam, en vous remettant d'une gueule de bois.\nLieu : Auberges.\nNote : Il est recommandé d'accomplir cette quête dès que possible.
+Side_SK_Quest24	|Départ : Divers\nRésumé : Enquêter sur la légende de Gauldur.\nLieu : Divers.\nNote : Cette quête donne un objet nivelé (Meilleure récompense au niveau 36+).
+Side_SK_Quest25	|Départ : Journal de Sinderion ou cueillir une nirnroot cramoisie\nRésumé : Rassembler 30 échantillons de nirnroot cramoisie.
+----------------------------------------------------------------------------
+Radi_SK_Quest00	|Départ : Iddra\nRésumé : Parler à Roggi Barbe-Nouée pour Iddra.\nLieu : Auberge du Bois tressé.
+Radi_SK_Quest01	|Départ : Aubergiste, jarl ou chambellan\nRésumé : Tuer un chef bandit.
+Radi_SK_Quest02	|Départ : Aubergiste, jarl ou chambellan\nRésumé : Tuer un dragon.
+Radi_SK_Quest03	|Départ : Aubergiste, jarl ou chambellan\nRésumé : Tuer un géant.
+Radi_SK_Quest04	|Départ : Aubergiste, jarl ou chambellan de la Crevasse\nRésumé : Tuer un chef parjure.
+Radi_SK_Quest05	|Départ : Aeri\nRésumé : Être payé pour avoir coupé du petit bois.\nLieu : Scierie d'Anga.
+Radi_SK_Quest06	|Départ : Grosta\nRésumé : Être payé pour avoir coupé du petit bois.\nLieu : Scierie de Coeur-Bois.
+Radi_SK_Quest07	|Départ : Ganna Uriel\nRésumé : Être payé pour avoir coupé du petit bois.\nLieu : Bosquet de Kyne.
+Radi_SK_Quest08	|Départ : Gilfre\nRésumé : Être payé pour avoir coupé du petit bois.\nLieu : Scierie de Méliflot.
+Radi_SK_Quest09	|Départ : Hjorunn\nRésumé : Être payé pour avoir coupé du petit bois.\nLieu : Scierie de Solitude.
+Radi_SK_Quest10	|Départ : Aeri\nRésumé : Livrer la note d'Aeri à Skald.\nLieu : Scierie d'Anga.
+Radi_SK_Quest11	|Départ : Sondas Drenim\nRésumé : Livrer la note de Sondas à Quintus Navale.\nLieu : Mine de Doroc.
+Radi_SK_Quest12	|Départ : Esbern\nRésumé : Tuer un dragon dans son repaire.\nLieu : Temple d'Havreciel.
+Radi_SK_Quest13	|Départ : Esbern\nRésumé : Aider Esbern à terminer ses recherches sur les dragons.\nLieu : Temple d'Havreciel.
+Radi_SK_Quest14	|Départ : Roggi Barbe-Nouée\nRésumé : Récupérer le bouclier ancestral de Roggi.\nLieu : Bosquet de Kyne.
+Radi_SK_Quest16	|Départ : Addvild\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme Chausseneige
+Radi_SK_Quest17	|Départ : Alfhild Guerrier-Né\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme des Guerriers-Nés
+Radi_SK_Quest18	|Départ : Avrusa Sarethi\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme Sarethi
+Radi_SK_Quest19	|Départ : Belyn Hlaalu\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme Hlaalu
+Radi_SK_Quest20	|Départ : Bolfrida Brandevin\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme Brandevin
+Radi_SK_Quest21	|Départ : Katla\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme de Katla
+Radi_SK_Quest22	|Départ : Severio Pelagia\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme de Pelagia
+Radi_SK_Quest23	|Départ : Synda Llanith\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme de l'Allégresse
+Radi_SK_Quest24	|Départ : Tulvur\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme des baies de givre
+Radi_SK_Quest25	|Départ : Vigdis Salvius\nRésumé : Être payé pour avoir fait la récolte.\nLieu : Ferme Salvius
+Radi_SK_Quest26	|Départ : Annekke Saute-Roc\nRésumé : Tuer le chef des bandits.\nLieu : Gué du Sombreflot.
+Radi_SK_Quest27	|Départ : Dushnamub\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Dévinoir.
+Radi_SK_Quest28	|Départ : Gestur Brise-Roc\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Vaseroc.
+Radi_SK_Quest29	|Départ : Gharol\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Dushnikh.
+Radi_SK_Quest30	|Départ : Grogmar gro-Burzag\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Ventrerouge.
+Radi_SK_Quest31	|Départ : Kjeld\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Brûlevapeur.
+Radi_SK_Quest32	|Départ : Pavo Attius\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Kolskeggr.
+Radi_SK_Quest33	|Départ : Perth\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Doline de Soljund.
+Radi_SK_Quest34	|Départ : Shuftharz\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Mor Khazgur.
+Radi_SK_Quest35	|Départ : Skaggi le Balafré\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Maingauche.
+Radi_SK_Quest36	|Départ : Thorgar\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Sifflotte.
+Radi_SK_Quest37	|Départ : Verner Lance-Roc\nRésumé : Être payé pour avoir extrait du minerai.\nLieu : Mine de Doroc.
+Radi_SK_Quest38	|Départ : Chef Burguk\nRésumé : Se battre avec le chef Burguk pour prouver votre valeur.\nLieu : Dushnikh Yal.
+Radi_SK_Quest39	|Départ : Chef Larak\nRésumé : Se battre avec le chef Larak pour prouver votre valeur.\nLieu : Mor Khazgur.
+Radi_SK_Quest40	|Départ : Chef Mauhulakh\nRésumé : Se battre avec le chef Mauhulakh pour prouver votre valeur.\nLieu : Narzulbur.
+----------------------------------------------------------------------------
+Clockwork_Quest00	|Départ : Automatique\nPrérequis : Niveau 5.\nNote : Cette quête se déclenchera pendant vos voyages dans les régions sauvages de Bordeciel. Il n'est pas conseillé d'emmener des compagnons et il n'y a aucun moyen de rentrer en Bordeciel avant d'avoir terminé la série de quêtes.
+Clockwork_Quest01	|Départ : Automatique\nPrérequis : Avoir terminé 'Au pied de la montagne'.
+Clockwork_Quest02	|Départ : Automatique\nPrérequis : Avoir terminé 'Une ombre sous la montagne'.
+Clockwork_Quest03	|Départ : Lamashtu\nPrérequis : Avoir commencé 'À vapeur'.
+Clockwork_Quest04	|Départ : Automatique\nPrérequis : Avoir terminé 'Coeur de cristal'.
+Clockwork_Quest05	|Départ : Lahar\nPrérequis : Aucun.
+Clockwork_Quest06	|Départ : Lahar\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+Falskaar_Quest00	|Départ : Jalamar (Faillaise)\nPrérequis : Aucun.\nNote : Très rarement, il est possible que Jalamar soit mort ou disparu à Faillaise. Ça ne casse pas la quête pour autant. Il suffit de se rendre à la mine de l'Écho lointain et d'y ramasser le Lexique ce qui lancera la quête.
+Falskaar_Quest01	|Départ : Automatique pendant 'Un ancien portail'\nPrérequis : Aucun.
+Falskaar_Quest02	|Départ : Jarl Agnar (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest03	|Départ : Jarl Agnar (Ambreval)\nPrérequis : Aucun.\nNote : Parfois, le jeu plante après avoir sauté dans l'étang. Relancer le jeu résout ce problème.
+Falskaar_Quest04	|Départ : Jarl Agnar (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest05	|Départ : Frère Thorlogh\nPrérequis : Aucun.\nNote : Si vous passez le dialogue à la fin de la quête, la quête suivante ne commencera pas.
+Falskaar_Quest06	|Départ : Jarl Agnar (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest07	|Départ : Jarl Agnar (Ambreval)\nPrérequis : Aucun.\nNote : Parfois, après avoir éliminé les soldats d'Émeraude et parlé à Ulgar pour attaquer Staalgarde, l'écran devient noir et le jeu plante.
+Falskaar_Quest08	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il est possible qu'après avoir attendu quelques heures, puis être entré dans le temple, les PNJs requis n'entrent toujours pas dans le temple.
+Falskaar_Quest09	|Départ : Rangarr (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest10	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il y a plus d'une façon de déclencher cette quête ; parlez à autant de monde possible.
+Falskaar_Quest11	|Départ : Henrik (Quais de Falskaar)\nPrérequis : Aucun.
+Falskaar_Quest12	|Départ : Freya (Quais de Falskaar)\nPrérequis : Aucun.
+Falskaar_Quest13	|Départ : Kalevi (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest14	|Départ : Oudin (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest15	|Départ : Wulf (Quais de Falskaar)\nPrérequis : Aucun.\nNote : Pour les joueurs avec peu d'argent, terminer la quête 'La Dame du phare' fera passer le coût du voyage de 500 à 100 pièces d'or.
+Falskaar_Quest16	|Départ : Automatique (Quais de Falskaar)\nPrérequis : Aucun.
+Falskaar_Quest17	|Départ : Automatique\nPrérequis : Aucun.
+Falskaar_Quest18	|Départ : Héléna (Ferme d'Audmund)\nPrérequis : Aucun.\nNote : Il est déconseillé de suivre les marqueurs de quête au fort Mammouth, car tout compagnon ou créature invoquée sera immédiatement détecté par tout les ennemis dans le fort. Prenez l'entrée cachée dans l'une des tours ou trouvez l'entrée de la mine près du quai pour une entrée plus discrète.
+Falskaar_Quest19	|Départ : Jalma (Ambreval)\nPrérequis : Aucun.\nNote : Après la fin des couloirs, une porte mène à une petite chute. En raison de problèmes de navmesh, les compagnons ne pourront pas descendre et devront retourner dans le tunnel pour sortir.
+Falskaar_Quest20	|Départ : Wulf (Quais de Falskaar)\nPrérequis : Aucun.
+Falskaar_Quest21	|Départ : Klara (Ambreval)\nPrérequis : Aucun.\nNote : Selon le niveau du personnage, cette quête peut s'avérer très difficile en raison du nombre de nécromanciens de haut niveau dans les sources chaudes.
+Falskaar_Quest22	|Départ : Frère Arnand (Prieuré de Bailun)\nPrérequis : Aucun.\nNote : Il peut être impossible d'interagir avec le journal d'Arnand en entrant dans le repaire. Sauvegarder et charger la sauvegarde résout le problème.
+Falskaar_Quest23	|Départ : Kunnari (Ambreval)\nPrérequis : Aucun.
+Falskaar_Quest24	|Départ : Audmund (Ferme d'Audmund)\nPrérequis : Aucun.
+Falskaar_Quest25	|Départ : Galen (Quais de Falskaar)\nPrérequis : Aucun.\nNote : Les options de dialogue avec Galen à la fin de cette quête peuvent permettre d'obtenir une récompense plus importante que 25 pièces d'or.
+----------------------------------------------------------------------------
+HelgenReborn_Quest00	|Départ : Automatique, au chargement du jeu\nPrérequis : Aucun.
+HelgenReborn_Quest01	|Départ : Automatique\nPrérequis : Avoir terminé 'Renaissance d'Helgen'.
+HelgenReborn_Quest02	|Départ : Marcus Jannus pendant 'Moments de désespoir'\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest03	|Départ : Marcus Jannus\nPrérequis : Avoir terminé 'Moments de désespoir'.
+HelgenReborn_Quest04	|Départ : Valerius pendant 'Une ville sur une colline'\nPrérequis : Avoir commencé 'Une ville sur une colline'.
+HelgenReborn_Quest05	|Départ : Cienna\nPrérequis : Terminer 'Une ville sur une colline', porter une amulette de Mara, parler au prêtre de Faillaise du mariage.
+HelgenReborn_Quest06	|Départ : Automatique\nPrérequis : Terminer 'Une ville sur une colline'.
+HelgenReborn_Quest07	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest08	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest09	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest10	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest11	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest12	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest13	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest14	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest15	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest16	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest17	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest18	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest19	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest20	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest21	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest22	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest23	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+HelgenReborn_Quest24	|Départ : Korst\nPrérequis : Avoir commencé 'Moments de désespoir'.
+----------------------------------------------------------------------------
+Moonpath_Quest00	|Départ : Automatique\nPrérequis : Aucun.\nNote : Si le patch non officiel du voyage en Elsweyr est installé, la quête 'La technique de la Voix' doit être terminée.
+Moonpath_Quest01	|Départ : Yura\nPrérequis : Avoir terminé 'Par la lumière de la lune'.
+Moonpath_Quest02	|Départ : Mervar\nPrérequis : Avoir commencé 'Le goût sucré d'Elsweyr'.
+Moonpath_Quest03	|Départ : Khulan\nPrérequis : Avoir terminé 'Incursion'.
+Moonpath_Quest04	|Départ : Automatique\nPrérequis : Avoir terminé 'Reconstruire le passé' et fondé la Société des Explorateurs.\nNote : Cette quête démarre 5 jours après avoir terminé 'Reconstruire le passé'.
+Moonpath_Quest05	|Départ : Erid'or\nPrérequis : Avoir commencé 'Le goût sucré d'Elsweyr'.
+Moonpath_Quest06	|Départ : Automatique (Atteindre le poste de ravitaillement)\nPrérequis : Avoir commencé 'Incursion'.
+----------------------------------------------------------------------------
+MoonAndStar_Quest00	|Départ : Messager ou Mandyn Hlaalu\nPrérequis : Aucun.
+MoonAndStar_Quest01	|Départ : Albert\nPrérequis : Aucun.
+MoonAndStar_Quest02	|Départ : Bal-Ran\nPrérequis : Aucun.
+MoonAndStar_Quest03	|Départ : Belvadyr Rathvasi\nPrérequis : Aucun.
+MoonAndStar_Quest04	|Départ : Selyse Andrathil\nPrérequis : Aucun.
+MoonAndStar_Quest05	|Départ : Toren Darrosa\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+ProjectAHO_Quest00	|Départ : Automatique\nPrérequis : Niveau 15.
+ProjectAHO_Quest01	|Départ : Shanath Selthri\nPrérequis : Avoir terminé 'Mauvais endroit, mauvais moment'.
+ProjectAHO_Quest02	|Départ : Shanath Selthri\nPrérequis : Avoir terminé 'Un voisin problématique'.
+ProjectAHO_Quest03	|Départ : Shanath Selthri\nPrérequis : Avoir terminé 'Pas de cadavre, pas d'affaire'.
+ProjectAHO_Quest04	|Départ : Automatique\nPrérequis : Avoir terminé 'Une boisson d'érudit'.
+ProjectAHO_Quest05	|Départ : Marisa Verendas\nPrérequis : Avoir terminé 'L'héritage d'une race éteinte'.
+ProjectAHO_Quest06	|Départ : Ramasser le levier à Bkhalzarf\nPrérequis : Avoir commencé 'Liberté de choix'.
+ProjectAHO_Quest07	|Départ : Tamina Elenil\nPrérequis : Aucun.
+ProjectAHO_Quest08	|Départ : Tadys Andavel\nPrérequis : Aucun.
+ProjectAHO_Quest09	|Départ : Zarona Orys\nPrérequis : Aucun.
+ProjectAHO_Quest10	|Départ : Shaglak\nPrérequis : Aucun.
+ProjectAHO_Quest11	|Départ : Erver Milo\nPrérequis : Aucun.
+ProjectAHO_Quest12	|Départ : Aryni Sendu\nPrérequis : Aucun.
+ProjectAHO_Quest13	|Départ : Merano Rendo\nPrérequis : Aucun.
+ProjectAHO_Quest14	|Départ : Selveni Andavel\nPrérequis : Aucun.
+ProjectAHO_Quest15	|Départ : Kuovin Nrezalf\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+TeldrynSerious_Quest00	|Départ : Lire la note sur les quais de Corberoc.\nPrérequis : Avoir accès à Solstheim.\nNote : Teldryn Sero, Geldis Sadri, Dreyla Alor, le capitaine Veleth, Brunwulf Libre-Hiver et Neloth doivent être en vie.
+TeldrynSerious_Quest01	|Départ : Lire la note brûlée sur le cadavre.\nPrérequis : Avoir commencé 'Investigation'.
+TeldrynSerious_Quest02	|Départ : Brunwulf Libre-Hiver\nPrérequis : Avoir commencé 'Une question de confiance'.\nNote : Parlez à Brunwulf Libre-Hiver et écoutez tous les dialogues après 'À propos de la ferme Libre-Hiver...'.
+----------------------------------------------------------------------------
+WheelsOfLull_Quest00	|Départ : Voyage rapide dans n'importe quel village\nPrérequis : Niveau 16+.
+WheelsOfLull_Quest01	|Départ : Numinar\nPrérequis : Niveau 16+ et avoir terminé 'Dans les profondeurs'.
+WheelsOfLull_Quest02	|Départ : Numinar\nPrérequis : Niveau 20+ et avoir terminé 'L'espion qui venait du ciel'.
+WheelsOfLull_Quest03	|Départ : Numinar\nPrérequis : Niveau 20+ et avoir terminé 'Le Mer du Haut Château'.
+WheelsOfLull_Quest04	|Départ : Numinar\nPrérequis : Niveau 25+ et avoir terminé 'La Fonderie bouillante'.
+WheelsOfLull_Quest05	|Départ : Numinar\nPrérequis : Niveau 30+ et avoir terminé 'La Forêt d'airain'.
+WheelsOfLull_Quest06	|Départ : Numinar\nPrérequis : Niveau 30+ et avoir terminé 'Au fin fond du monde'.
+WheelsOfLull_Quest07	|Départ : Activer le Gardien\nPrérequis : Avoir terminé 'Dans les profondeurs'
+WheelsOfLull_Quest08	|Départ : Mari de Subori\nPrérequis : Aucun.
+WheelsOfLull_Quest09	|Départ : Medeliu Hammar\nPrérequis : Aucun.
+WheelsOfLull_Quest10	|Départ : Monter dans le tram à Lull-Mor\nPrérequis : Aucun.
+WheelsOfLull_Quest11	|Départ : Tuer l'atronach bouillant\nPrérequis : Aucun.
+WheelsOfLull_Quest12	|Départ : Utiliser le Télévateur\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+GrayCowl_Quest00	|Départ : Automatique\nPrérequis : Voler quelque chose, normalement ou à la tire.\nNote : Cette quête est fortement axée sur la furtivité : elle sera beaucoup plus facile si vous avez des compétences élevées en furtivité, crochetage, vol à la tire et illusion. Il est conseillé de ne pas amener de compagnons.
+GrayCowl_Quest01	|Départ : Automatique\nPrérequis : Avoir commencé 'L'appel du Capuchon gris de Nocturne'.
+GrayCowl_Quest02	|Départ : Seviana Umbranox\nPrérequis : Avoir terminé 'Souvenirs des Umbranox'.
+GrayCowl_Quest03	|Départ : Lire un journal de Caio\nPrérequis : Avoir commencé 'L'appel du Capuchon gris de Nocturne'.
+GrayCowl_Quest04	|Départ : Automatique (Cité oubliée)\nPrérequis : Avoir commencé 'L'appel du Capuchon gris de Nocturne'.
+GrayCowl_Quest05	|Départ : Automatique\nPrérequis : Avoir commencé 'L'appel du Capuchon gris de Nocturne'.\nNote : Vous pouvez trouver les restes de Valen Dreth dans la prison de la Cité impériale.
+GrayCowl_Quest06	|Départ : Tableau d'affichage de Ben Erai\nPrérequis : Aucun.
+GrayCowl_Quest07	|Départ : Tableau d'affichage de Ben Erai\nPrérequis : Aucun.
+GrayCowl_Quest08	|Départ : Tableau d'affichage de Ben Erai\nPrérequis : Aucun.
+GrayCowl_Quest09	|Départ : Tableau d'affichage de Ben Erai\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+Undeath_Quest00	|Départ : Automatique\nPrérequis : Niveau 30+.
+Undeath_Quest01	|Départ : Automatique pendant 'Dans leurs pas'\nPrérequis : Avoir commencé 'Dans leurs pas'.
+Undeath_Quest02	|Départ : Automatique pendant 'Dans leurs pas'\nPrérequis : Avoir commencé 'Dans leurs pas'.
+Undeath_Quest03	|Départ : Automatique pendant 'Dans leurs pas'\nPrérequis : Avoir commencé 'Dans leurs pas'.
+Undeath_Quest04	|Départ : Automatique\nPrérequis : 'Arkay, l'ennemi' et 'Alchimie infernale'.
+Undeath_Quest05	|Départ : Automatique\nPrérequis : Avoir terminé 'Arkay, l'ennemi'.\nNote : Cette quête ne peut être obtenue qu'en tuant le prêtre captif pendant la quête 'Arkay, l'ennemi'.
+Undeath_Quest06	|Départ : Automatique\nPrérequis : Avoir terminé 'Livre noir - Les Murmures du Voile'.
+----------------------------------------------------------------------------
+Wyrmstooth_Quest00	|Départ : Théodyn Bienne\nPrérequis : Niveau 10+ et avoir terminé 'La technique de la Voix' (configurable via MCM).
+Wyrmstooth_Quest01	|Départ : Automatique\nPrérequis : Avoir terminé 'Vouivrecroc'.
+Wyrmstooth_Quest02	|Départ : Lire la note (Colonie minière)\nPrérequis : Aucun.
+Wyrmstooth_Quest03	|Départ : Lire la note de Dunyick (Colonie minière)\nPrérequis : Aucun.
+Wyrmstooth_Quest04	|Départ : Lire la note d'Amon (Avant-poste de Stendarr)\nPrérequis : Aucun.
+Wyrmstooth_Quest05	|Départ : Lire la note (Camp des Sombrages)\nPrérequis : Aucun.
+Wyrmstooth_Quest06	|Départ : Dunyick (Campement de Dunyick)\nPrérequis : Aucun.
+Wyrmstooth_Quest07	|Départ : Bolmar (Bosquet de Gronndal)\nPrérequis : Aucun.
+Wyrmstooth_Quest08	|Départ : Entrer dans un bâtiment de Fort Valus\nPrérequis : Aucun.
+Wyrmstooth_Quest09	|Départ : Shargam (Colonie minière)\nPrérequis : Avoir terminé la quête principale de Vouivrecroc.
+Wyrmstooth_Quest10	|Départ : Athir (Colonie minière)\nPrérequis : Avoir terminé la quête principale de Vouivrecroc.
+Wyrmstooth_Quest11	|Départ : Daenlit (Colonie minière)\nPrérequis : Avoir terminé la quête principale de Vouivrecroc.
+Wyrmstooth_Quest12	|Départ : Lire 'Histoire de Vouivrecroc' ou entrer dans le tombeau de Vulom\nPrérequis : Aucun.
+Wyrmstooth_Quest13	|Départ : Alberthor\nPrérequis : Avoir terminé 'Le Tertre de la Guivre'.
+Wyrmstooth_Quest14	|Départ : Alberthor\nPrérequis : Avoir terminé 'Le Tertre de la Guivre'.
+Wyrmstooth_Quest15	|Départ : Lire la note de Fjeimir au camp d'Ossegivre\nPrérequis : Aucun.
+Wyrmstooth_Quest16	|Départ : Elmera\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+TBOO_Quest00	|Départ : Lire la note d'un étranger (Messager)\nPrérequis : Avoir terminé la Confrérie noire (non détruite).
+TBOO_Quest01	|Départ : Mère de la Nuit\nPrérequis : Avoir terminé 'Renaissance'.
+TBOO_Quest02	|Départ : Lire la note suspecte\nPrérequis : Avoir terminé 'Souvenirs enfouis'.
+TBOO_Quest03	|Départ : Automatique\nPrérequis : Avoir terminé 'Ce qu'il reste'.
+TBOO_Quest04	|Départ : Automatique\nPrérequis : Avoir terminé 'L'Enfant des Ténèbres'.
+TBOO_Quest05	|Départ : Automatique\nPrérequis : Sélectionner l'option de dialogue 'Faufilons-nous...' pendant la quête 'Premiers pas'.\nNote : Cette quête doit être manuellement marquée comme terminée si vous avez choisis de ne pas vous faufiler dans la prison pendant la quête 'Premiers pas'.
+TBOO_Quest06	|Départ : Automatique\nPrérequis : Avoir terminé 'Premiers pas' et 'À pas de loup'.
+TBOO_Quest07	|Départ : Automatique\nPrérequis : Avoir terminé 'Le duo sinistre'.
+TBOO_Quest08	|Départ : Automatique\nPrérequis : Avoir terminé 'Un écho envoûtant'.
+TBOO_Quest09	|Départ : Automatique\nPrérequis : Avoir terminé 'Le goût du sang'.
+TBOO_Quest10	|Départ : Automatique\nPrérequis : Avoir terminé 'Une sorcière à Blancherive'.
+TBOO_Quest11	|Départ : Automatique\nPrérequis : Avoir terminé 'Petits meurtres en famille'.
+TBOO_Quest12	|Départ : Automatique\nPrérequis : Avoir terminé 'Un Orque entre dans un bar'.
+TBOO_Quest13	|Départ : Automatique\nPrérequis : Avoir terminé 'Une bouffée d'air frais'.
+TBOO_Quest14	|Départ : Automatique\nPrérequis : Avoir terminé 'Rivalité fraternelle'.
+TBOO_Quest15	|Départ : Automatique\nPrérequis : Avoir terminé 'Les cultes des ténèbres'.
+TBOO_Quest16	|Départ : Automatique\nPrérequis : Avoir terminé 'Deux âmes, une destinée'.
+TBOO_Quest17	|Départ : Lire la proposition (Messager)\nPrérequis : Aucun.
+TBOO_Quest18	|Départ : Lire 'Ordres de mort n°2'\nPrérequis : Avoir terminé 'Les ordres de mort'.
+TBOO_Quest19	|Départ : Lire 'Ordres de mort n°3'\nPrérequis : Avoir terminé 'Ordres de mort 2 - Le collecteur de dettes'.
+TBOO_Quest20	|Départ : Lire 'Ordres de mort n°4'\nPrérequis : Avoir terminé 'Ordres de mort 3 - L'influent'.
+TBOO_Quest21	|Départ : Lire 'Ordres de mort n°5'\nPrérequis : Avoir terminé 'Ordres de mort 4 - L'enquêteur'.
+TBOO_Quest22	|Départ : Lire 'Ordres de mort n°6'\nPrérequis : Avoir terminé 'Ordres de mort 5 - La Thalmor'.
+TBOO_Quest23	|Départ : Lire 'Ordres de mort n°7'\nPrérequis : Avoir terminé 'Ordres de mort 6 - Le partenaire'.
+TBOO_Quest24	|Départ : Azuk gro-Olpac\nPrérequis : Aucun.
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_V	|Départ : Lire une note dans une taverne\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'vanilla'.
+LOTD_Main_Quest01_V	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Vivez une nouvelle vie'.
+LOTD_Main_Quest02_V	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Maître de guilde'.
+LOTD_Main_Quest03_V	|Départ : Automatique\nPrérequis : Avoir terminé 'Akaviri Rising'.
+LOTD_Main_Quest04_V	|Départ : Automatique\nPrérequis : Aucun, cette quête commence après avoir visité le Musée.
+LOTD_Main_Quest05_V	|Départ : Aller au Musée et parler à frère Ikard\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 300 objets exposés.
+LOTD_Main_Quest06_V	|Départ : Aller au Musée et parler à Avram Shazir.\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 400 objets exposés.\nNote : Si 'Une nuit au Musée' est en cours, il faut la terminer avant.
+LOTD_Main_Quest07_V	|Départ : Byron\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 550 objets exposés.\nNote : Il faut aussi avoir terminé 'La technique de la Voix'.
+LOTD_Main_Quest08_V	|Départ : Auryen\nPrérequis : Avoir terminé 'L'Héritage brisé'.\nNote : Auryen vous parlera quand vous retournerez au Musée après avoir terminé 'L'Héritage brisé'.
+LOTD_Main_Quest09_V	|Départ : Auryen\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 75 objets exposés.\nNote : Niveau 18 requis.
+LOTD_Main_Quest10_V	|Départ : Automatique (Voyager jusqu'à Tréfonde)\nPrérequis : Avoir terminé 'L'ombre du passé' et 'Réunir les Explorateurs'.
+LOTD_Main_Quest11_V	|Départ : Auryen\nPrérequis : Aucun.\nNote : Il faut 5 jours pour que cette quête soit à nouveau disponible.
+LOTD_Main_Quest12_V	|Départ : Utiliser le pupitre de recherche dans la Bibliothèque\nPrérequis : Avoir des points de recherche.\nNote : Si vous faites une nouvelle recherche avant d'avoir terminé la précédente, vous perdrez les points dépensés.
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_N	|Départ : Lire une note dans une taverne\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'vanilla'.
+LOTD_Main_Quest01_N	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Vivez une nouvelle vie'.
+LOTD_Main_Quest02_N	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Maître de guilde'.
+LOTD_Main_Quest03_N	|Départ : Automatique\nPrérequis : Avoir terminé 'Akaviri Rising'.
+LOTD_Main_Quest04_N	|Départ : Automatique\nPrérequis : Aucun, cette quête commence après avoir visité le Musée.
+LOTD_Main_Quest05_N	|Départ : Aller au Musée et parler à frère Ikard\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 300 objets exposés.
+LOTD_Main_Quest06_N	|Départ : Aller au Musée et parler à Avram Shazir.\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 600 objets exposés.\nNote : Si 'Une nuit au Musée' est en cours, il faut la terminer avant.
+LOTD_Main_Quest07_N	|Départ : Byron\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 1200 objets exposés.\nNote : Il faut aussi avoir terminé 'La technique de la Voix'.
+LOTD_Main_Quest08_N	|Départ : Auryen\nPrérequis : Avoir terminé 'L'Héritage brisé'.\nNote : Auryen vous parlera quand vous retournerez au Musée après avoir terminé 'L'Héritage brisé'.
+LOTD_Main_Quest09_N	|Départ : Auryen\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 75 objets exposés.\nNote : Niveau 18 requis.
+LOTD_Main_Quest10_N	|Départ : Automatique (Voyager jusqu'à Tréfonde)\nPrérequis : Avoir terminé 'L'ombre du passé' et 'Réunir les Explorateurs'.
+LOTD_Main_Quest11_N	|Départ : Auryen\nPrérequis : Aucun.\nNote : Il faut 5 jours pour que cette quête soit à nouveau disponible.
+LOTD_Main_Quest12_N	|Départ : Utiliser le pupitre de recherche dans la Bibliothèque\nPrérequis : Avoir des points de recherche.\nNote : Si vous faites une nouvelle recherche avant d'avoir terminé la précédente, vous perdrez les points dépensés.
+----------------------------------------------------------------------------
+LOTD_Main_Quest00_E	|Départ : Lire une note dans une taverne\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'vanilla'.
+LOTD_Main_Quest01_E	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Vivez une nouvelle vie'.
+LOTD_Main_Quest02_E	|Départ : Automatique\nPrérequis : Aucun.\nNote : Il s'agit du départ de quête 'Maître de guilde'.
+LOTD_Main_Quest03_E	|Départ : Automatique\nPrérequis : Avoir terminé 'Akaviri Rising'.
+LOTD_Main_Quest04_E	|Départ : Automatique\nPrérequis : Aucun, cette quête commence après avoir visité le Musée.
+LOTD_Main_Quest05_E	|Départ : Aller au Musée et parler à frère Ikard\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 300 objets exposés.
+LOTD_Main_Quest06_E	|Départ : Aller au Musée et parler à Avram Shazir.\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 1200 objets exposés.\nNote : Si 'Une nuit au Musée' est en cours, il faut la terminer avant.
+LOTD_Main_Quest07_E	|Départ : Byron\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 2400 objets exposés.\nNote : Il faut aussi avoir terminé 'La technique de la Voix'.
+LOTD_Main_Quest08_E	|Départ : Auryen\nPrérequis : Avoir terminé 'L'Héritage brisé'.\nNote : Auryen vous parlera quand vous retournerez au Musée après avoir terminé 'L'Héritage brisé'.
+LOTD_Main_Quest09_E	|Départ : Auryen\nPrérequis : Avoir terminé 'Une perspective intéressante' et atteint 75 objets exposés.\nNote : Niveau 18 requis.
+LOTD_Main_Quest10_E	|Départ : Automatique (Voyager jusqu'à Tréfonde)\nPrérequis : Avoir terminé 'L'ombre du passé' et 'Réunir les Explorateurs'.
+LOTD_Main_Quest11_E	|Départ : Auryen\nPrérequis : Aucun.\nNote : Il faut 5 jours pour que cette quête soit à nouveau disponible.
+LOTD_Main_Quest12_E	|Départ : Utiliser le pupitre de recherche dans la Bibliothèque\nPrérequis : Avoir des points de recherche.\nNote : Si vous faites une nouvelle recherche avant d'avoir terminé la précédente, vous perdrez les points dépensés.
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_V	|Départ : Auryen\nPrérequis : Avoir atteint 150 objets exposés.
+LOTD_Exp_Quest01_V	|Départ : Lire la note sur le bureau du siège de guilde\nPrérequis : Avoir terminé 'Chambre avec vue'.\nNote : Parfois, les explorateurs auxquels vous avez parlé ne sont pas recrutés et il faut leur parler à nouveau.
+LOTD_Exp_Quest02_V	|Départ : Marassi\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 400 objets exposés.\nNote : Le combat contre le dragon à la tour ouest de Blancherive doit être terminé pour que cette quête commence.
+LOTD_Exp_Quest03_V	|Départ : Marassi\nPrérequis : 10 jours après 'Les fouilles du col de Parlevent' et avoir atteint 400 objets exposés.
+LOTD_Exp_Quest04_V	|Départ : Fantôme près de la grotte de Tiremuraille\nPrérequis : Avoir terminé 'Beaucoup de bruit pour les Elfes des neiges' et 'Les fouilles des ruines de Rkund' et atteint 400 objets exposés.\nNote : Il est recommandé de terminer d'abord les trois stations d'exploration, car elles ne seront plus disponibles par la suite.
+LOTD_Exp_Quest05_V	|Départ : Automatique\nPrérequis : 3 jours après 'Le Visage' et avoir atteint 400 objets exposés.\nNote : Pour accomplir cette quête, vous devez avoir accès à la fissure glaciale du Val oublié.
+LOTD_Exp_Quest06_V	|Départ : Automatique\nPrérequis : Avoir commencé 'Fouilles du col de Parlevent'.\nNote : Pendant les fouilles, six fragments peuvent être trouvés et cette quête commencera après avoir pris le premier.
+LOTD_Exp_Quest07_V	|Départ : Automatique\nPrérequis : Trouver les schémas dwemers dans la tour de Karagas.
+LOTD_Exp_Quest08_V	|Départ : Lire le journal de Malrus\nPrérequis : Aucun.
+LOTD_Exp_Quest09_V	|Départ : Lire la carte de Kamahl\nPrérequis : Avoir terminé 'Chambre avec vue' et 'Réunir les Explorateurs'.\nNote : Les reliques et les noms des explorateurs correspondent en fait à des membres de l'équipe de développement ou à des contributeurs clés du développement de Legacy of the Dragonborn.
+LOTD_Exp_Quest10_V	|Départ : Marassi\nPrérequis : Avoir terminé 'Sous Saarthal', 'Réunir les Explorateurs' et atteint 150 objets exposés.
+LOTD_Exp_Quest11_V	|Départ : Marassi\nPrérequis : Avoir terminé 'La mine de Cidhna' et 'Réunir les Explorateurs' et atteint 150 objets exposés.
+LOTD_Exp_Quest12_V	|Départ : Marassi\nPrérequis : Avoir terminé 'Une légende interdite' et 'Réunir les Explorateurs' et atteint 150 objets exposés.
+LOTD_Exp_Quest13_V	|Départ : Latoria\nPrérequis : Avoir terminé 'Réunir les Explorateurs'.\nNote : Cette quête vous récompensera par une carte au trésor, un livre ou des parchemins de sort.
+LOTD_Exp_Quest14_V	|Départ : Automatique\nPrérequis : Aucun.\nNote : Utilisez le sextant de Schneider ou le pouvoir 'Localisation de relique'.
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_N	|Départ : Auryen\nPrérequis : Avoir atteint 150 objets exposés.
+LOTD_Exp_Quest01_N	|Départ : Lire la note sur le bureau du siège de guilde\nPrérequis : Avoir terminé 'Chambre avec vue'.\nNote : Parfois, les explorateurs auxquels vous avez parlé ne sont pas recrutés et il faut leur parler à nouveau.
+LOTD_Exp_Quest02_N	|Départ : Marassi\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 950 objets exposés.\nNote : Le combat contre le dragon à la tour ouest de Blancherive doit être terminé pour que cette quête commence.
+LOTD_Exp_Quest03_N	|Départ : Marassi\nPrérequis : 10 jours après 'Les fouilles du col de Parlevent' et avoir atteint 1150 objets exposés.
+LOTD_Exp_Quest04_N	|Départ : Fantôme près de la grotte de Tiremuraille\nPrérequis : Avoir terminé 'Beaucoup de bruit pour les Elfes des neiges' et 'Les fouilles des ruines de Rkund' et atteint 1350 objets exposés.\nNote : Il est recommandé de terminer d'abord les trois stations d'exploration, car elles ne seront plus disponibles par la suite.
+LOTD_Exp_Quest05_N	|Départ : Automatique\nPrérequis : 3 jours après 'Le Visage' et avoir atteint 1350 objets exposés\nNote : Pour accomplir cette quête, vous devez avoir accès à la fissure glaciale du Val oublié.
+LOTD_Exp_Quest06_N	|Départ : Automatique\nPrérequis : Avoir commencé 'Fouilles du col de Parlevent'.\nNote : Pendant les fouilles, six fragments peuvent être trouvés et cette quête commencera après avoir pris le premier.
+LOTD_Exp_Quest07_N	|Départ : Automatique\nPrérequis : Trouver les schémas dwemers dans la tour de Karagas.
+LOTD_Exp_Quest08_N	|Départ : Lire le journal de Malrus\nPrérequis : Aucun.
+LOTD_Exp_Quest09_N	|Départ : Lire la carte de Kamahl\nPrérequis : Avoir terminé 'Chambre avec vue' et 'Réunir les Explorateurs'.\nNote : Les reliques et les noms des explorateurs correspondent en fait à des membres de l'équipe de développement ou à des contributeurs clés du développement de Legacy of the Dragonborn.
+LOTD_Exp_Quest10_N	|Départ : Marassi\nPrérequis : Avoir terminé 'Sous Saarthal', 'Réunir les Explorateurs' et atteint 350 objets exposés.
+LOTD_Exp_Quest11_N	|Départ : Marassi\nPrérequis : Avoir terminé 'La mine de Cidhna' et 'Réunir les Explorateurs' et atteint 550 objets exposés.
+LOTD_Exp_Quest12_N	|Départ : Marassi\nPrérequis : Avoir terminé 'Une légende interdite' et 'Réunir les Explorateurs' et atteint 750 objets exposés.
+LOTD_Exp_Quest13_N	|Départ : Latoria\nPrérequis : Avoir terminé 'Réunir les Explorateurs'.\nNote : Cette quête vous récompensera par une carte au trésor, un livre ou des parchemins de sort.
+LOTD_Exp_Quest14_N	|Départ : Automatique\nPrérequis : Aucun.\nNote : Utilisez le sextant de Schneider ou le pouvoir 'Localisation de relique'.
+----------------------------------------------------------------------------
+LOTD_Exp_Quest00_E	|Départ : Auryen\nPrérequis : Avoir atteint 150 objets exposés.
+LOTD_Exp_Quest01_E	|Départ : Lire la note sur le bureau du siège de guilde\nPrérequis : Avoir terminé 'Chambre avec vue'.\nNote : Parfois, les explorateurs auxquels vous avez parlé ne sont pas recrutés et il faut leur parler à nouveau.
+LOTD_Exp_Quest02_E	|Départ : Marassi\nPrérequis : Avoir terminé 'L'ombre du passé' et atteint 1900 objets exposés.\nNote : Le combat contre le dragon à la tour ouest de Blancherive doit être terminé pour que cette quête commence.
+LOTD_Exp_Quest03_E	|Départ : Marassi\nPrérequis : 10 jours après 'Les fouilles du col de Parlevent' et avoir atteint 2300 objets exposés.
+LOTD_Exp_Quest04_E	|Départ : Fantôme près de la grotte de Tiremuraille\nPrérequis : Avoir terminé 'Beaucoup de bruit pour les Elfes des neiges' et 'Les fouilles des ruines de Rkund' et atteint 2700 objets exposés.\nNote : Il est recommandé de terminer d'abord les trois stations d'exploration, car elles ne seront plus disponibles par la suite.
+LOTD_Exp_Quest05_E	|Départ : Automatique\nPrérequis : 3 jours après 'Le Visage' et avoir atteint 2700 objets exposés\nNote : Pour accomplir cette quête, vous devez avoir accès à la fissure glaciale du Val oublié.
+LOTD_Exp_Quest06_E	|Départ : Automatique\nPrérequis : Avoir commencé 'Fouilles du col de Parlevent'.\nNote : Pendant les fouilles, six fragments peuvent être trouvés et cette quête commencera après avoir pris le premier.
+LOTD_Exp_Quest07_E	|Départ : Automatique\nPrérequis : Trouver les schémas dwemers dans la tour de Karagas.
+LOTD_Exp_Quest08_E	|Départ : Lire le journal de Malrus\nPrérequis : Aucun.
+LOTD_Exp_Quest09_E	|Départ : Lire la carte de Kamahl\nPrérequis : Avoir terminé 'Chambre avec vue' et 'Réunir les Explorateurs'.\nNote : Les reliques et les noms des explorateurs correspondent en fait à des membres de l'équipe de développement ou à des contributeurs clés du développement de Legacy of the Dragonborn.
+LOTD_Exp_Quest10_E	|Départ : Marassi\nPrérequis : Avoir terminé 'Sous Saarthal', 'Réunir les Explorateurs' et atteint 700 objets exposés.
+LOTD_Exp_Quest11_E	|Départ : Marassi\nPrérequis : Avoir terminé 'La mine de Cidhna' et 'Réunir les Explorateurs' et atteint 1100 objets exposés.
+LOTD_Exp_Quest12_E	|Départ : Marassi\nPrérequis : Avoir terminé 'Une légende interdite' et 'Réunir les Explorateurs' et atteint 1500 objets exposés.
+LOTD_Exp_Quest13_E	|Départ : Latoria\nPrérequis : Avoir terminé 'Réunir les Explorateurs'.\nNote : Cette quête vous récompensera par une carte au trésor, un livre ou des parchemins de sort.
+LOTD_Exp_Quest14_E	|Départ : Automatique\nPrérequis : Aucun.\nNote : Utilisez le sextant de Schneider ou le pouvoir 'Localisation de relique'.
+----------------------------------------------------------------------------
+LOTD_Journals_Quest00	|Départ : Lire le journal trouvé dans la cachette de contrebandier du Dev Aveza.\nPrérequis : Avoir accès au Dev Aveza.
+LOTD_Journals_Quest01	|Départ : Lire le journal trouvé dans la mine de la Défense brisée.\nPrérequis : Avoir accès à Solstheim.
+LOTD_Journals_Quest02	|Départ : Lire le journal trouvé aux Chutes du Saut mortel.\nPrérequis : Aucun.
+LOTD_Journals_Quest03	|Départ : Lire le journal trouvé à la Pointe d'Arquevent.\nPrérequis : Aucun.
+LOTD_Journals_Quest04	|Départ : Lire le journal trouvé dans la salle des banquets de Thirsk.\nPrérequis : Avoir accès à Solstheim.
+LOTD_Journals_Quest05	|Départ : Lire le journal trouvé dans un camp riekelin au nord de Solstheim.\nPrérequis : Avoir accès à Solstheim.
+----------------------------------------------------------------------------
+LOTD_Notes_Quest00	|Départ : Lire la note d'Auryen\nPrérequis : Avoir accès à Solstheim.\nNote : 10 jours doivent s'être écoulés depuis que vous avez visité le musée et parlé à Auryen Morellus pour la première fois.
+LOTD_Notes_Quest01	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé le sabre de Cyrus avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest02	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé le coffret du roi Orgnum avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest03	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé la Lame glacée du Monarque avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest04	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé la Pierre de Shalidor avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest05	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé le Heaume de Verdesang avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest06	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Si vous avez déjà trouvé l'Anneau du Sorcier avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest07	|Départ : Lire la note d'Auryen\nPrérequis : Avoir accès à Solstheim.\nNote : Si vous avez déjà trouvé la Cuirasse du Dragon avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+LOTD_Notes_Quest08	|Départ : Lire la note d'Auryen\nPrérequis : Aucun.\nNote : Vous pouvez soit voler les Poings dans la vitrine verrouillée dans le couloir à gauche de la salle du trône, soit soudoyer ou persuader Falk Barbebraise de vous les confier.
+LOTD_Notes_Quest09	|Départ : Lire la note d'Auryen\nPrérequis : Avoir accès à Solstheim.\nNote : Si vous avez déjà trouvé Broyeur, Garde spectrale et Lamentation avant de lire la note, la quête se termine instantanément avec une entrée de journal différente.
+----------------------------------------------------------------------------
+LOTD_Misc_Quest00	|Départ : Trouver la chambre secrète\nPrérequis : Aucun.\nNote : Faites un tour dans le Hall de l'Enfant de dragon.
+LOTD_Misc_Quest01	|Départ : Lire la note de Calcelmo (Messager)\nPrérequis : Avoir terminé 'L'expédition perdue'.\nNote : Cette quête a 3 chemins possibles : il est recommandé de les faire afin d'éviter de devoir revenir en arrière.
+LOTD_Misc_Quest02	|Départ : Greigor de la Confrérie noire\nPrérequis : Avoir accès au sanctuaire de la Confrérie noire.\nNote : Si vous décidez de détruire la Confrérie noire, vous devez faire attention à ne pas tuer tout le monde avant d'avoir terminé cette quête.
+LOTD_Misc_Quest03	|Départ : Lire le journal de Greigor\nPrérequis : Avoir terminé 'La Main de la gloire'.
+LOTD_Misc_Quest04	|Départ : Ongar Brasseur (Auberge de la Porte nocturne)\nPrérequis : Aucun.\nNote : Cette quête se décline en 2 variantes : l'une si vous avez moins de 60 en forgeage, l'autre si vous avez plus de 60 en forgeage.
+LOTD_Misc_Quest05	|Départ : Automatique (Voyager jusqu'au tertre de Blanchecrête)\nPrérequis : Avoir accès au Refuge.\nNote : Cette quête ajoutera le dispositif d'imprégnation au Refuge.
+LOTD_Misc_Quest06	|Départ : Lire le mandat d'exécution à l'avant-poste du Penitus Oculatus\nPrérequis : Aucun.\nNote : L'Armure du Seigneur est requise par une autre quête.
+LOTD_Misc_Quest07	|Départ : Lire 'Merveilles perdues d'autrefois - Vol. III'\nPrérequis : Aucun.\nNote : Cette quête peut également commencer en trouvant l'un des artefacts, mais il est recommandé de commencer en lisant le livre.
+----------------------------------------------------------------------------
+3DNPC_Main_Quest00	|Départ : Automatique\nPrérequis : Avoir terminé 'Le prisonnier aldmeri'.
+3DNPC_Main_Quest01	|Départ : Hiram (Auberge du Bois tressé)\nPrérequis : Avoir parlé à Erevan et terminé 'Une Lame dans l'ombre'.
+3DNPC_Main_Quest02	|Départ : Automatique\nPrérequis : Avoir terminé 'Une dette de sang'.
+3DNPC_Main_Quest03	|Départ : Amalee (Temple de Dibella)\nPrérequis : Avoir parlé à Amalee au temple de Dibella.
+3DNPC_Main_Quest04	|Départ : Misha (L'Oeil-de-l'Oiseau)\nPrérequis : Aucun.
+3DNPC_Main_Quest05	|Départ : Raynes\nPrérequis : Parler à Griffith.
+3DNPC_Main_Quest06	|Départ : Olivia Meronin (L'Arcanaeum)\nPrérequis : Aucun.
+3DNPC_Main_Quest07	|Départ : Messager\nPrérequis : Avoir parlé à Anum-La de Jorrvaskr.
+3DNPC_Main_Quest08	|Départ : Amicus (Dortoir d'Haelga)\nPrérequis : Aucun.
+3DNPC_Main_Quest09	|Départ : Zora la Belle/Gorr\nPrérequis : Avoir terminé 'La Belle Enfant' et rencontré Gorr à Fort-Ivar et Markarth.
+3DNPC_Main_Quest10	|Départ : Mendiant (Galeries de Markarth)\nPrérequis : Avoir terminé 'La conspiration des Parjures'.
+3DNPC_Main_Quest11	|Départ : Daenlyn Chêne-Creux\nPrérequis : Avoir terminé 'L'appel de l'honneur' et 'Frère et gardien'.
+3DNPC_Main_Quest12	|Départ : Zora la Belle\nPrérequis : Être hors de Rivebois et à l'intérieur d'une auberge avec au moins un lieu ou une conversation basée sur une quête avec Zora terminée.
+3DNPC_Main_Quest13	|Départ : Herran (Foyer gelé)\nPrérequis : Aucun.
+3DNPC_Main_Quest14	|Départ : Note anonyme (Temple des Divins de Solitude)\nPrérequis : Aucun.
+3DNPC_Main_Quest15	|Départ : Jaspar (Aubétoile)\nPrérequis : Avoir lu 'La Main de pierre' et avoir parlé à Jaspar de sa muse orque.
+3DNPC_Main_Quest16	|Départ : Corpulus (Ragnard pervers)\nPrérequis : Avoir terminé 'Tradition oubliée', 'Étoile noire' et 'L'élévation du dragon'.
+3DNPC_Main_Quest17	|Départ : Astéria (Vieux-Hroldan)\nPrérequis : Avoir parlé à Orenius et écouté 'Crépuscule sur le port d'Anvil'.
+3DNPC_Main_Quest18	|Départ : Rumarin\nPrérequis : Avoir rencontré Fjona, nettoyé la grotte de Vertemousse, n'avoir aucun compagnon, et ne pas avoir 'Du sang des rois' en cours.
+3DNPC_Main_Quest19	|Départ : Kleppr (Auberge du Sang-d'Argent)\nPrérequis : Avoir parlé à Deux-Queues.
+3DNPC_Main_Quest20	|Départ : S'vashni (Tour d'Ombrepic)\nPrérequis : Aucun.
+3DNPC_Main_Quest21	|Départ : Callen (Auberge de la Porte nocturne)\nPrérequis : Aucun.
+3DNPC_Main_Quest22	|Départ : Kjoli (Arbres au sud-est de Pierre-de-Shor)\nPrérequis : Aucun.
+3DNPC_Main_Quest23	|Départ : Viranya/Keerava\nPrérequis : Avoir parlé à Parmi-les-Hists et Rinori, reçu la bénédiction de Viranya dans la Voie des Neuf et ne pas avoir de compagnons.
+-----------------------------------------------------------------------------------------------------------------------------------------
+3DNPC_BOK_Quest00	|Départ : Elrindir (Le Chasseur ivre)\nPrérequis : Ne pas avoir de compagnons, avoir terminé 'L'élévation du dragon', 'La Belle Enfant', 'La Fosse aux chiens', 'L'appel de l'honneur' et parlé à Skjarn et Rumarin.
+3DNPC_BOK_Quest01	|Départ : Zora la Belle (Rivebois)\nPrérequis : Avoir terminé 'Du sang des rois'.
+3DNPC_BOK_Quest02	|Départ : Isobel\nPrérequis : Avoir terminé 'Du sang des rois'.
+3DNPC_BOK_Quest03	|Départ : Messager\nPrérequis : Avoir terminé 'Visages et noms' et 'Le Forgeron de sang'.
+3DNPC_BOK_Quest04	|Départ : Falatild (Rorikbourg)\nPrérequis : Avoir terminé 'Notre héraut à tous'.
+3DNPC_BOK_Quest05	|Départ : Karras (Cabane de Bois-vert)\nPrérequis : Avoir terminé 'Sang et os'.
+3DNPC_BOK_Quest06	|Départ : Helcyon (Le Chasseur ivre)\nPrérequis : Avoir terminé 'La bête qui ne peut pas être tuée'.
+-----------------------------------------------------------------------------------------------------------------------------------------
+3DNPC_DS_Quest00	|Départ : Thoring (Auberge Montvent)\nPrérequis : Avoir terminé 'Une rose sans épine', tué Nimhe, appris l'histoire de Tikrid et ne pas avoir Tikrid ni Erevan en compagnons.
+3DNPC_DS_Quest01	|Départ : Gancielo (Ragnard pervers)\nPrérequis : Avoir terminé 'Sombre acier'.
+3DNPC_DS_Quest02	|Départ : Tikrid (Solitude)\nPrérequis : Avoir terminé 'Un Daedra dans la nuit'.
+3DNPC_DS_Quest03	|Départ : Erevan (Temple de Talos)\nPrérequis : Avoir terminé 'Le chat et la souris'.
+3DNPC_DS_Quest04	|Départ : Erwen (Autel d'Azura)\nPrérequis : Avoir terminé 'Croquemort'.
+3DNPC_DS_Quest05	|Départ : Tikrid/Krillo (Aubétoile)\nPrérequis : Avoir terminé 'Pavé d'ossements'.
+-----------------------------------------------------------------------------------------------------------------------------------------
+3DNPC_Misc_Quest00	|Départ : Juryk (Cabane du crabier)\nPrérequis : Aucun.\nNote : Il s'agit d'une quête cachée qui n'apparaît pas dans le journal.
+3DNPC_Misc_Quest01	|Départ : Rumarin (Cap de Yorgrim)\nPrérequis : Avoir terminé 'Tradition oubliée' et la série de quêtes de la guilde des mages, être à l'auberge et avoir terminé une quête ou un lieu lié à une conversation avec Rumarin.
+3DNPC_Misc_Quest02	|Départ : Halcar (Friperies fantaisie)\nPrérequis : Aucun.
+3DNPC_Misc_Quest03	|Départ : Carmella (Scène avec Skjarn devant la taverne des Quatre Boucliers) \nPrérequis : Avoir terminé 'Bardes, bêtes et beautés' et parlé à Carmella (et lui avoir demandé si elle est une nécromancienne).
+3DNPC_Misc_Quest04	|Départ : Azzarian (Club de la Nouvelle Gnisis)\nPrérequis : Aucun.
+3DNPC_Misc_Quest05	|Départ : Anum-La (Faillaise)\nPrérequis : Avoir terminé 'La tribu maudite' et parlé à Anum-La à la fin de 'Du sang des rois'.
+3DNPC_Misc_Quest06	|Départ : Anum-La (Faillaise)\nPrérequis : Avoir terminé 'Mordre la main qui nourrit'.
+3DNPC_Misc_Quest07	|Départ : Ariele (Cabane d'Ariele)\nPrérequis : Aucun.
+3DNPC_Misc_Quest08	|Départ : Morndas\nPrérequis : Avoir terminé 'Mordre la main qui nourrit'.
+3DNPC_Misc_Quest09	|Départ : Keerava (Le Dard de l'abeille)\nPrérequis : Avoir parlé à Brakh au Repos du Chasseur et à l'autel de Boéthia.
+3DNPC_Misc_Quest10	|Départ : Béatrice (Camp au nord de la Redoute de Druadach)\nPrérequis : Aucun.
+3DNPC_Misc_Quest11	|Départ : Relique (Griffenoire - Quartiers de guerre)\nPrérequis : Aucun.
+3DNPC_Misc_Quest12	|Départ : Automatique\nPrérequis : Avoir terminé 'Sombre acier'.
+3DNPC_Misc_Quest13	|Départ : Cassock (Ragnard pervers)\nPrérequis : Avoir parlé à Fironet.
+3DNPC_Misc_Quest14	|Départ : Skjel (Mine perdue)\nPrérequis : Avoir recruté Skjel et lui avoir parlé.
+3DNPC_Misc_Quest15	|Départ : Ytharil (Tertre près de Dushnikh Yal et de l'aire d'Âprevent)\nPrérequis : Aucun.
+3DNPC_Misc_Quest16	|Départ : Dar'rakki (Fort-Ivar)\nPrérequis : Aucun.
+3DNPC_Misc_Quest17	|Départ : Aubergiste de Morthal ou Aubétoile\nPrérequis : Aucun.
+3DNPC_Misc_Quest18	|Départ : Pelgurt (Auberge du Candelâtre)\nPrérequis : Aucun.
+3DNPC_Misc_Quest19	|Départ : Bilbus (Refuge du voleur)\nPrérequis : Avoir approvisionné le Refuge du voleur et être un tirdas.
+3DNPC_Misc_Quest20	|Départ : Raynes (Grotte de l'Écho perdu)\nPrérequis : Aucun.
+3DNPC_Misc_Quest21	|Départ : Jilkmar (Refuge du voleur)\nPrérequis : Avoir approvisionné le Refuge du voleur et être un tirdas, middas ou fredas.
+3DNPC_Misc_Quest22	|Départ : Livre (Cave de la cabane d'Anise)\nPrérequis : Aucun.
+3DNPC_Misc_Quest23	|Départ : Mordu-Trois-Fois (Concoctions d'outre-tombe)\nPrérequis : Aucun.
+3DNPC_Misc_Quest24	|Départ : Terynne (Palais des Rois)\nPrérequis : Wuunferth doit être absent ou endormi.
+----------------------------------------------------------------------------
+Vigilant_Main_Quest00	|Départ : Altano (Auberge Montvent)\nPrérequis : Aucun.
+Vigilant_Main_Quest01	|Départ : Automatique\nPrérequis : Avoir terminé 'Vigile de Stendarr'.
+Vigilant_Main_Quest02	|Départ : Automatique\nPrérequis : Avoir terminé 'Suceur de sang'.
+Vigilant_Main_Quest03	|Départ : Automatique\nPrérequis : Avoir terminé 'L'Intouchable'.
+Vigilant_Main_Quest04	|Départ : Automatique\nPrérequis : Avoir terminé 'Un après-midi tranquille'.
+Vigilant_Main_Quest05	|Départ : Automatique\nPrérequis : Avoir terminé 'L'Oeil de la Folie'.
+Vigilant_Main_Quest06	|Départ : Automatique\nPrérequis : Avoir terminé 'Partir sans payer'.
+Vigilant_Main_Quest07	|Départ : Automatique\nPrérequis : Avoir terminé 'Ainsi parlait le Khajiit'.
+Vigilant_Main_Quest08	|Départ : Automatique\nPrérequis : Avoir terminé 'De vieux regrets'.\nNote : Karma neutre - Commencer la conversation par 'Qu'est-ce que vous faites ici ?'.
+Vigilant_Main_Quest09	|Départ : Automatique\nPrérequis : Avoir commencé 'Pas de quartier'.\nNote : Pour commencer, vous ne devez pas tuer les sorcières et vous devez tuer Altano après avoir sélectionné l'option de dialogue 'Je ne le ferai pas'. C'est la fin miséricordieuse de l'acte I.
+Vigilant_Main_Quest10	|Départ : Automatique\nPrérequis : Avoir terminé 'Pas de quartier'.\nNote : Karma positif - Défier Molag Bal avec 'Arrière...' et 'J'ai dit arrière...'.\nCette quête n'est pas disponible si vous choisissez la fin miséricordieuse et terminez la quête 'L'art de la compassion'.
+Vigilant_Main_Quest11	|Départ : Automatique\nPrérequis : Avoir terminé 'La chute sans fin'.\nNote : Cette quête n'est pas disponible si vous choisissez la fin miséricordieuse et terminez la quête 'L'art de la compassion'.
+Vigilant_Main_Quest12	|Départ : Automatique\nPrérequis : Avoir terminé 'Atterrissage'.\nRésumé : Une fois 'Atterrissage' terminé, retourner à l'étang de la sorcière et parler à Reyda.\nNote : Karma positif - Ignorez ses mensonges et dites-lui que son destin est scellé.\nCette quête n'est pas disponible si vous choisissez la fin miséricordieuse et terminez la quête 'L'art de la compassion'.
+Vigilant_Main_Quest13	|Départ : Automatique\nPrérequis : Avoir terminé 'Atterrissage' ou 'L'art de la compassion'.\nNote : Commencez cette quête en parlant au garde de Vendeaume devant le temple de Stendarr. Cette quête se terminera après avoir parlé au chambellan, 'Vestiges' et 'La Matrone du Sang'.
+Vigilant_Main_Quest14	|Départ : Automatique\nPrérequis : Avoir commencé 'Cellules vides'.\nNote : Cette quête est incluse dans 'Cellules vides'.\nNote : Karma positif - Tuez la brute vampire.\nKarma neutre - Répondez à Lamae par 'Arrière, monstre', ou attaquez-la si vous avez déjà accepté son offre.
+Vigilant_Main_Quest15	|Départ : Automatique\nPrérequis : Avoir commencé 'Cellules vides'.\nNote : Cette quête est incluse dans 'Cellules vides'.\nNote : Karma positif - Automatique en la terminant.
+Vigilant_Main_Quest16	|Départ : Automatique\nPrérequis : Avoir terminé 'Cellules vides'.\nNote : Commencez cette quête en retournant au temple de Stendarr après avoir quitté Vendeaume. Choisir l'option de la mort résulte en une absence d'exposition dans le musée pour l'acte III. Il est fortement recommandé d'accomplir cette quête en acceptant l'aide de Molag Bal.
+Vigilant_Main_Quest17	|Départ : Automatique\nPrérequis : Avoir terminé 'Enfant d'Oblivion'.\nNote : Cette quête n'apparaît pas dans le journal.
+Vigilant_Main_Quest18	|Départ : Automatique\nPrérequis : Avoir terminé 'Havreglace'.\nNote : Cette quête n'apparaît pas dans le journal. Votre karma doit être de niveau 50+ pour avoir une chance de débloquer la bonne fin.
+Vigilant_Main_Quest19	|Départ : Automatique\nPrérequis : Avoir terminé 'Aetherius'.\nNote : Cette quête n'apparaît pas dans le journal.
+Vigilant_Main_Quest20	|Départ : Automatique\nPrérequis : Avoir terminé 'Triomphe exultant'.\nNote : Cette quête n'apparaît pas dans le journal.
+Vigilant_Main_Quest21	|Départ : Anatomancien\nPrérequis : Avoir terminé l'acte IV.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Vigilant_Side_Quest00	|Départ : Bourlor\nPrérequis : Aucun.\nNote : Devient un compagnon si vous battez Vernaccus au fort Verin, que vous ramassez l'arc de Bourlor sur Vernaccus et que vous le rapportez à Bourlor.
+Vigilant_Side_Quest01	|Départ : Ver noir (Prieuré de Silorn)\nPrérequis : Aucun.\nNote : Si vous le laissez sortir (karma négatif), il ira au prieuré de Mathmalatu et deviendra marchand.\nKarma positif - Le tuer dans la prison.
+Vigilant_Side_Quest02	|Départ : Martha (Tours de guet)\nPrérequis : Aucun.\nNote : Retourner au cimetière et parler à Martha pour terminer cette quête.
+Vigilant_Side_Quest03	|Départ : Ja'zhan (Tour de la prison)\nPrérequis : Aucun.\nNote : Parler à Ja'zhan après avoir nettoyé la tour de la prison pour terminer cette quête.
+Vigilant_Side_Quest04	|Départ : Melus Petilius\nPrérequis : Aucun.\nNote : Peut être rencontré trois fois au total, la dernière étant un combat de boss.
+Vigilant_Side_Quest05	|Départ : Sire Torolf (Chapelle d'Arkay)\nPrérequis : Obtenir l'anneau d'Oeil de Sithis.\nNote : Pendant le combat de boss, frapper le mur avec le squelette d'Arkay avec l'espadon d'Anui-El révélera la porte de la nécropole.
+Vigilant_Side_Quest06	|Départ : Sire Ralvas (Tour de la prison)\nPrérequis : Aucun.\nNote : Rendre sa tête à Ralvas lui permet de devenir un compagnon.
+Vigilant_Side_Quest07	|Départ : Sire Henrik\nPrérequis : Aucun.\nNote : Peut être rencontré 4 fois au total, la dernière fois avec une décision à prendre.
+Vigilant_Side_Quest08	|Départ : Sire Juncan\nPrérequis : Aucun.\nNote : Peut être rencontré 5 fois au total, la dernière étant un combat de boss.
+Vigilant_Side_Quest09	|Départ : Roi fou Dro'Zel (Manoir Malatar)\nPrérequis : Aucun.\nRésumé : Trouver et vaincre le Roi fou Dro'Zel.
+Vigilant_Side_Quest10	|Départ : Aredhel (Ossuaire de sainte Dulsa)\nPrérequis : Aucun.\nRésumé : Vaincre Aredhel dans l'ossuaire.
+Vigilant_Side_Quest11	|Départ : Kahkaankrein (Seconde cour de l'Inquisition)\nPrérequis : Plume de Kyne et fleurs blanches.\nNote : Si vous avez la plume de Kyne dans votre inventaire, il vous la demandera et la lui donner le libérera.
+Vigilant_Side_Quest12	|Départ : Automatique\nPrérequis : Aucun.\nNote : Cette quête commence lorsque vous tuez Marukh à Malada.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Vigilant_Memory_Quest00	|Départ : Automatique\nPrérequis : Gagner le combat contre Varla au fort Welkynd.\nNote : Récupérer le crâne d'Enola pour commencer la quête de souvenir.\nKarma positif - Refuser de tuer Enola jusqu'à ce que Belharza cède.
+Vigilant_Memory_Quest01	|Départ : Automatique\nPrérequis : Aucun.\nNote : Activer la tombe de Johan pour commencer cette quête de souvenir.\nKarma positif - Refuser la masse et faire fuir le barde.
+Vigilant_Memory_Quest02	|Départ : Automatique\nPrérequis : Gagner contre Pélinal le Sanglant à la tour-barrière d'Agea.\nNote : Marchez dans le rayon lumineux rouge et confirmez que vous voulez synchroniser votre âme.\nKarma positif - Activer les menottes sur les mains de Mari, l'amener dans le hall principal et écouter Pélinal.
+Vigilant_Memory_Quest03	|Départ : Automatique\nPrérequis : Aucun.\nNote : Tuer Mari pour commencer cette quête.\nKarma positif - Ne rien dire pendant tout le discours de Pépé.
+Vigilant_Memory_Quest04	|Départ : Automatique\nPrérequis : Avoir vaincu le Roi fou Dro'Zel au manoir Malatar.\nNote : Battez-vous avec Dro'Zel dans le manoir de Malatar jusqu'à la dernière pièce où il se recroqueville à côté du cadavre d'Hasaama.\nKarma positif - Ne pas parler de Gilleval à Dro'Zel.
+Vigilant_Memory_Quest05	|Départ : Automatique\nPrérequis : Aucun.\nNote : Activez les ossements de Dulsa dans l'ossuaire de sainte Dulsa pour commencer cette quête.\nKarma positif - Tuer Marukh sans être touché(e) plus d'une fois.
+Vigilant_Memory_Quest06	|Départ : Automatique\nPrérequis : Avoir terminé 'Pélinal le Sanglant'.\nNote : Ce souvenir diffère selon le chemin que vous avez pris durant la quête de Pélinal.
+Vigilant_Memory_Quest07	|Départ : Automatique\nPrérequis : Avoir terminé 'Après la tempête'.\nNote : Ce souvenir diffère selon le chemin que vous avez pris durant la quête de Pélinal.
+Vigilant_Memory_Quest08	|Départ : Automatique\nPrérequis : Avoir terminé 'Havreglace'.\nNote : Activez le premier tas de sable étrange pour commencer cette quête, disponible uniquement si vous aviez 50 karma ou plus lorsque vous avez atteint le sommet de la tour et placé Ada Bal.
+Vigilant_Memory_Quest09	|Départ : Automatique\nPrérequis : Avoir terminé 'Havreglace'.\nNote : Activez le deuxième tas de sable étrange pour commencer cette quête, disponible uniquement si vous aviez 50 karma ou plus lorsque vous avez atteint le sommet de la tour et placé Ada Bal.\nKarma positif - Répondre à Alessia '...' et la tuer.
+Vigilant_Memory_Quest10	|Départ : Automatique\nPrérequis : Avoir terminé 'Havreglace'.\nNote : Activez le troisième tas de sable étrange après avoir battu Molag Bal pour commencer cette quête, disponible uniquement si vous aviez 50 karma ou plus lorsque vous avez atteint le sommet de la tour et placé Ada Bal.
+Vigilant_Memory_Quest11	|Départ : Automatique\nPrérequis : Avoir terminé 'Havreglace'.\nNote : Cette quête n'est disponible que si vous sélectionnez 'Ada Bal' pendant la quête 'Le Barde sans nom'.\nChangez manuellement le statut de cette quête si ce n'est pas fait automatiquement.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Vigilant_Radiant_Quest00	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest01	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest02	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest03	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest04	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest05	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest06	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest07	|Départ : Lire l'annonce sur le tableau d'affichage devant le temple de Stendarr.
+Vigilant_Radiant_Quest08	|Départ : Lire la note au sol devant l'Anatomancien dans son donjon.
+Vigilant_Radiant_Quest09	|Départ : Lire la note au sol devant l'Anatomancien dans son donjon.
+Vigilant_Radiant_Quest10	|Départ : Lire la note au sol devant l'Anatomancien dans son donjon.
+Vigilant_Radiant_Quest11	|Départ : Lire la note au sol devant l'Anatomancien dans son donjon.
+Vigilant_Radiant_Quest12	|Départ : Lire la note au sol devant l'Anatomancien dans son donjon.
+----------------------------------------------------------------------------

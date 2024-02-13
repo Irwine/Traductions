@@ -1,0 +1,410 @@
+{
+    "modName": "Apocalypse - Magic of Skyrim",
+    "displayName": "$ApocalypseSpells",
+    "minMcmVersion": 9,
+    "pluginRequirements": [],
+    "cursorFillMode": "topToBottom",
+    "content": [],
+    "customContent": {},
+    "pages": [
+        {
+            "pageDisplayName": "$General_Page",
+            "cursorFillMode": "topToBottom",
+            "content": [
+                {
+                    "type": "header",
+                    "text": "$AlterationBalance_Header"
+                },
+                {
+                    "id": "iThrummingStone:AlterationBalance",
+                    "type": "slider",
+                    "text": "$ThrummingStone",
+                    "help": "$ThrummingStoneAlterationBalance_Help",
+                    "valueOptions": {
+                        "min": 5,
+                        "max": 20,
+                        "step": 1,
+                        "defaultValue": 8,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0} Imp/Sec"
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$ConjurationBalance_Header"
+                },
+                {
+                    "id": "iAvengingWraith:ConjurationBalance",
+                    "type": "slider",
+                    "text": "$AvengingWraith",
+                    "help": "$AvengingWraithConjurationBalance_Help",
+                    "valueOptions": {
+                        "min": 25,
+                        "max": 250,
+                        "step": 25,
+                        "defaultValue": 150,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0} % du tueur"
+                    }
+                },
+                {
+                    "id": "iDremoraAssassin:ConjurationBalance",
+                    "type": "slider",
+                    "text": "$DremoraAssassin",
+                    "help": "$DremoraAssassinConjurationBalance_Help",
+                    "valueOptions": {
+                        "min": 50,
+                        "max": 500,
+                        "step": 50,
+                        "defaultValue": 250,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "Marque {0} santé"
+                    }
+                },
+                {
+                    "id": "iLich:ConjurationBalance",
+                    "type": "slider",
+                    "text": "$Lich",
+                    "help": "$LichConjurationBalance_Help",
+                    "valueOptions": {
+                        "min": 250,
+                        "max": 2500,
+                        "step": 250,
+                        "defaultValue": 500,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "Coûte {0} charge"
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$IllusionBalance_Header"
+                },
+                {
+                    "id": "iHarrowingDirge:IllusionBalance",
+                    "type": "slider",
+                    "text": "$HarrowingDirge",
+                    "help": "$HarrowingDirgeIllusionBalance_Help",
+                    "valueOptions": {
+                        "min": 5,
+                        "max": 30,
+                        "step": 5,
+                        "defaultValue": 20,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0} % max. de santé"
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$RestorationBalance_Header"
+                },
+                {
+                    "id": "iBloodseeker:RestorationBalance",
+                    "type": "slider",
+                    "text": "$Bloodseeker",
+                    "help": "$BloodseekerRestorationBalance_Help",
+                    "valueOptions": {
+                        "min": 25,
+                        "max": 300,
+                        "step": 25,
+                        "defaultValue": 175,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0} % Dmg/Soin"
+                    }
+                },
+                {
+                    "id": "iFingerofDeath:RestorationBalance",
+                    "type": "slider",
+                    "text": "$FingerofDeath",
+                    "help": "$FingerofDeathRestorationBalance_Help",
+                    "valueOptions": {
+                        "min": 50,
+                        "max": 200,
+                        "step": 25,
+                        "defaultValue": 125,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "Dmg personnel {0} %"
+                    }
+                },
+                {
+                    "id": "iWellingBlood:RestorationBalance",
+                    "type": "slider",
+                    "text": "$WellingBlood",
+                    "help": "$WellingBloodRestorationBalance_Help",
+                    "valueOptions": {
+                        "min": 40,
+                        "max": 80,
+                        "step": 5,
+                        "defaultValue": 60,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0} % max. santé perdue"
+                    }
+                },
+                {
+                    "id": "bKingsHeartImprovesCraftingSkills:RestorationBalance",
+                    "type": "toggle",
+                    "text": "$KingsHeartImprovesCraftingSkills",
+                    "help": "$KingsHeartImprovesCraftingSkillsRestorationBalance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$Features_Header",
+                    "position": 1
+                },
+                {
+                    "id": "bMindControlSpellscanaffectAnyTarget:Features",
+                    "type": "toggle",
+                    "text": "$MindControlSpellscanaffectAnyTarget",
+                    "help": "$MindControlSpellscanaffectAnyTargetFeatures_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$ExperienceGainModifiers_Header"
+                },
+                {
+                    "id": "fScriptedExperienceGain:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$ScriptedExperienceGain",
+                    "help": "$ScriptedExperienceGainExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.2,
+                        "max": 5.0,
+                        "step": 0.2,
+                        "defaultValue": 1.0,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fAtronachMark:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$AtronachMark",
+                    "help": "$AtronachMarkExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 1.0,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fBloodseeker:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$Bloodseeker",
+                    "help": "$BloodseekerExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 0.8,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fEmpathicAgony:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$EmpathicAgony",
+                    "help": "$EmpathicAgonyExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 0.5,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fHarrowingDirge:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$HarrowingDirge",
+                    "help": "$HarrowingDirgeExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 0.5,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fMagickaVoid:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$MagickaVoid",
+                    "help": "$MagickaVoidExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 1.0,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "id": "fMimicsCloak:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$MimicsCloak",
+                    "help": "$MimicsCloakExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 5.0,
+                        "max": 50.0,
+                        "step": 2.5,
+                        "defaultValue": 20.0,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{0} points"
+                    }
+                },
+                {
+                    "id": "fScreamofPain:ExperienceGainModifiers",
+                    "type": "slider",
+                    "text": "$ScreamofPain",
+                    "help": "$ScreamofPainExperienceGainModifiers_Help",
+                    "valueOptions": {
+                        "min": 0.1,
+                        "max": 1.5,
+                        "step": 0.1,
+                        "defaultValue": 0.8,
+                        "sourceType": "ModSettingFloat",
+                        "formatString": "{2}x"
+                    }
+                },
+                {
+                    "type": "empty"
+                },
+                {
+                    "type": "header",
+                    "text": "$Troubleshooting_Header"
+                },
+                {
+                    "id": "bRepopulateLeveledLists:Troubleshooting",
+                    "type": "toggle",
+                    "text": "$RepopulateLeveledLists",
+                    "help": "$RepopulateLeveledListsTroubleshooting_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                },
+                {
+                    "id": "bSpawnBackupVendor:Troubleshooting",
+                    "type": "toggle",
+                    "text": "$SpawnBackupVendor",
+                    "help": "$SpawnBackupVendorTroubleshooting_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                }
+            ]
+        },
+        {
+            "pageDisplayName": "$Maintenance_Page",
+            "cursorFillMode": "topToBottom",
+            "content": [
+                {
+                    "type": "header",
+                    "text": "$AutoloadSettings_Header"
+                },
+                {
+                    "id": "bEnabled:Maintenance",
+                    "type": "toggle",
+                    "text": "$Enabled",
+                    "help": "$EnabledMaintenance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": true
+                    }
+                },
+                {
+                    "id": "iLoadingDelay:Maintenance",
+                    "type": "slider",
+                    "text": "$LoadingDelay",
+                    "help": "$LoadingDelayMaintenance_Help",
+                    "valueOptions": {
+                        "min": 0,
+                        "max": 600,
+                        "step": 1,
+                        "defaultValue": 0,
+                        "sourceType": "ModSettingInt",
+                        "formatString": "{0}"
+                    }
+                },
+                {
+                    "id": "sLoadSettings:Maintenance",
+                    "type": "text",
+                    "text": "$LoadSettings",
+                    "help": "$LoadSettingsMaintenance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingString",
+                        "defaultValue": ""
+                    },
+                    "action": {
+                        "type": "CallFunction",
+                        "function": "Load"
+                    }
+                },
+                {
+                    "id": "sResetSettings:Maintenance",
+                    "type": "text",
+                    "text": "$ResetSettings",
+                    "help": "$ResetSettingsMaintenance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingString",
+                        "defaultValue": ""
+                    },
+                    "action": {
+                        "type": "CallFunction",
+                        "function": "Default"
+                    }
+                },
+                {
+                    "id": "bLoadSettingsonReload:Maintenance",
+                    "type": "toggle",
+                    "text": "$LoadSettingsonReload",
+                    "help": "$LoadSettingsonReloadMaintenance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                },
+                {
+                    "id": "bVerbose:Maintenance",
+                    "type": "toggle",
+                    "text": "$Verbose",
+                    "help": "$VerboseMaintenance_Help",
+                    "valueOptions": {
+                        "sourceType": "ModSettingBool",
+                        "defaultValue": false
+                    }
+                }
+            ]
+        }
+    ]
+}
